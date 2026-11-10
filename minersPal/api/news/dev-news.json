@@ -3,9 +3,9 @@
   {
    "slug": "minerspal-dev-feed",
    "title": "[DEV] MinersPal staging news feed",
-   "description": "Staging feed generated 2026-11-10T18:35:25Z. Production users read news.json.",
-   "published_at": "2026-11-10T18:35:25Z",
-   "created_at": "2026-11-10T18:35:25Z",
+   "description": "Staging feed generated 2026-11-10T18:41:06Z. Production users read news.json.",
+   "published_at": "2026-11-10T18:41:06Z",
+   "created_at": "2026-11-10T18:41:06Z",
    "url": "https://github.com/brunec22/minerspal-data",
    "source": "MinersPal"
   },
@@ -100,6 +100,15 @@
    "source": "CryptoPotato"
   },
   {
+   "slug": "canaan-can-swings-to-an-8-million-profit-on-bitcoin-gains-as-rig-sales-collapse-",
+   "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
+   "description": "Bitcoin Magazine Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96% Canaan's mining-machine sales fell to $4.8 million from $118.6 million a year earlier, but a $51.9 million fair-value gain turned an operating loss into…",
+   "published_at": "2026-11-10T17:15:25Z",
+   "created_at": "2026-11-10T17:15:25Z",
+   "url": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
+   "source": "Bitcoin Magazine"
+  },
+  {
    "slug": "polymarket-us-trading-volume-jumps-266-despite-regulatory-battles",
    "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
    "description": "Trading volume on Polymarket’s US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny.",
@@ -116,6 +125,15 @@
    "created_at": "2026-11-10T17:07:22Z",
    "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
    "source": "CoinDesk"
+  },
+  {
+   "slug": "binance-warns-ios-flaw-could-expose-wallet-seed-phrases-as-apple-s-latest-iphone",
+   "title": "Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple’s Latest iPhone Patch Stays Silent",
+   "description": "Bitcoin Magazine Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple’s Latest iPhone Patch Stays Silent Binance told iPhone users a public iOS sandbox escape called worse_query could let malicious apps read seed phrases and private keys stored by…",
+   "published_at": "2026-11-10T17:00:00Z",
+   "created_at": "2026-11-10T17:00:00Z",
+   "url": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases",
+   "source": "Bitcoin Magazine"
   },
   {
    "slug": "ai-assisted-firms-increase-flaw-disclosures-by-120-with-no-detected-repair-slowd",
@@ -188,6 +206,15 @@
    "created_at": "2026-11-10T16:19:16Z",
    "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
    "source": "The Block"
+  },
+  {
+   "slug": "miami-dade-county-now-accepts-bitcoin-for-property-taxes",
+   "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
+   "description": "Bitcoin Magazine Miami-Dade County Now Accepts Bitcoin for Property Taxes Miami-Dade Tax Collector Dariel Fernandez said Monday his office now accepts bitcoin for property taxes online and in person, with every payment converted to dollars before it reaches…",
+   "published_at": "2026-11-10T16:15:58Z",
+   "created_at": "2026-11-10T16:15:58Z",
+   "url": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
+   "source": "Bitcoin Magazine"
   },
   {
    "slug": "slower-us-inflation-leaves-waller-s-half-point-december-hike-in-play",
@@ -271,6 +298,15 @@
    "source": "Bitcoinist"
   },
   {
+   "slug": "trump-media-djt-pledges-73-of-its-bitcoin-to-an-options-program-as-1-billion-not",
+   "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
+   "description": "Bitcoin Magazine Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears Trump Media's Q3 10-Q shows 11,385 of its roughly 15,649 bitcoin pledged to an options program whose counterparty can reuse the coins, with…",
+   "published_at": "2026-11-10T15:20:00Z",
+   "created_at": "2026-11-10T15:20:00Z",
+   "url": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
+   "source": "Bitcoin Magazine"
+  },
+  {
    "slug": "proton-mail-your-crypto-security-starts-with-your-inbox",
    "title": "Proton Mail: Your Crypto Security Starts With Your Inbox",
    "description": "Security breaches have remained one of the biggest challenges facing the crypto industry. Some projects have even become defunct after devastating security attacks that wiped millions of dollars from their balance sheets. Crypto users are also frequent…",
@@ -307,6 +343,15 @@
    "source": "U.Today"
   },
   {
+   "slug": "mara-sells-13-597-bitcoin-for-1-1-billion-says-more-sales-are-coming",
+   "title": "MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming",
+   "description": "Bitcoin Magazine MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming MARA sold about 40% of its bitcoin stack after Sept. 30, used $750 million to repay all its BTC-backed term loans and said it will keep selling to fund AI infrastructure…",
+   "published_at": "2026-11-10T15:00:00Z",
+   "created_at": "2026-11-10T15:00:00Z",
+   "url": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
+   "source": "Bitcoin Magazine"
+  },
+  {
    "slug": "valour-lists-eight-new-crypto-etps-including-canton-morpho-and-raydium",
    "title": "Valour Lists Eight New Crypto ETPs Including Canton, Morpho and Raydium",
    "description": "Valour, a subsidiary of DeFi Technologies, says it has added eight digital asset exchange-traded products to Sweden's Spotlight Stock Market. The November 5 announcement expands the issuer's range beyond the most established cryptocurrencies into a…",
@@ -325,6 +370,24 @@
    "source": "CryptoSlate"
   },
   {
+   "slug": "hyperscale-data-gpus-sells-its-last-bitcoin-for-ai-data-center-months-after-chas",
+   "title": "Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury",
+   "description": "Bitcoin Magazine Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury Hyperscale Data sold its remaining 211.56 bitcoin for about $16 million by Nov. 8, bringing sales since late July to about 1,113 BTC…",
+   "published_at": "2026-11-10T14:45:00Z",
+   "created_at": "2026-11-10T14:45:00Z",
+   "url": "https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "onramp-launches-business-bitcoin-accounts-with-two-person-withdrawal-approvals-a",
+   "title": "Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb",
+   "description": "Bitcoin Magazine Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb The Austin firm rolled out a free company account with named users and second-person withdrawal approvals, plus a higher Treasury tier that…",
+   "published_at": "2026-11-10T14:43:54Z",
+   "created_at": "2026-11-10T14:43:54Z",
+   "url": "https://bitcoinmagazine.com/news/onramp-launches-business-bitcoin-accounts-approvals",
+   "source": "Bitcoin Magazine"
+  },
+  {
    "slug": "bitcoin-price-analysis-will-btc-crash-below-70k-next-as-selling-pressure-intensi",
    "title": "Bitcoin Price Analysis: Will BTC Crash Below $70K Next as Selling Pressure Intensifies?",
    "description": "Bitcoin has slipped beneath the $74K support area, leaving buyers struggling to regain control near $74.5K. The latest breakdown increases the risk of a deeper correction, while the liquidation heatmap highlights nearby concentrations on both sides of the…",
@@ -341,6 +404,15 @@
    "created_at": "2026-11-10T14:32:48Z",
    "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
    "source": "Decrypt"
+  },
+  {
+   "slug": "bitcoin-price-trades-down-near-73-500-after-hot-cpi-print-lifts-fed-hike-bets",
+   "title": "Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets",
+   "description": "Bitcoin Magazine Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets Bitcoin price slipped to $73,500 Tuesday morning after October consumer prices rose 0.4%, topping forecasts and pushing traders toward a bigger Federal Reserve…",
+   "published_at": "2026-11-10T14:27:49Z",
+   "created_at": "2026-11-10T14:27:49Z",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi",
+   "source": "Bitcoin Magazine"
   },
   {
    "slug": "bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million",
@@ -1180,6 +1252,24 @@
    "source": "Cointelegraph"
   },
   {
+   "slug": "amundi-boosts-strategy-mstr-stake-44-to-291-million-as-shares-slide",
+   "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
+   "description": "Bitcoin Magazine Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from…",
+   "published_at": "2026-11-09T20:39:56Z",
+   "created_at": "2026-11-09T20:39:56Z",
+   "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "elizabeth-warren-plans-prediction-market-crackdown-as-she-prepares-to-chair-sena",
+   "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
+   "description": "Bitcoin Magazine Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking A Warren banking aide says the incoming Senate Banking chair will target prediction markets' \"Wild West-style lack of oversight,\" after she and Sen…",
+   "published_at": "2026-11-09T20:31:38Z",
+   "created_at": "2026-11-09T20:31:38Z",
+   "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
+   "source": "Bitcoin Magazine"
+  },
+  {
    "slug": "north-korean-hackers-create-memecoins-to-launder-funds-from-binance-hack-ellipti",
    "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
    "description": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
@@ -1268,97 +1358,7 @@
    "created_at": "2026-11-09T19:02:52Z",
    "url": "https://cryptopotato.com/30-minutes-5-masked-men-and-2-million-in-crypto-evan-luthra-recounts-oxford-kidnapping/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "charles-schwab-expands-crypto-trading-to-sol-avax-and-link-xrp-not-included",
-   "title": "Charles Schwab Expands Crypto Trading to SOL, AVAX and LINK, XRP Not Included",
-   "description": "Charles Schwab has expanded its crypto trading platform by adding Solana, Avalanche and Chainlink, but XRP remains conspicuously absent despite the brokerage giant's aggressive push into digital assets.",
-   "published_at": "2026-11-09T18:37:51Z",
-   "created_at": "2026-11-09T18:37:51Z",
-   "url": "https://u.today/charles-schwab-expands-crypto-trading-to-sol-avax-and-link-xrp-not-included",
-   "source": "U.Today"
-  },
-  {
-   "slug": "nvidia-s-350-billion-scare-what-happens-if-jensen-huang-leaves",
-   "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
-   "description": "Nvidia shares slid as much as 8% amid spy allegations. The stock was already weakening, and investors now face a bigger question: Who replaces Jensen Huang if he suddenly leaves?",
-   "published_at": "2026-11-09T18:31:03Z",
-   "created_at": "2026-11-09T18:31:03Z",
-   "url": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "mercado-bitcoin-begins-post-hack-reopening-without-a-timeline-for-withdrawals",
-   "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-   "description": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
-   "published_at": "2026-11-09T18:25:29Z",
-   "created_at": "2026-11-09T18:25:29Z",
-   "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "bitcoin-btc-in-danger-zone-what-can-prevent-another-20-crash",
-   "title": "Bitcoin (BTC) in Danger Zone: What Can Prevent Another 20% Crash?",
-   "description": "Will BTC hold key support or nosedive to $60K?",
-   "published_at": "2026-11-09T18:01:24Z",
-   "created_at": "2026-11-09T18:01:24Z",
-   "url": "https://cryptopotato.com/bitcoin-btc-in-danger-zone-what-can-prevent-another-20-crash/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "pnc-bank-tests-turning-usdc-payments-into-dollar-deposits",
-   "title": "PNC Bank tests turning USDC payments into dollar deposits",
-   "description": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
-   "published_at": "2026-11-09T17:48:35Z",
-   "created_at": "2026-11-09T17:48:35Z",
-   "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "solana-set-for-another-tokenized-stock-venue-as-formation-notifies-the-sec",
-   "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-   "description": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
-   "published_at": "2026-11-09T17:46:02Z",
-   "created_at": "2026-11-09T17:46:02Z",
-   "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "shiba-inu-shib-holder-count-surges-amid-severe-price-correction",
-   "title": "Shiba Inu (SHIB) Holder Count Surges Amid Severe Price Correction",
-   "description": "Shiba Inu tops its holder count with over 2,025 new wallets as adoption continues to grow despite the broader crypto market drawdown.",
-   "published_at": "2026-11-09T17:43:31Z",
-   "created_at": "2026-11-09T17:43:31Z",
-   "url": "https://u.today/shiba-inu-shib-holder-count-surges-amid-severe-price-correction",
-   "source": "U.Today"
-  },
-  {
-   "slug": "avalanche-s-avax-leads-crypto-gains-following-nyse-tokenization-deal",
-   "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-   "description": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
-   "published_at": "2026-11-09T17:41:02Z",
-   "created_at": "2026-11-09T17:41:02Z",
-   "url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "nyse-picks-avalanche-to-settle-tokenized-stock-trades-on-planned-24-7-venue",
-   "title": "NYSE Picks Avalanche to Settle Tokenized Stock Trades on Planned 24/7 Venue",
-   "description": "NYSE has chosen all settlement to take place on Avalanche alone, while the stocks themselves can still be listed on a range of blockchains.",
-   "published_at": "2026-11-09T17:15:55Z",
-   "created_at": "2026-11-09T17:15:55Z",
-   "url": "https://cryptopotato.com/nyse-picks-avalanche-to-settle-tokenized-stock-trades-on-planned-24-7-venue/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "vitalik-buterin-moves-on-from-ultrasound-money-says-eth-s-value-is-stability",
-   "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-   "description": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
-   "published_at": "2026-11-09T17:14:10Z",
-   "created_at": "2026-11-09T17:14:10Z",
-   "url": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
-   "source": "Decrypt"
   }
  ],
- "updatedAt": "2026-11-10T18:35:25Z"
+ "updatedAt": "2026-11-10T18:41:06Z"
 }
