@@ -1,277 +1,332 @@
 [
    {
-      "flagEmoji":"🇦🇪",
-      "prefix":"AED",
-      "ticker":"AED"
+      "flagEmoji": "🇦🇪",
+      "prefix": "AED",
+      "ticker": "AED",
+      "name": "UAE Dirham"
    },
    {
-      "flagEmoji":"🇦🇷",
-      "prefix":"$",
-      "ticker":"ARS"
+      "flagEmoji": "🇦🇷",
+      "prefix": "$",
+      "ticker": "ARS",
+      "name": "Argentine Peso"
    },
    {
-      "flagEmoji":"🇦🇺",
-      "prefix":"$",
-      "ticker":"AUD"
+      "flagEmoji": "🇦🇺",
+      "prefix": "$",
+      "ticker": "AUD",
+      "name": "Australian Dollar"
    },
    {
-      "flagEmoji":"🇧🇬",
-      "prefix":"лв",
-      "ticker":"BGN"
+      "flagEmoji": "🇧🇬",
+      "prefix": "лв",
+      "ticker": "BGN",
+      "name": "Bulgarian Lev"
    },
    {
-      "flagEmoji":"🇧🇴",
-      "prefix":"Bs",
-      "ticker":"BOB"
+      "flagEmoji": "🇧🇴",
+      "prefix": "Bs",
+      "ticker": "BOB",
+      "name": "Bolivian Boliviano"
    },
    {
-      "flagEmoji":"🇧🇷",
-      "prefix":"R$",
-      "ticker":"BRL"
+      "flagEmoji": "🇧🇷",
+      "prefix": "R$",
+      "ticker": "BRL",
+      "name": "Brazilian Real"
    },
    {
-      "flagEmoji":"🇧🇾",
-      "prefix":"Br",
-      "ticker":"BYN"
+      "flagEmoji": "🇧🇾",
+      "prefix": "Br",
+      "ticker": "BYN",
+      "name": "Belarusian Ruble"
    },
    {
-      "flagEmoji":"🇨🇦",
-      "prefix":"$",
-      "ticker":"CAD"
+      "flagEmoji": "🇨🇦",
+      "prefix": "$",
+      "ticker": "CAD",
+      "name": "Canadian Dollar"
    },
    {
-      "flagEmoji":"🇨🇭",
-      "prefix":"CHF",
-      "ticker":"CHF"
+      "flagEmoji": "🇨🇭",
+      "prefix": "CHF",
+      "ticker": "CHF",
+      "name": "Swiss Franc"
    },
    {
-      "flagEmoji":"🇨🇱",
-      "prefix":"$",
-      "ticker":"CLP"
+      "flagEmoji": "🇨🇱",
+      "prefix": "$",
+      "ticker": "CLP",
+      "name": "Chilean Peso"
    },
    {
-      "flagEmoji":"🇨🇳",
-      "prefix":"¥",
-      "ticker":"CNY"
+      "flagEmoji": "🇨🇳",
+      "prefix": "¥",
+      "ticker": "CNY",
+      "name": "Chinese Yuan"
    },
    {
-      "flagEmoji":"🇨🇴",
-      "prefix":"$",
-      "ticker":"COP"
+      "flagEmoji": "🇨🇴",
+      "prefix": "$",
+      "ticker": "COP",
+      "name": "Colombian Peso"
    },
    {
-      "flagEmoji":"🇨🇺",
-      "prefix":"$MN",
-      "ticker":"CUP"
+      "flagEmoji": "🇨🇺",
+      "prefix": "$MN",
+      "ticker": "CUP",
+      "name": "Cuban Peso"
    },
    {
-      "flagEmoji":"🇨🇿",
-      "prefix":"Kč",
-      "ticker":"CZK"
+      "flagEmoji": "🇨🇿",
+      "prefix": "Kč",
+      "ticker": "CZK",
+      "name": "Czech Koruna"
    },
    {
-      "flagEmoji":"🇩🇰",
-      "prefix":"kr",
-      "ticker":"DKK"
+      "flagEmoji": "🇩🇰",
+      "prefix": "kr",
+      "ticker": "DKK",
+      "name": "Danish Krone"
    },
    {
-      "flagEmoji":"🇩🇴",
-      "prefix":"RD$",
-      "ticker":"DOP"
+      "flagEmoji": "🇩🇴",
+      "prefix": "RD$",
+      "ticker": "DOP",
+      "name": "Dominican Peso"
    },
    {
-      "flagEmoji":"🇪🇬",
-      "prefix":"E£",
-      "ticker":"EGP"
+      "flagEmoji": "🇪🇬",
+      "prefix": "E£",
+      "ticker": "EGP",
+      "name": "Egyptian Pound"
    },
    {
-      "flagEmoji":"🇪🇺",
-      "prefix":"€",
-      "ticker":"EUR"
+      "flagEmoji": "🇪🇺",
+      "prefix": "€",
+      "ticker": "EUR",
+      "name": "Euro"
    },
    {
-      "flagEmoji":"🇬🇧",
-      "prefix":"£",
-      "ticker":"GBP"
+      "flagEmoji": "🇬🇧",
+      "prefix": "£",
+      "ticker": "GBP",
+      "name": "British Pound"
    },
    {
-      "flagEmoji":"🇬🇹",
-      "prefix":"Q",
-      "ticker":"GTQ"
+      "flagEmoji": "🇬🇹",
+      "prefix": "Q",
+      "ticker": "GTQ",
+      "name": "Guatemalan Quetzal"
    },
    {
-      "flagEmoji":"🇭🇰",
-      "prefix":"$",
-      "ticker":"HKD"
+      "flagEmoji": "🇭🇰",
+      "prefix": "$",
+      "ticker": "HKD",
+      "name": "Hong Kong Dollar"
    },
    {
-      "flagEmoji":"🇭🇷",
-      "prefix":"kn",
-      "ticker":"HRK"
+      "flagEmoji": "🇭🇷",
+      "prefix": "kn",
+      "ticker": "HRK",
+      "name": "Croatian Kuna"
    },
    {
-      "flagEmoji":"🇭🇺",
-      "prefix":"Ft",
-      "ticker":"HUF"
+      "flagEmoji": "🇭🇺",
+      "prefix": "Ft",
+      "ticker": "HUF",
+      "name": "Hungarian Forint"
    },
    {
-      "flagEmoji":"🇮🇩",
-      "prefix":"Rp",
-      "ticker":"IDR"
+      "flagEmoji": "🇮🇩",
+      "prefix": "Rp",
+      "ticker": "IDR",
+      "name": "Indonesian Rupiah"
    },
    {
-      "flagEmoji":"🇮🇱",
-      "prefix":"₪",
-      "ticker":"ILS"
+      "flagEmoji": "🇮🇱",
+      "prefix": "₪",
+      "ticker": "ILS",
+      "name": "Israeli New Shekel"
    },
    {
-      "flagEmoji":"🇮🇳",
-      "prefix":"₹",
-      "ticker":"INR"
+      "flagEmoji": "🇮🇳",
+      "prefix": "₹",
+      "ticker": "INR",
+      "name": "Indian Rupee"
    },
    {
-      "flagEmoji":"🇮🇷",
-      "prefix":"﷼",
-      "ticker":"IRR"
+      "flagEmoji": "🇮🇷",
+      "prefix": "﷼",
+      "ticker": "IRR",
+      "name": "Iranian Rial"
    },
    {
-      "flagEmoji":"🇮🇸",
-      "prefix":"kr",
-      "ticker":"ISK"
+      "flagEmoji": "🇮🇸",
+      "prefix": "kr",
+      "ticker": "ISK",
+      "name": "Icelandic Króna"
    },
    {
-      "flagEmoji":"🇯🇵",
-      "prefix":"¥",
-      "ticker":"JPY"
+      "flagEmoji": "🇯🇵",
+      "prefix": "¥",
+      "ticker": "JPY",
+      "name": "Japanese Yen"
    },
    {
-      "flagEmoji":"🇰🇵",
-      "prefix":"₩",
-      "ticker":"KPW"
+      "flagEmoji": "🇰🇵",
+      "prefix": "₩",
+      "ticker": "KPW",
+      "name": "North Korean Won"
    },
    {
-      "flagEmoji":"🇰🇷",
-      "prefix":"₩",
-      "ticker":"KRW"
+      "flagEmoji": "🇰🇷",
+      "prefix": "₩",
+      "ticker": "KRW",
+      "name": "South Korean Won"
    },
    {
-      "flagEmoji":"🇰🇿",
-      "prefix":"₸",
-      "ticker":"KZT"
+      "flagEmoji": "🇰🇿",
+      "prefix": "₸",
+      "ticker": "KZT",
+      "name": "Kazakhstani Tenge"
    },
    {
-      "flagEmoji":"🇲🇳",
-      "prefix":"₮",
-      "ticker":"MNT"
+      "flagEmoji": "🇲🇳",
+      "prefix": "₮",
+      "ticker": "MNT",
+      "name": "Mongolian Tögrög"
    },
    {
-      "flagEmoji":"🇲🇽",
-      "prefix":"$",
-      "ticker":"MXN"
+      "flagEmoji": "🇲🇽",
+      "prefix": "$",
+      "ticker": "MXN",
+      "name": "Mexican Peso"
    },
    {
-      "flagEmoji":"🇲🇾",
-      "prefix":"RM",
-      "ticker":"MYR"
+      "flagEmoji": "🇲🇾",
+      "prefix": "RM",
+      "ticker": "MYR",
+      "name": "Malaysian Ringgit"
    },
    {
-      "flagEmoji":"🇳🇴",
-      "prefix":"kr",
-      "ticker":"NOK"
+      "flagEmoji": "🇳🇴",
+      "prefix": "kr",
+      "ticker": "NOK",
+      "name": "Norwegian Krone"
    },
    {
-      "flagEmoji":"🇳🇿",
-      "prefix":"$",
-      "ticker":"NZD"
+      "flagEmoji": "🇳🇿",
+      "prefix": "$",
+      "ticker": "NZD",
+      "name": "New Zealand Dollar"
    },
    {
-      "flagEmoji":"🇵🇪",
-      "prefix":"S\/",
-      "ticker":"PEN"
+      "flagEmoji": "🇵🇪",
+      "prefix": "S/",
+      "ticker": "PEN",
+      "name": "Peruvian Sol"
    },
    {
-      "flagEmoji":"🇵🇭",
-      "prefix":"₱",
-      "ticker":"PHP"
+      "flagEmoji": "🇵🇭",
+      "prefix": "₱",
+      "ticker": "PHP",
+      "name": "Philippine Peso"
    },
    {
-      "flagEmoji":"🇵🇱",
-      "prefix":"zł",
-      "ticker":"PLN"
+      "flagEmoji": "🇵🇱",
+      "prefix": "zł",
+      "ticker": "PLN",
+      "name": "Polish Złoty"
    },
    {
-      "flagEmoji":"🇵🇾",
-      "prefix":"₲",
-      "ticker":"PYG"
+      "flagEmoji": "🇵🇾",
+      "prefix": "₲",
+      "ticker": "PYG",
+      "name": "Paraguayan Guaraní"
    },
    {
-      "flagEmoji":"🇷🇴",
-      "prefix":"lei",
-      "ticker":"RON"
+      "flagEmoji": "🇷🇴",
+      "prefix": "lei",
+      "ticker": "RON",
+      "name": "Romanian Leu"
    },
    {
-      "flagEmoji":"🇷🇺",
-      "prefix":"₽",
-      "ticker":"RUB"
+      "flagEmoji": "🇷🇺",
+      "prefix": "₽",
+      "ticker": "RUB",
+      "name": "Russian Ruble"
    },
    {
-      "flagEmoji":"🇸🇪",
-      "prefix":"kr",
-      "ticker":"SEK"
+      "flagEmoji": "🇸🇪",
+      "prefix": "kr",
+      "ticker": "SEK",
+      "name": "Swedish Krona"
    },
    {
-      "flagEmoji":"🇸🇬",
-      "prefix":"$",
-      "ticker":"SGD"
+      "flagEmoji": "🇸🇬",
+      "prefix": "$",
+      "ticker": "SGD",
+      "name": "Singapore Dollar"
    },
    {
-      "flagEmoji":"🇹🇭",
-      "prefix":"฿",
-      "ticker":"THB"
+      "flagEmoji": "🇹🇭",
+      "prefix": "฿",
+      "ticker": "THB",
+      "name": "Thai Baht"
    },
    {
-      "flagEmoji":"🇹🇷",
-      "prefix":"₺",
-      "ticker":"TRY"
+      "flagEmoji": "🇹🇷",
+      "prefix": "₺",
+      "ticker": "TRY",
+      "name": "Turkish Lira"
    },
    {
-      "flagEmoji":"🇹🇼",
-      "prefix":"NT$",
-      "ticker":"TWD"
+      "flagEmoji": "🇹🇼",
+      "prefix": "NT$",
+      "ticker": "TWD",
+      "name": "New Taiwan Dollar"
    },
    {
-      "flagEmoji":"🇺🇦",
-      "prefix":"₴",
-      "ticker":"UAH"
+      "flagEmoji": "🇺🇦",
+      "prefix": "₴",
+      "ticker": "UAH",
+      "name": "Ukrainian Hryvnia"
    },
    {
-      "flagEmoji":"🇺🇸",
-      "prefix":"$",
-      "ticker":"USD"
+      "flagEmoji": "🇺🇸",
+      "prefix": "$",
+      "ticker": "USD",
+      "name": "US Dollar"
    },
    {
-      "flagEmoji":"🇺🇾",
-      "prefix":"$",
-      "ticker":"UYU"
+      "flagEmoji": "🇺🇾",
+      "prefix": "$",
+      "ticker": "UYU",
+      "name": "Uruguayan Peso"
    },
    {
-      "flagEmoji":"🇻🇪",
-      "prefix":"Bs.F",
-      "ticker":"VEF"
+      "flagEmoji": "🇻🇪",
+      "prefix": "Bs.F",
+      "ticker": "VEF",
+      "name": "Venezuelan Bolívar"
    },
    {
-      "flagEmoji":"🇻🇳",
-      "prefix":"₫",
-      "ticker":"VND"
+      "flagEmoji": "🇻🇳",
+      "prefix": "₫",
+      "ticker": "VND",
+      "name": "Vietnamese Dong"
    },
    {
-      "flagEmoji":"🇾🇪",
-      "prefix":"ر.ي, ﷼",
-      "ticker":"YER"
+      "flagEmoji": "🇾🇪",
+      "prefix": "ر.ي, ﷼",
+      "ticker": "YER",
+      "name": "Yemeni Rial"
    },
    {
-      "flagEmoji":"🇿🇦",
-      "prefix":"R",
-      "ticker":"ZAR"
+      "flagEmoji": "🇿🇦",
+      "prefix": "R",
+      "ticker": "ZAR",
+      "name": "South African Rand"
    }
 ]

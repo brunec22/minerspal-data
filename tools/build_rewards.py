@@ -10,7 +10,7 @@ Outputs (in hashrate/api/v2/reward-estimation/):
 Units are read from each coin page ("... for 212.00 kh/s @ 1,350W") and cached; pages are only
 re-read for new coins or once a week. Stdlib only.
 """
-import html, json, os, re, sys, time, urllib.request
+import html, json, os, re, sys, time, urllib.error, urllib.request
 import concurrent.futures as cf
 from datetime import datetime, timezone
 
@@ -23,16 +23,23 @@ PREFERRED_ALGO = {"DGB": "SHA-256", "XTM": "SHA3x", "QUAI": "KawPow", "MEWC": "M
 QUERY_HR = 1_000_000  # big multiplier so WhatToMine's 6-decimal rounding never zeroes small rewards
 
 
-def get(url, as_json=True, tries=3):
+def get(url, as_json=True, tries=5):
+    """Polite GET: WhatToMine answers 429 to bursts, so honour Retry-After and back off."""
     for i in range(tries):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
                 data = r.read()
+            time.sleep(1.2)
             return json.loads(data) if as_json else data.decode("utf-8", "replace")
-        except Exception as e:
+        except urllib.error.HTTPError as e:
+            if i == tries - 1 or e.code not in (429, 500, 502, 503, 504):
+                raise
+            wait = e.headers.get("Retry-After")
+            time.sleep(min(float(wait), 90) if wait and wait.isdigit() else 10 * (i + 1))
+        except Exception:
             if i == tries - 1:
                 raise
-            time.sleep(2 + i * 3)
+            time.sleep(5 * (i + 1))
 
 
 def page_unit(coin_id):
@@ -81,7 +88,7 @@ def main():
             print(f"unit {c['tag']}: {e}", file=sys.stderr)
             return cached["unitLabel"] if cached else None
 
-    with cf.ThreadPoolExecutor(4) as ex:
+    with cf.ThreadPoolExecutor(1) as ex:
         labels = dict(zip(chosen, ex.map(unit_for, chosen.values())))
 
     def est_for(t):
@@ -98,9 +105,24 @@ def main():
             return t, None
         return t, {"hashes": int(QUERY_HR * UNIT[label.lower()]), "reward24h": round(est, 10), "updatedAt": stamp}
 
-    with cf.ThreadPoolExecutor(4) as ex:
+    with cf.ThreadPoolExecutor(1) as ex:
         results = dict(ex.map(est_for, list(chosen)))
     rewards = {t: v for t, v in sorted(results.items()) if v}
+    # Carry over last good values (< 24 h old) for coins that failed this run.
+    try:
+        previous = json.load(open(os.path.join(OUT, "reward-estimations.json")))
+    except Exception:
+        previous = {}
+    for t, v in previous.items():
+        if t in rewards or t not in chosen:
+            continue
+        try:
+            age = now - datetime.strptime(v["updatedAt"], "%Y-%m-%dT%H:%M:%S%z")
+        except Exception:
+            continue
+        if age.total_seconds() < 24 * 3600 and v.get("hashes", 0) > 0:
+            rewards[t] = v
+    rewards = dict(sorted(rewards.items()))
     if len(rewards) < 20:
         sys.exit(f"Only {len(rewards)} estimations, keeping previous files")
 
