@@ -57,7 +57,12 @@ def main():
     algos = json.load(open(ALGOS))
     known = {a["name"].lower(): a["name"] for a in algos}
     known["cuckatoo31"] = "Cuckatoo31+"
-    listing = get("https://whattomine.com/gpus")
+    try:
+        listing = get("https://whattomine.com/gpus")
+    except Exception as e:
+        # WhatToMine sometimes blocks CI runners (403); keep the committed gpus.json.
+        print(f"GPU listing unavailable ({e}); keeping previous gpus.json", file=sys.stderr)
+        return
     links, seen = [], set()
     for href, name in re.findall(r'href="(/gpus/(\d+-[a-z0-9-]+))"[^>]*>([^<]+)<', listing) and \
             [(m[0], m[2]) for m in re.findall(r'href="(/gpus/(\d+-[a-z0-9-]+))"[^>]*>([^<]+)<', listing)]:
@@ -92,7 +97,8 @@ def main():
                      "algoPerfList": list(perf.values()), "price": None, "imageUrl": None})
         time.sleep(0.7)
     if len(gpus) < 20:
-        sys.exit(f"Only {len(gpus)} GPUs parsed, keeping previous gpus.json")
+        print(f"Only {len(gpus)} GPUs parsed, keeping previous gpus.json", file=sys.stderr)
+        return
     json.dump(gpus, open(OUT, "w"), indent=1)
     added = 0
     for algo, tickers in sorted(algo_tickers.items()):
