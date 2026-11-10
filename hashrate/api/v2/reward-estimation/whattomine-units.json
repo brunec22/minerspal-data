@@ -1,0 +1,401 @@
+{
+ "updatedAt": "2026-11-10T18:37:15Z",
+ "coins": {
+  "ABEL": {
+   "id": 397,
+   "algorithm": "Abelhash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "AE": {
+   "id": 297,
+   "algorithm": "CuckooCycle",
+   "unit": 1,
+   "unitLabel": "h/s"
+  },
+  "ALEO": {
+   "id": 432,
+   "algorithm": "zkSNARK",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "ALPH": {
+   "id": 349,
+   "algorithm": "Blake3",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "ARRR": {
+   "id": 298,
+   "algorithm": "Equihash",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "BCH": {
+   "id": 193,
+   "algorithm": "SHA-256",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "BCH2": {
+   "id": 475,
+   "algorithm": "SHA-256",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "BEAM": {
+   "id": 294,
+   "algorithm": "BeamHashIII",
+   "unit": 1,
+   "unitLabel": "h/s"
+  },
+  "BTC": {
+   "id": 1,
+   "algorithm": "SHA-256",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "CAT": {
+   "id": 198,
+   "algorithm": "Scrypt",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "CCX": {
+   "id": 305,
+   "algorithm": "CryptoNightGPU",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "CFX": {
+   "id": 337,
+   "algorithm": "Octopus",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "CKB": {
+   "id": 321,
+   "algorithm": "Eaglesong",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "DASH": {
+   "id": 34,
+   "algorithm": "X11",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "DCR": {
+   "id": 453,
+   "algorithm": "Blake3DCR",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "DGB": {
+   "id": 113,
+   "algorithm": "SHA-256",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "DINGO": {
+   "id": 417,
+   "algorithm": "Scrypt",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "DNX": {
+   "id": 359,
+   "algorithm": "DynexSolve",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "DOGE": {
+   "id": 6,
+   "algorithm": "Scrypt",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "EPIC": {
+   "id": 438,
+   "algorithm": "ProgPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "ERG": {
+   "id": 340,
+   "algorithm": "Autolykos",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "ETC": {
+   "id": 162,
+   "algorithm": "Etchash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "ETHW": {
+   "id": 353,
+   "algorithm": "Ethash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "ETI": {
+   "id": 388,
+   "algorithm": "RandomX",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "EVR": {
+   "id": 413,
+   "algorithm": "EvrProgPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "FB": {
+   "id": 431,
+   "algorithm": "SHA-256",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "FIRO": {
+   "id": 175,
+   "algorithm": "FiroPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "GRIN": {
+   "id": 324,
+   "algorithm": "Cuckatoo32",
+   "unit": 1,
+   "unitLabel": "h/s"
+  },
+  "HNS": {
+   "id": 327,
+   "algorithm": "Handshake",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "IRON": {
+   "id": 411,
+   "algorithm": "FishHash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "KAS": {
+   "id": 352,
+   "algorithm": "kHeavyHash",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "KDA": {
+   "id": 334,
+   "algorithm": "Kadena",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "KLS": {
+   "id": 428,
+   "algorithm": "Karlsenhashv2",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "KRGN": {
+   "id": 463,
+   "algorithm": "KawPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "LAX": {
+   "id": 454,
+   "algorithm": "Xhash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "LKY": {
+   "id": 436,
+   "algorithm": "Scrypt",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "LPEPE": {
+   "id": 462,
+   "algorithm": "YescryptR32",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "LTC": {
+   "id": 4,
+   "algorithm": "Scrypt",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "MEWC": {
+   "id": 354,
+   "algorithm": "MeowPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "MWC": {
+   "id": 323,
+   "algorithm": "Cuckatoo31",
+   "unit": 1,
+   "unitLabel": "h/s"
+  },
+  "NEOX": {
+   "id": 351,
+   "algorithm": "KawPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "NEXA": {
+   "id": 357,
+   "algorithm": "NexaPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "OCTA": {
+   "id": 361,
+   "algorithm": "Ethash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "PEP": {
+   "id": 418,
+   "algorithm": "Scrypt",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "PRL": {
+   "id": 469,
+   "algorithm": "Pearl",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "QKC": {
+   "id": 318,
+   "algorithm": "Ethash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "QRL": {
+   "id": 263,
+   "algorithm": "RandomX",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "QTC": {
+   "id": 450,
+   "algorithm": "Qhash",
+   "unit": 1000000000.0,
+   "unitLabel": "Gh/s"
+  },
+  "QUAI": {
+   "id": 443,
+   "algorithm": "KawPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "QUANTUS": {
+   "id": 473,
+   "algorithm": "QPoW",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "RTM": {
+   "id": 347,
+   "algorithm": "GhostRider",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "RVN": {
+   "id": 234,
+   "algorithm": "KawPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "RXD": {
+   "id": 356,
+   "algorithm": "SHA512256d",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "RYO": {
+   "id": 260,
+   "algorithm": "CryptoNightGPU",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "VRSC": {
+   "id": 333,
+   "algorithm": "VerusHash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "VTC": {
+   "id": 5,
+   "algorithm": "Verthash",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "XDAG": {
+   "id": 350,
+   "algorithm": "RandomX",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "XEC": {
+   "id": 370,
+   "algorithm": "SHA-256",
+   "unit": 1000000000000.0,
+   "unitLabel": "Th/s"
+  },
+  "XEL": {
+   "id": 459,
+   "algorithm": "Xelishashv3",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "XMR": {
+   "id": 101,
+   "algorithm": "RandomX",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "XNA": {
+   "id": 366,
+   "algorithm": "KawPow",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "XTM": {
+   "id": 447,
+   "algorithm": "SHA3x",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "ZANO": {
+   "id": 330,
+   "algorithm": "ProgPowZ",
+   "unit": 1000000.0,
+   "unitLabel": "Mh/s"
+  },
+  "ZCL": {
+   "id": 167,
+   "algorithm": "EquihashZero",
+   "unit": 1,
+   "unitLabel": "h/s"
+  },
+  "ZEC": {
+   "id": 166,
+   "algorithm": "Equihash",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  },
+  "ZEPH": {
+   "id": 371,
+   "algorithm": "RandomX",
+   "unit": 1000.0,
+   "unitLabel": "kh/s"
+  }
+ }
+}

@@ -1,0 +1,652 @@
+[
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M7AS+",
+  "release": "Oct 2026",
+  "hash": "540",
+  "unit": "Th/s",
+  "watts": "7500",
+  "algo": "SHA-256",
+  "price": "$7,000"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M7AS",
+  "release": "Oct 2026",
+  "hash": "520",
+  "unit": "Th/s",
+  "watts": "7500",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S23 XP Hyd",
+  "release": "Oct 2026",
+  "hash": "600",
+  "unit": "Th/s",
+  "watts": "5340",
+  "algo": "SHA-256",
+  "price": "$15,550"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer Z15K",
+  "release": "Sep 2026",
+  "hash": "565",
+  "unit": "kh/s",
+  "watts": "2483",
+  "algo": "Equihash",
+  "price": "$7,920"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer X9",
+  "release": "Aug 2026",
+  "hash": "1",
+  "unit": "Mh/s",
+  "watts": "2472",
+  "algo": "RandomX",
+  "price": "$6,399"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer Z15K",
+  "release": "Aug 2026",
+  "hash": "525",
+  "unit": "kh/s",
+  "watts": "2483",
+  "algo": "Equihash",
+  "price": "$8,000"
+ },
+ {
+  "brand": "VolcMiner",
+  "model": "D1 Hydro",
+  "release": "Jul 2026",
+  "hash": "32",
+  "unit": "Gh/s",
+  "watts": "9300",
+  "algo": "Scrypt",
+  "price": "-"
+ },
+ {
+  "brand": "Canaan",
+  "model": "Avalon A15XP-209T",
+  "release": "Jul 2026",
+  "hash": "209",
+  "unit": "Th/s",
+  "watts": "3667",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner DL1 Hydro",
+  "release": "Jun 2026",
+  "hash": "52.5",
+  "unit": "Gh/s",
+  "watts": "7823",
+  "algo": "Scrypt",
+  "price": "$9,000"
+ },
+ {
+  "brand": "IceRiver",
+  "model": "XP0",
+  "release": "May 2026",
+  "hash": "150",
+  "unit": "Gh/s",
+  "watts": "60",
+  "algo": "XPHash",
+  "price": "$700"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M7BS+",
+  "release": "May 2026",
+  "hash": "540",
+  "unit": "Th/s",
+  "watts": "10000",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A4 Ultra Hydro",
+  "release": "May 2026",
+  "hash": "886",
+  "unit": "Th/s",
+  "watts": "8372",
+  "algo": "SHA-256",
+  "price": "$9,999"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A4 Pro Hydro",
+  "release": "May 2026",
+  "hash": "680",
+  "unit": "Th/s",
+  "watts": "7412",
+  "algo": "SHA-256",
+  "price": "$9,239"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A4 Pro Air",
+  "release": "May 2026",
+  "hash": "336",
+  "unit": "Th/s",
+  "watts": "3662",
+  "algo": "SHA-256",
+  "price": "$6,750"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner DL1 Air",
+  "release": "May 2026",
+  "hash": "25",
+  "unit": "Gh/s",
+  "watts": "3725",
+  "algo": "Scrypt",
+  "price": "$7,300"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S23e Hyd 2U",
+  "release": "Apr 2026",
+  "hash": "865",
+  "unit": "Th/s",
+  "watts": "8650",
+  "algo": "SHA-256",
+  "price": "$9,865"
+ },
+ {
+  "brand": "Canaan",
+  "model": "Avalon A16XP-300T",
+  "release": "Apr 2026",
+  "hash": "300",
+  "unit": "Th/s",
+  "watts": "3850",
+  "algo": "SHA-256",
+  "price": "$4,200"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M7DS",
+  "release": "Mar 2026",
+  "hash": "680",
+  "unit": "Th/s",
+  "watts": "9200",
+  "algo": "SHA-256",
+  "price": "$7,894"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M7D",
+  "release": "Mar 2026",
+  "hash": "634",
+  "unit": "Th/s",
+  "watts": "9200",
+  "algo": "SHA-256",
+  "price": "$7,210"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S21j XP Hyd",
+  "release": "Mar 2026",
+  "hash": "495",
+  "unit": "Th/s",
+  "watts": "5940",
+  "algo": "SHA-256",
+  "price": "$5,729"
+ },
+ {
+  "brand": "Canaan",
+  "model": "Avalon A16-282T",
+  "release": "Mar 2026",
+  "hash": "282",
+  "unit": "Th/s",
+  "watts": "3900",
+  "algo": "SHA-256",
+  "price": "$4,230"
+ },
+ {
+  "brand": "VolcMiner",
+  "model": "D3",
+  "release": "Jan 2026",
+  "hash": "20",
+  "unit": "Gh/s",
+  "watts": "3580",
+  "algo": "Scrypt",
+  "price": "-"
+ },
+ {
+  "brand": "Fluminer",
+  "model": "L3",
+  "release": "Jan 2026",
+  "hash": "9.5",
+  "unit": "Gh/s",
+  "watts": "1700",
+  "algo": "Scrypt",
+  "price": "$3,850"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S23 Hyd 3U",
+  "release": "Jan 2026",
+  "hash": "1.16",
+  "unit": "Ph/s",
+  "watts": "11020",
+  "algo": "SHA-256",
+  "price": "$28,754"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S23 Hyd",
+  "release": "Jan 2026",
+  "hash": "580",
+  "unit": "Th/s",
+  "watts": "5510",
+  "algo": "SHA-256",
+  "price": "$13,690"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S23",
+  "release": "Jan 2026",
+  "hash": "318",
+  "unit": "Th/s",
+  "watts": "3498",
+  "algo": "SHA-256",
+  "price": "$8,717"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S23 Imm.",
+  "release": "Jan 2026",
+  "hash": "442",
+  "unit": "Th/s",
+  "watts": "5304",
+  "algo": "SHA-256",
+  "price": "$11,096"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer KS7",
+  "release": "Jan 2026",
+  "hash": "45",
+  "unit": "Th/s",
+  "watts": "3080",
+  "algo": "KHeavyHash",
+  "price": "$3,990"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M70S+",
+  "release": "Dec 2025",
+  "hash": "244",
+  "unit": "Th/s",
+  "watts": "3140",
+  "algo": "SHA-256",
+  "price": "$3,958"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M76S+",
+  "release": "Dec 2025",
+  "hash": "390",
+  "unit": "Th/s",
+  "watts": "5200",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M73S+",
+  "release": "Dec 2025",
+  "hash": "540",
+  "unit": "Th/s",
+  "watts": "7200",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M70S",
+  "release": "Dec 2025",
+  "hash": "226",
+  "unit": "Th/s",
+  "watts": "3140",
+  "algo": "SHA-256",
+  "price": "$2,995"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M70",
+  "release": "Dec 2025",
+  "hash": "214",
+  "unit": "Th/s",
+  "watts": "3140",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M78S",
+  "release": "Dec 2025",
+  "hash": "472",
+  "unit": "Th/s",
+  "watts": "6550",
+  "algo": "SHA-256",
+  "price": "$8,699"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M76S",
+  "release": "Dec 2025",
+  "hash": "362",
+  "unit": "Th/s",
+  "watts": "5200",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M72S",
+  "release": "Dec 2025",
+  "hash": "264",
+  "unit": "Th/s",
+  "watts": "4000",
+  "algo": "SHA-256",
+  "price": "$5,600"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M73S",
+  "release": "Dec 2025",
+  "hash": "500",
+  "unit": "Th/s",
+  "watts": "7200",
+  "algo": "SHA-256",
+  "price": "$6,866"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M76",
+  "release": "Dec 2025",
+  "hash": "336",
+  "unit": "Th/s",
+  "watts": "5200",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "MicroBT",
+  "model": "WhatsMiner M73",
+  "release": "Dec 2025",
+  "hash": "470",
+  "unit": "Th/s",
+  "watts": "7200",
+  "algo": "SHA-256",
+  "price": "$5,555"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer L11 Hyd 2U",
+  "release": "Dec 2025",
+  "hash": "35",
+  "unit": "Gh/s",
+  "watts": "5775",
+  "algo": "Scrypt",
+  "price": "$11,289"
+ },
+ {
+  "brand": "ElphaPex",
+  "model": "DG2 Mini",
+  "release": "Oct 2025",
+  "hash": "2.4",
+  "unit": "Gh/s",
+  "watts": "530",
+  "algo": "Scrypt",
+  "price": "$629"
+ },
+ {
+  "brand": "Goldshell",
+  "model": "XT-BOX",
+  "release": "Oct 2025",
+  "hash": "580",
+  "unit": "Gh/s",
+  "watts": "400",
+  "algo": "SHA3x",
+  "price": "$1,226"
+ },
+ {
+  "brand": "Goldshell",
+  "model": "XT Card",
+  "release": "Oct 2025",
+  "hash": "100",
+  "unit": "Gh/s",
+  "watts": "65",
+  "algo": "SHA3x",
+  "price": "$269"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A3 Pro Hydro",
+  "release": "Sep 2025",
+  "hash": "660",
+  "unit": "Th/s",
+  "watts": "8250",
+  "algo": "SHA-256",
+  "price": "$10,190"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A3 Pro Air",
+  "release": "Sep 2025",
+  "hash": "290",
+  "unit": "Th/s",
+  "watts": "3625",
+  "algo": "SHA-256",
+  "price": "$4,490"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A3 Hydro",
+  "release": "Sep 2025",
+  "hash": "500",
+  "unit": "Th/s",
+  "watts": "6750",
+  "algo": "SHA-256",
+  "price": "$7,199"
+ },
+ {
+  "brand": "Bitdeer",
+  "model": "SealMiner A3 Air",
+  "release": "Sep 2025",
+  "hash": "260",
+  "unit": "Th/s",
+  "watts": "3640",
+  "algo": "SHA-256",
+  "price": "-"
+ },
+ {
+  "brand": "VolcMiner",
+  "model": "D1 Pro",
+  "release": "Aug 2025",
+  "hash": "20",
+  "unit": "Gh/s",
+  "watts": "3700",
+  "algo": "Scrypt",
+  "price": "-"
+ },
+ {
+  "brand": "Fluminer",
+  "model": "T3",
+  "release": "Aug 2025",
+  "hash": "115",
+  "unit": "Th/s",
+  "watts": "1700",
+  "algo": "SHA-256",
+  "price": "$1,649"
+ },
+ {
+  "brand": "IceRiver",
+  "model": "ALEO AE2",
+  "release": "Jul 2025",
+  "hash": "720",
+  "unit": "Mh/s",
+  "watts": "1300",
+  "algo": "zkSNARK",
+  "price": "$2,699"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer S21 XP+ Hyd",
+  "release": "Jul 2025",
+  "hash": "500",
+  "unit": "Th/s",
+  "watts": "5500",
+  "algo": "SHA-256",
+  "price": "$8,799"
+ },
+ {
+  "brand": "ElphaPex",
+  "model": "DG2+",
+  "release": "Jul 2025",
+  "hash": "20.5",
+  "unit": "Gh/s",
+  "watts": "3900",
+  "algo": "Scrypt",
+  "price": "$9,134"
+ },
+ {
+  "brand": "ElphaPex",
+  "model": "DG1S",
+  "release": "Jul 2025",
+  "hash": "10",
+  "unit": "Gh/s",
+  "watts": "3100",
+  "algo": "Scrypt",
+  "price": "$2,800"
+ },
+ {
+  "brand": "ElphaPex",
+  "model": "DG1 Lite",
+  "release": "Jul 2025",
+  "hash": "11",
+  "unit": "Gh/s",
+  "watts": "3410",
+  "algo": "Scrypt",
+  "price": "$1,589"
+ },
+ {
+  "brand": "IceRiver",
+  "model": "ALEO AE1 Lite",
+  "release": "Jun 2025",
+  "hash": "250",
+  "unit": "Mh/s",
+  "watts": "500",
+  "algo": "zkSNARK",
+  "price": "$800"
+ },
+ {
+  "brand": "VolcMiner",
+  "model": "D1 Hydro",
+  "release": "Jun 2025",
+  "hash": "33",
+  "unit": "Gh/s",
+  "watts": "9300",
+  "algo": "Scrypt",
+  "price": "$8,600"
+ },
+ {
+  "brand": "Fluminer",
+  "model": "L1 Pro",
+  "release": "Jun 2025",
+  "hash": "6",
+  "unit": "Gh/s",
+  "watts": "1400",
+  "algo": "Scrypt",
+  "price": "$1,210"
+ },
+ {
+  "brand": "ElphaPex",
+  "model": "DG2",
+  "release": "Jun 2025",
+  "hash": "18",
+  "unit": "Gh/s",
+  "watts": "3960",
+  "algo": "Scrypt",
+  "price": "$4,680"
+ },
+ {
+  "brand": "Jasminer",
+  "model": "X44-P",
+  "release": "Jun 2025",
+  "hash": "23.4",
+  "unit": "Gh/s",
+  "watts": "2550",
+  "algo": "EtHash",
+  "price": "$12,399"
+ },
+ {
+  "brand": "Fluminer",
+  "model": "L2",
+  "release": "May 2025",
+  "hash": "1",
+  "unit": "Gh/s",
+  "watts": "230",
+  "algo": "Scrypt",
+  "price": "$399"
+ },
+ {
+  "brand": "Bitmain",
+  "model": "Antminer KS7",
+  "release": "May 2025",
+  "hash": "40",
+  "unit": "Th/s",
+  "watts": "3080",
+  "algo": "KHeavyHash",
+  "price": "$1,600"
+ },
+ {
+  "brand": "IceRiver",
+  "model": "ALEO AE1 Lite",
+  "release": "Apr 2025",
+  "hash": "300",
+  "unit": "Mh/s",
+  "watts": "500",
+  "algo": "zkSNARK",
+  "price": "$1,229"
+ },
+ {
+  "brand": "IceRiver",
+  "model": "KAS KS7",
+  "release": "Apr 2025",
+  "hash": "30",
+  "unit": "Th/s",
+  "watts": "3500",
+  "algo": "KHeavyHash",
+  "price": "$2,453"
+ },
+ {
+  "brand": "iBeLink",
+  "model": "BM-S3+",
+  "release": "Apr 2025",
+  "hash": "25",
+  "unit": "Th/s",
+  "watts": "3400",
+  "algo": "Blake2B-Sia",
+  "price": "$12,000"
+ },
+ {
+  "brand": "Canaan",
+  "model": "Avalon Q",
+  "release": "Apr 2025",
+  "hash": "90",
+  "unit": "Th/s",
+  "watts": "1674",
+  "algo": "SHA-256",
+  "price": "$1,409"
+ }
+]

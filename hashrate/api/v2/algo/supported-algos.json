@@ -1,0 +1,725 @@
+[
+ {
+  "name": "SHA-256",
+  "cryptoTickers": [
+   "BTC",
+   "BCH",
+   "BSV",
+   "XEC",
+   "PPC",
+   "NMC",
+   "UNO",
+   "ELP",
+   "ECA",
+   "BBTC",
+   "DNotes",
+   "CMC",
+   "XEC"
+  ]
+ },
+ {
+  "name": "Tensority",
+  "cryptoTickers": [
+   "BTM"
+  ]
+ },
+ {
+  "name": "Myriad-Groestl",
+  "cryptoTickers": [
+   "XMY"
+  ]
+ },
+ {
+  "name": "SHA512256d",
+  "cryptoTickers": [
+   "RXD"
+  ]
+ },
+ {
+  "name": "Blake3",
+  "cryptoTickers": [
+   "ALPH"
+  ]
+ },
+ {
+  "name": "zkSNARK",
+  "cryptoTickers": [
+   "ALEO"
+  ]
+ },
+ {
+  "name": "Blake (2b)",
+  "cryptoTickers": [
+   "SC",
+   "NANO"
+  ]
+ },
+ {
+  "name": "Tensority",
+  "cryptoTickers": [
+   "BTM"
+  ]
+ },
+ {
+  "name": "Keccak",
+  "cryptoTickers": [
+   "SMART"
+  ]
+ },
+ {
+  "name": "Blake (14r)",
+  "cryptoTickers": [
+   "DCR"
+  ]
+ },
+ {
+  "name": "Blake (2b-Sia)",
+  "cryptoTickers": [
+   "SC"
+  ]
+ },
+ {
+  "name": "Blake (2s-Kadena)",
+  "cryptoTickers": [
+   "KDA"
+  ]
+ },
+ {
+  "name": "Etchash",
+  "cryptoTickers": [
+   "ETC"
+  ]
+ },
+ {
+  "name": "Cuckatoo32",
+  "cryptoTickers": [
+   "GRIN"
+  ]
+ },
+ {
+  "name": "Cryptonite",
+  "cryptoTickers": [
+   "XCN"
+  ]
+ },
+ {
+  "name": "Odocrypt",
+  "cryptoTickers": [
+   "DGB"
+  ]
+ },
+ {
+  "name": "LBRY",
+  "cryptoTickers": [
+   "LBC"
+  ]
+ },
+ {
+  "name": "Handshake",
+  "cryptoTickers": [
+   "HNS"
+  ]
+ },
+ {
+  "name": "Scrypt",
+  "cryptoTickers": [
+   "LTC",
+   "DOGE",
+   "DGB",
+   "XVG",
+   "GAME",
+   "EMD",
+   "XLC",
+   "NSR",
+   "AUR",
+   "GRC",
+   "SPR",
+   "VIA",
+   "CLAM",
+   "WDC",
+   "ULTC",
+   "PSC"
+  ]
+ },
+ {
+  "name": "Ethash",
+  "cryptoTickers": [
+   "ETC",
+   "EXP",
+   "UBQ",
+   "ETP",
+   "DBIX",
+   "MIX",
+   "CLO",
+   "MOAC",
+   "PIRL",
+   "ETHW",
+   "OCTA",
+   "QKC"
+  ]
+ },
+ {
+  "name": "NexaPow",
+  "cryptoTickers": [
+   "NEXA"
+  ]
+ },
+ {
+  "name": "ProgPoW",
+  "cryptoTickers": [
+   "ETHW",
+   "ETHF",
+   "VTC",
+   "Zero",
+   "EPIC"
+  ]
+ },
+ {
+  "name": "RandomX",
+  "cryptoTickers": [
+   "XMR",
+   "WOWNERO",
+   "AEON",
+   "ZEPH",
+   "EPIC",
+   "ETI",
+   "QRL",
+   "XDAG"
+  ]
+ },
+ {
+  "name": "RandomSFX",
+  "cryptoTickers": [
+   "SFX"
+  ]
+ },
+ {
+  "name": "CryptoNight",
+  "cryptoTickers": [
+   "BCN",
+   "XDN",
+   "XHV",
+   "TUBE",
+   "DERO",
+   "MSR",
+   "OMBRE",
+   "QRL",
+   "IPBC",
+   "MCM"
+  ]
+ },
+ {
+  "name": "CryptoNightV7",
+  "cryptoTickers": [
+   "XMC",
+   "XAO"
+  ]
+ },
+ {
+  "name": "CryptoNightR",
+  "cryptoTickers": [
+   "XMR"
+  ]
+ },
+ {
+  "name": "CryptoNightHeavy",
+  "cryptoTickers": [
+   "TRTL",
+   "RYO"
+  ]
+ },
+ {
+  "name": "Equihash",
+  "cryptoTickers": [
+   "ZEC",
+   "ZEN",
+   "KMD",
+   "BTCZ",
+   "BTG",
+   "HUSH",
+   "SAFE",
+   "ARRR",
+   "ZCL"
+  ]
+ },
+ {
+  "name": "Equihash 144_5",
+  "cryptoTickers": [
+   "ASF",
+   "XSG",
+   "Safex",
+   "BEAM",
+   "LOKI"
+  ]
+ },
+ {
+  "name": "Equihash 192_7",
+  "cryptoTickers": [
+   "GRFT",
+   "XZC",
+   "FIRO",
+   "ZERO"
+  ]
+ },
+ {
+  "name": "Equihash 125_4",
+  "cryptoTickers": [
+   "ZEL",
+   "SAFE"
+  ]
+ },
+ {
+  "name": "ZHash",
+  "cryptoTickers": [
+   "ZEL",
+   "BTCZ"
+  ]
+ },
+ {
+  "name": "BeamHash",
+  "cryptoTickers": [
+   "BEAM"
+  ]
+ },
+ {
+  "name": "kHeavyHash",
+  "cryptoTickers": [
+   "KAS"
+  ]
+ },
+ {
+  "name": "Eaglesong",
+  "cryptoTickers": [
+   "CKB"
+  ]
+ },
+ {
+  "name": "Autolykos",
+  "cryptoTickers": [
+   "ERG"
+  ]
+ },
+ {
+  "name": "Autolykos v2",
+  "cryptoTickers": [
+   "ERG"
+  ]
+ },
+ {
+  "name": "KawPoW",
+  "cryptoTickers": [
+   "RVN",
+   "KRGN",
+   "NEOX",
+   "QUAI",
+   "XNA"
+  ]
+ },
+ {
+  "name": "X11",
+  "cryptoTickers": [
+   "DASH",
+   "PURA",
+   "CANN",
+   "MUE",
+   "ADZ",
+   "CINNI",
+   "AUR"
+  ]
+ },
+ {
+  "name": "X12",
+  "cryptoTickers": [
+   "DigitalPriceClassic"
+  ]
+ },
+ {
+  "name": "X13",
+  "cryptoTickers": [
+   "SMART",
+   "CLOAK",
+   "XVC",
+   "B3",
+   "GPUC"
+  ]
+ },
+ {
+  "name": "X14",
+  "cryptoTickers": [
+   "X14Coin"
+  ]
+ },
+ {
+  "name": "X15",
+  "cryptoTickers": [
+   "HTML",
+   "VTA"
+  ]
+ },
+ {
+  "name": "X16R",
+  "cryptoTickers": [
+   "RVN",
+   "VGO"
+  ]
+ },
+ {
+  "name": "X16Rv2",
+  "cryptoTickers": [
+   "RVN"
+  ]
+ },
+ {
+  "name": "X16S",
+  "cryptoTickers": [
+   "XSH",
+   "BitCash"
+  ]
+ },
+ {
+  "name": "X17",
+  "cryptoTickers": [
+   "XVG",
+   "DGB"
+  ]
+ },
+ {
+  "name": "X21S",
+  "cryptoTickers": [
+   "X21S Coin"
+  ]
+ },
+ {
+  "name": "X25X",
+  "cryptoTickers": [
+   "Shield"
+  ]
+ },
+ {
+  "name": "GhostRider",
+  "cryptoTickers": [
+   "RTM"
+  ]
+ },
+ {
+  "name": "Cuckoo Cycle",
+  "cryptoTickers": [
+   "GRIN",
+   "BHD",
+   "Aeternity"
+  ]
+ },
+ {
+  "name": "Cuckatoo31+",
+  "cryptoTickers": [
+   "GRIN",
+   "MWC"
+  ]
+ },
+ {
+  "name": "Cuckarood29",
+  "cryptoTickers": [
+   "GRIN"
+  ]
+ },
+ {
+  "name": "Cuckaroo29s",
+  "cryptoTickers": [
+   "SWAP"
+  ]
+ },
+ {
+  "name": "Cuckaroo29",
+  "cryptoTickers": [
+   "CTXC",
+   "XTM"
+  ]
+ },
+ {
+  "name": "Blake2B-Sia",
+  "cryptoTickers": [
+   "SC"
+  ]
+ },
+ {
+  "name": "Blake2b",
+  "cryptoTickers": [
+   "SC"
+  ]
+ },
+ {
+  "name": "Blake2s",
+  "cryptoTickers": [
+   "NRG",
+   "BCO"
+  ]
+ },
+ {
+  "name": "Blake256",
+  "cryptoTickers": [
+   "SLS",
+   "NEOS"
+  ]
+ },
+ {
+  "name": "Blake256r14",
+  "cryptoTickers": [
+   "DCR"
+  ]
+ },
+ {
+  "name": "Blake256r8",
+  "cryptoTickers": [
+   "NANO"
+  ]
+ },
+ {
+  "name": "Argon2d",
+  "cryptoTickers": [
+   "PIRL",
+   "UFO"
+  ]
+ },
+ {
+  "name": "Argon2id",
+  "cryptoTickers": [
+   "Webchain",
+   "Wage"
+  ]
+ },
+ {
+  "name": "MTP",
+  "cryptoTickers": [
+   "FIRO",
+   "XZC"
+  ]
+ },
+ {
+  "name": "FiroPoW",
+  "cryptoTickers": [
+   "FIRO"
+  ]
+ },
+ {
+  "name": "Yescrypt",
+  "cryptoTickers": [
+   "YTN",
+   "BSTY"
+  ]
+ },
+ {
+  "name": "Yespower",
+  "cryptoTickers": [
+   "RIO",
+   "ARRR"
+  ]
+ },
+ {
+  "name": "NeoScrypt",
+  "cryptoTickers": [
+   "FTC",
+   "VIVO"
+  ]
+ },
+ {
+  "name": "Quark",
+  "cryptoTickers": [
+   "QRK"
+  ]
+ },
+ {
+  "name": "Quibit",
+  "cryptoTickers": [
+   "Q2C"
+  ]
+ },
+ {
+  "name": "Lyra2RE",
+  "cryptoTickers": [
+   "VTC",
+   "MONA"
+  ]
+ },
+ {
+  "name": "Lyra2REv2",
+  "cryptoTickers": [
+   "VTC",
+   "MONA",
+   "DGB",
+   "SYS",
+   "XVG"
+  ]
+ },
+ {
+  "name": "Lyra2z",
+  "cryptoTickers": [
+   "XZC",
+   "VITAE"
+  ]
+ },
+ {
+  "name": "Timetravel10",
+  "cryptoTickers": [
+   "BTX"
+  ]
+ },
+ {
+  "name": "Groestl",
+  "cryptoTickers": [
+   "DGB",
+   "GROESTL"
+  ]
+ },
+ {
+  "name": "Skunkhash",
+  "cryptoTickers": [
+   "SIGT"
+  ]
+ },
+ {
+  "name": "PHI1612",
+  "cryptoTickers": [
+   "EXCL",
+   "LUX"
+  ]
+ },
+ {
+  "name": "Abelhash",
+  "cryptoTickers": [
+   "ABEL"
+  ]
+ },
+ {
+  "name": "BeamHashIII",
+  "cryptoTickers": [
+   "BEAM"
+  ]
+ },
+ {
+  "name": "Blake3DCR",
+  "cryptoTickers": [
+   "DCR"
+  ]
+ },
+ {
+  "name": "CryptoNightGPU",
+  "cryptoTickers": [
+   "CCX",
+   "RYO"
+  ]
+ },
+ {
+  "name": "CuckooCycle",
+  "cryptoTickers": [
+   "AE"
+  ]
+ },
+ {
+  "name": "DynexSolve",
+  "cryptoTickers": [
+   "DNX"
+  ]
+ },
+ {
+  "name": "EquihashZero",
+  "cryptoTickers": [
+   "ZCL"
+  ]
+ },
+ {
+  "name": "EvrProgPow",
+  "cryptoTickers": [
+   "EVR"
+  ]
+ },
+ {
+  "name": "FishHash",
+  "cryptoTickers": [
+   "IRON"
+  ]
+ },
+ {
+  "name": "Karlsenhashv2",
+  "cryptoTickers": [
+   "KLS"
+  ]
+ },
+ {
+  "name": "MeowPow",
+  "cryptoTickers": [
+   "MEWC"
+  ]
+ },
+ {
+  "name": "MoneroRandomX",
+  "cryptoTickers": [
+   "XTM"
+  ]
+ },
+ {
+  "name": "Octopus",
+  "cryptoTickers": [
+   "CFX"
+  ]
+ },
+ {
+  "name": "Pearl",
+  "cryptoTickers": [
+   "PRL"
+  ]
+ },
+ {
+  "name": "ProgPowZ",
+  "cryptoTickers": [
+   "ZANO"
+  ]
+ },
+ {
+  "name": "QPoW",
+  "cryptoTickers": [
+   "QUANTUS"
+  ]
+ },
+ {
+  "name": "Qhash",
+  "cryptoTickers": [
+   "QTC"
+  ]
+ },
+ {
+  "name": "SHA3x",
+  "cryptoTickers": [
+   "XTM"
+  ]
+ },
+ {
+  "name": "TariRandomX",
+  "cryptoTickers": [
+   "XTM"
+  ]
+ },
+ {
+  "name": "Verthash",
+  "cryptoTickers": [
+   "VTC"
+  ]
+ },
+ {
+  "name": "Xelishashv3",
+  "cryptoTickers": [
+   "XEL"
+  ]
+ },
+ {
+  "name": "Xhash",
+  "cryptoTickers": [
+   "LAX"
+  ]
+ },
+ {
+  "name": "YescryptR32",
+  "cryptoTickers": [
+   "LPEPE"
+  ]
+ }
+]
