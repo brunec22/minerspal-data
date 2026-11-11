@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T16:37:43Z",
+ "updatedAt": "2026-11-11T23:05:00Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -33,12 +33,6 @@
   },
   "BCH": {
    "id": 193,
-   "algorithm": "SHA-256",
-   "unit": 1000000000000.0,
-   "unitLabel": "Th/s"
-  },
-  "BCH2": {
-   "id": 475,
    "algorithm": "SHA-256",
    "unit": 1000000000000.0,
    "unitLabel": "Th/s"
