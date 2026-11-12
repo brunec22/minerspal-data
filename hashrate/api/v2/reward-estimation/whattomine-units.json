@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T17:06:04Z",
+ "updatedAt": "2026-11-12T23:53:31Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -190,12 +190,6 @@
   "KLS": {
    "id": 428,
    "algorithm": "Karlsenhashv2",
-   "unit": 1000000.0,
-   "unitLabel": "Mh/s"
-  },
-  "LAX": {
-   "id": 454,
-   "algorithm": "Xhash",
    "unit": 1000000.0,
    "unitLabel": "Mh/s"
   },
