@@ -1,6 +1,375 @@
 {
  "results": [
   {
+   "slug": "jane-street-lifts-its-strategy-mstr-stake-54-to-4-1-million-shares",
+   "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+   "description": "Bitcoin Magazine Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares A 13F filed Thursday shows Jane Street held 4,119,097 Strategy shares as of Sept. 30, up 53.8%. This post Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million…",
+   "published_at": "2026-11-12T23:30:47Z",
+   "created_at": "2026-11-12T23:30:47Z",
+   "url": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "maple-finance-s-strategy-rift-sends-co-founder-coo-to-the-exits",
+   "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+   "description": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
+   "published_at": "2026-11-12T23:12:55Z",
+   "created_at": "2026-11-12T23:12:55Z",
+   "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "bottomline-completes-first-usdc-transfers-inside-its-enterprise-payments-platfor",
+   "title": "Bottomline Completes First USDC Transfers Inside Its Enterprise Payments Platform",
+   "description": "Bottomline says it completed its first live cross-border USDC payments through its Global Payments Hub and Cash Management platform as an intra-company transfer.",
+   "published_at": "2026-11-12T23:00:00Z",
+   "created_at": "2026-11-12T23:00:00Z",
+   "url": "https://www.newsbtc.com/technology/bottomline-usdc-first-live-enterprise-payment-transfers/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-1-2-billion-in-sto",
+   "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+   "description": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
+   "published_at": "2026-11-12T22:55:52Z",
+   "created_at": "2026-11-12T22:55:52Z",
+   "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "india-s-ed-targets-coindcx-and-delta-over-billions-in-alleged-unauthorized-overs",
+   "title": "India’s ED Targets CoinDCX and Delta Over Billions in Alleged Unauthorized Overseas Trades",
+   "description": "CoinDCX is under scrutiny after the ED alleged it routed customer funds through USDT to foreign exchanges without proper authorization.",
+   "published_at": "2026-11-12T22:50:44Z",
+   "created_at": "2026-11-12T22:50:44Z",
+   "url": "https://cryptopotato.com/indias-ed-targets-coindcx-and-delta-over-billions-in-alleged-unauthorized-overseas-trades/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch",
+   "title": "Solana treasury Forward Industries flashes a 30% SOL discount, with a catch",
+   "description": "Forward’s November 9 snapshot shows a 16.8% discount on its in-the-money share count, while the broadest count includes conditional warrants. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
+   "published_at": "2026-11-12T22:50:29Z",
+   "created_at": "2026-11-12T22:50:29Z",
+   "url": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "u-s-president-trump-names-cftc-sec-nominees-for-first-time-in-a-year",
+   "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+   "description": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
+   "published_at": "2026-11-12T22:47:41Z",
+   "created_at": "2026-11-12T22:47:41Z",
+   "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "doj-moves-to-seize-1-2-billion-from-binance-hack-disrupts-north-korean-deepfake-",
+   "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+   "description": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
+   "published_at": "2026-11-12T22:40:22Z",
+   "created_at": "2026-11-12T22:40:22Z",
+   "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+   "source": "The Block"
+  },
+  {
+   "slug": "republican-senator-wants-to-freeze-ai-data-center-boom-as-congress-pushes-to-exp",
+   "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+   "description": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
+   "published_at": "2026-11-12T22:36:02Z",
+   "created_at": "2026-11-12T22:36:02Z",
+   "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "doj-s-operation-tornado-arrests-354-and-seizes-234-million-in-cash-and-crypto",
+   "title": "DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+   "description": "Bitcoin Magazine DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto The Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of…",
+   "published_at": "2026-11-12T22:35:22Z",
+   "created_at": "2026-11-12T22:35:22Z",
+   "url": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "bitcoin-faces-two-red-years-for-the-first-time-ever",
+   "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+   "description": "▶ Bitcoin Magazine Bitcoin Faces Two Red Years For the First Time Ever Bitcoin has never posted back-to-back losing years, but 2026 could change that. This post Bitcoin Faces Two Red Years For the First Time Ever first appeared on Bitcoin Magazine and is…",
+   "published_at": "2026-11-12T22:30:06Z",
+   "created_at": "2026-11-12T22:30:06Z",
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
+   "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+   "description": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
+   "published_at": "2026-11-12T22:29:58Z",
+   "created_at": "2026-11-12T22:29:58Z",
+   "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "gemini-trading-volume-drops-73-as-q3-revenue-falls-to-41-million",
+   "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+   "description": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
+   "published_at": "2026-11-12T22:18:10Z",
+   "created_at": "2026-11-12T22:18:10Z",
+   "url": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+   "source": "The Block"
+  },
+  {
+   "slug": "here-s-what-happened-in-crypto-today",
+   "title": "Here’s what happened in crypto today",
+   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published_at": "2026-11-12T22:11:41Z",
+   "created_at": "2026-11-12T22:11:41Z",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "north-korea-stole-400-million-in-crypto-using-deepfake-video-calls-doj-says",
+   "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+   "description": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls—as the DOJ also moves to seize $1.2 billion from the Binance hack.",
+   "published_at": "2026-11-12T22:06:03Z",
+   "created_at": "2026-11-12T22:06:03Z",
+   "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "kalshi-ends-donald-trump-jr-advisory-role-over-polymarket-investment-reuters",
+   "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+   "description": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
+   "published_at": "2026-11-12T22:05:01Z",
+   "created_at": "2026-11-12T22:05:01Z",
+   "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "russia-sets-november-22-start-for-exchange-crypto-trading-subject-to-approval",
+   "title": "Russia Sets November 22 Start for Exchange Crypto Trading, Subject to Approval",
+   "description": "Russia’s central bank has set November 22 as the earliest start under new exchange trading rules, with each venue’s rulebook requiring regulatory concurrence.",
+   "published_at": "2026-11-12T22:00:00Z",
+   "created_at": "2026-11-12T22:00:00Z",
+   "url": "https://www.newsbtc.com/regulation/russia-exchange-crypto-trading-november-22-rules/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "strategy-stock-sheds-5-amid-msci-index-removal-bitcoin-sell-off",
+   "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+   "description": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
+   "published_at": "2026-11-12T21:52:04Z",
+   "created_at": "2026-11-12T21:52:04Z",
+   "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "louisiana-sues-kalshi-robinhood-and-other-prediction-markets-in-escalating-regul",
+   "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+   "description": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
+   "published_at": "2026-11-12T21:44:30Z",
+   "created_at": "2026-11-12T21:44:30Z",
+   "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+   "source": "The Block"
+  },
+  {
+   "slug": "anthropic-s-new-ai-leads-freelance-benchmarks-yet-fails-58-of-the-tasks",
+   "title": "Anthropic’s new AI leads freelance benchmarks, yet fails 58% of the tasks",
+   "description": "Fable 5.2 leads Scale’s Remote Labor Index, which judges complete deliverables against professional reference work. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-12T21:40:20Z",
+   "created_at": "2026-11-12T21:40:20Z",
+   "url": "https://cryptoslate.com/anthropics-new-ai-leads-freelance-benchmarks-yet-fails-58-of-the-tasks/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "strategy-made-19-5-billion-in-profit-so-why-is-msci-removing-it-from-stock-index",
+   "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+   "description": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying.",
+   "published_at": "2026-11-12T21:26:03Z",
+   "created_at": "2026-11-12T21:26:03Z",
+   "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "xrp-eth-doge-tim-draper-predicts-bitcoin-to-absorb-altcoins",
+   "title": "XRP, ETH, DOGE: Tim Draper Predicts Bitcoin to Absorb Altcoins",
+   "description": "Billionaire investor Tim Draper has predicted that Bitcoin will eventually absorb innovations pioneered by competing cryptocurrencies, potentially threatening the dominance of major altcoins such as XRP, Ethereum (ETH) and Dogecoin (DOGE).",
+   "published_at": "2026-11-12T21:20:39Z",
+   "created_at": "2026-11-12T21:20:39Z",
+   "url": "https://u.today/xrp-eth-doge-tim-draper-predicts-bitcoin-to-absorb-altcoins",
+   "source": "U.Today"
+  },
+  {
+   "slug": "kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-i",
+   "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+   "description": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.",
+   "published_at": "2026-11-12T21:07:49Z",
+   "created_at": "2026-11-12T21:07:49Z",
+   "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financin",
+   "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+   "description": "▶ Bitcoin Magazine Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing NVIDIA CEO Jensen Huang has resigned after the company's board met to discuss possible removal, and BMTV hosts Grace Remington and Sean Hagan walk through…",
+   "published_at": "2026-11-12T21:00:13Z",
+   "created_at": "2026-11-12T21:00:13Z",
+   "url": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "usdc-enters-dual-eu-supervision-as-eba-oversight-takes-effect",
+   "title": "USDC Enters Dual EU Supervision as EBA Oversight Takes Effect",
+   "description": "USDC’s joint European supervision begins November 12 under MiCA.",
+   "published_at": "2026-11-12T21:00:00Z",
+   "created_at": "2026-11-12T21:00:00Z",
+   "url": "https://www.newsbtc.com/regulation/usdc-eba-dual-supervision-november-12-mica/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "us-justice-department-business-groups-and-defi-firms-challenge-illinois-crypto-t",
+   "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+   "description": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
+   "published_at": "2026-11-12T20:58:06Z",
+   "created_at": "2026-11-12T20:58:06Z",
+   "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "why-the-path-to-quantum-resistance-runs-uphill-for-bitcoin-wallet-makers",
+   "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+   "description": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+   "published_at": "2026-11-12T20:36:03Z",
+   "created_at": "2026-11-12T20:36:03Z",
+   "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "polymarket-lays-off-employees-and-ends-contractor-deals-denies-reports-of-30-wor",
+   "title": "Polymarket Lays Off Employees and Ends Contractor Deals, Denies Reports of 30% Workforce Cuts",
+   "description": "The company did not disclose how many employees and contractors were affected by the cuts.",
+   "published_at": "2026-11-12T20:20:15Z",
+   "created_at": "2026-11-12T20:20:15Z",
+   "url": "https://cryptopotato.com/polymarket-lays-off-employees-and-ends-contractor-deals-denies-reports-of-30-workforce-cuts/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+   "title": "Peter Schiff on the Bitcoin Crash: “Get the Hell Out”",
+   "description": "▶ Bitcoin Magazine Peter Schiff on the Bitcoin Crash: “Get the Hell Out” Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop…",
+   "published_at": "2026-11-12T20:15:28Z",
+   "created_at": "2026-11-12T20:15:28Z",
+   "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "helius-encrypts-solana-transfers-without-removing-operator-trust",
+   "title": "Helius encrypts Solana transfers without removing operator trust",
+   "description": "The default Privacy Rings prover protects secret inputs inside an AWS enclave, while wallets approve the code and policies behind that protection. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-12T20:10:03Z",
+   "created_at": "2026-11-12T20:10:03Z",
+   "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "dtcc-plans-solana-expansion-as-wallet-rules-limit-access",
+   "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+   "description": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.",
+   "published_at": "2026-11-12T20:07:41Z",
+   "created_at": "2026-11-12T20:07:41Z",
+   "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "avalanche-owns-five-percent-of-tokenized-stocks",
+   "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+   "description": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN…",
+   "published_at": "2026-11-12T20:02:00Z",
+   "created_at": "2026-11-12T20:02:00Z",
+   "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+   "source": "The Block"
+  },
+  {
+   "slug": "onramp-launches-business-bitcoin-accounts-with-team-withdrawal-approvals",
+   "title": "Onramp Launches Business Bitcoin Accounts With Team Withdrawal Approvals",
+   "description": "Onramp’s new business account adds named users and withdrawal approvals. Its more expensive Treasury tier introduces a separate multi-institution custody arrangement.",
+   "published_at": "2026-11-12T20:00:00Z",
+   "created_at": "2026-11-12T20:00:00Z",
+   "url": "https://www.newsbtc.com/bitcoin-news/onramp-business-bitcoin-accounts-withdrawal-approvals/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "ripple-s-rlusd-overtakes-paypal-s-pyusd",
+   "title": "Ripple's RLUSD Overtakes PayPal's PYUSD",
+   "description": "Ripple's RLUSD has surpassed PayPal's PYUSD in market capitalization, reaching $2.71 billion as growing institutional adoption and major exchange integrations fuel the stablecoin's rapid expansion.",
+   "published_at": "2026-11-12T19:36:07Z",
+   "created_at": "2026-11-12T19:36:07Z",
+   "url": "https://u.today/ripples-rlusd-overtakes-paypals-pyusd",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahe",
+   "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+   "description": "Bitcoin and Ethereum fell to three-month lows Thursday, deepening a cryptocurrency selloff that has erased $550 billion in market value since October. Bitcoin slumped to $71,317, its lowest level since August, while Ethereum briefly fell below $2,000 to touch…",
+   "published_at": "2026-11-12T19:20:12Z",
+   "created_at": "2026-11-12T19:20:12Z",
+   "url": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
+   "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
+   "description": "▶ Bitcoin Magazine Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold Simon Dixon, CEO and co-founder of BnkToTheFuture, tells BMTV there are only three things that would make him sell all of his Bitcoin and buy gold. This post Simon Dixon…",
+   "published_at": "2026-11-12T19:19:08Z",
+   "created_at": "2026-11-12T19:19:08Z",
+   "url": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "binance-says-it-has-fully-covered-the-6-34-billion-hack-with-company-funds",
+   "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
+   "description": "Bitcoin Magazine Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds The exchange says users are whole after the Oct. 29 theft, paid for from SAFU, its futures insurance fund and treasury, and has published a 198-token…",
+   "published_at": "2026-11-12T19:12:14Z",
+   "created_at": "2026-11-12T19:12:14Z",
+   "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+   "source": "Bitcoin Magazine"
+  },
+  {
+   "slug": "top-hyperliquid-price-predictions-as-hype-tumbles-15-in-a-week",
+   "title": "Top Hyperliquid Price Predictions as HYPE Tumbles 15% in a Week",
+   "description": "Can HYPE avoid a crash to $50?",
+   "published_at": "2026-11-12T19:04:48Z",
+   "created_at": "2026-11-12T19:04:48Z",
+   "url": "https://cryptopotato.com/top-hyperliquid-price-predictions-as-hype-tumbles-15-in-a-week/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "fold-s-bitcoin-gift-cards-gain-traction-as-q3-revenue-reaches-4-2m",
+   "title": "Fold’s Bitcoin Gift Cards Gain Traction as Q3 Revenue Reaches $4.2M",
+   "description": "Fold says TikTok Shop helped expand its Bitcoin gift-card business as it shifts toward retaining customer balances. Its latest quarter still produced a net loss.",
+   "published_at": "2026-11-12T19:00:00Z",
+   "created_at": "2026-11-12T19:00:00Z",
+   "url": "https://www.newsbtc.com/business/fold-q3-2026-bitcoin-gift-cards-customer-balances/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "who-is-colette-kress-jensen-huang-s-successor-as-nvidia-ceo",
+   "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+   "description": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.",
+   "published_at": "2026-11-12T18:55:03Z",
+   "created_at": "2026-11-12T18:55:03Z",
+   "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk",
+   "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
+   "description": "Closed-ended vaults would exchange immediate access for borrower-funded income, while optional loss cover and share-sale conditions shape the risk. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-12T18:50:20Z",
+   "created_at": "2026-11-12T18:50:20Z",
+   "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/",
+   "source": "CryptoSlate"
+  },
+  {
    "slug": "nvidia-amd-broadcom-the-ai-stock-winners-and-losers-after-jensen-huang-s-ousting",
    "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
    "description": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.",
@@ -163,375 +532,6 @@
    "source": "CryptoPotato"
   },
   {
-   "slug": "jpmorgan-lifts-its-strategy-mstr-stake-36-and-holds-540-million-in-bitcoin-etfs",
-   "title": "JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs",
-   "description": "Bitcoin Magazine JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs A 13F filed Thursday shows JPMorgan held 848,932 Strategy shares, up 36% from June, and 11.4 million IBIT shares worth $540 million at Sept. 30, weeks before…",
-   "published_at": "2026-11-12T16:19:17Z",
-   "created_at": "2026-11-12T16:19:17Z",
-   "url": "https://bitcoinmagazine.com/markets/jpmorgan-lifts-strategy-mstr-stake-36",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "ethereum-researchers-drop-faster-block-plan-to-prioritize-quantum-security",
-   "title": "Ethereum Researchers Drop Faster Block Plan to Prioritize Quantum Security",
-   "description": "Ethereum researchers are proposing a major change to the network’s development priorities, stepping away from plans to introduce faster block production in favor of accelerating protections against quantum computing and artificial intelligence threats…",
-   "published_at": "2026-11-12T16:12:07Z",
-   "created_at": "2026-11-12T16:12:07Z",
-   "url": "https://bitcoinist.com/ethereum-researchers-drop-faster-block-plan-to-prioritize-quantum-security/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "crypto-exchange-gemini-sells-u-k-and-eu-units-to-kast-for-under-10-million",
-   "title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
-   "description": "Bitcoin Magazine Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million A person familiar with the matter said Gemini sold its already shuttered U.K. and European operations to Singapore payments firm KAST for less than $10 million…",
-   "published_at": "2026-11-12T16:07:57Z",
-   "created_at": "2026-11-12T16:07:57Z",
-   "url": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "anchorage-digital-s-stablecoins-can-now-settle-payments-on-visa-s-network",
-   "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
-   "description": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet obligations.",
-   "published_at": "2026-11-12T16:01:03Z",
-   "created_at": "2026-11-12T16:01:03Z",
-   "url": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "visa-adds-western-union-s-usdpt-stablecoin-to-its-settlement-network-in-anchorag",
-   "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
-   "description": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
-   "published_at": "2026-11-12T16:00:00Z",
-   "created_at": "2026-11-12T16:00:00Z",
-   "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-   "source": "The Block"
-  },
-  {
-   "slug": "bitcoin-etfs-lose-299-8m-as-five-session-outflow-streak-reaches-1-44b",
-   "title": "Bitcoin ETFs Lose $299.8M as Five-Session Outflow Streak Reaches $1.44B",
-   "description": "The latest complete US session brought $299.8 million in net Bitcoin ETF withdrawals. BlackRock led outflows while Morgan Stanley recorded a modest inflow.",
-   "published_at": "2026-11-12T16:00:00Z",
-   "created_at": "2026-11-12T16:00:00Z",
-   "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-etf-outflows-november-11-2026-five-sessions/",
-   "source": "NewsBTC"
-  },
-  {
-   "slug": "xrp-shib-btc-and-other-tokens-hit-hard-by-abrupt-resignation-of-nvidia-ceo",
-   "title": "XRP, SHIB, BTC and Other Tokens Hit Hard by Abrupt Resignation of Nvidia CEO",
-   "description": "Bitcoin, XRP, Ethereum and Shiba Inu are facing mounting selling pressure as Nvidia CEO Jensen Huang's abrupt resignation rattles financial markets, triggering a massive stock sell-off and adding to the ongoing crypto market bloodbath.",
-   "published_at": "2026-11-12T15:56:43Z",
-   "created_at": "2026-11-12T15:56:43Z",
-   "url": "https://u.today/xrp-shib-btc-and-other-tokens-hit-hard-by-abrupt-resignation-of-nvidia-ceo",
-   "source": "U.Today"
-  },
-  {
-   "slug": "msci-drops-saylor-s-strategy-from-its-index-amid-btc-sell-off",
-   "title": "MSCI Drops Saylor's Strategy From Its Index Amid BTC Sell-Off",
-   "description": "MSCI's November 2026 index review will remove Strategy from the MSCI USA Index.",
-   "published_at": "2026-11-12T15:56:17Z",
-   "created_at": "2026-11-12T15:56:17Z",
-   "url": "https://u.today/msci-drops-saylors-strategy-from-its-index-amid-btc-sell-off",
-   "source": "U.Today"
-  },
-  {
-   "slug": "tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
-   "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
-   "description": "KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.",
-   "published_at": "2026-11-12T15:55:38Z",
-   "created_at": "2026-11-12T15:55:38Z",
-   "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "bitcoin-slides-toward-71k-as-nvidia-stock-tumbles-after-huang-steps-down",
-   "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-   "description": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
-   "published_at": "2026-11-12T15:46:06Z",
-   "created_at": "2026-11-12T15:46:06Z",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-   "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-   "description": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
-   "published_at": "2026-11-12T15:45:48Z",
-   "created_at": "2026-11-12T15:45:48Z",
-   "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "bitcoin-s-spot-demand-signal-is-improving-a-bigger-futures-slump-is-drowning-it-",
-   "title": "Bitcoin’s spot-demand signal is improving. A bigger futures slump is drowning it out",
-   "description": "Both demand components remain negative, leaving Bitcoin’s tentative stabilization dependent on persistent spot improvement and easing futures weakness. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get…",
-   "published_at": "2026-11-12T15:45:21Z",
-   "created_at": "2026-11-12T15:45:21Z",
-   "url": "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "anthropic-and-the-ai-boom-how-crypto-traders-can-follow-the-ipo-story-with-prime",
-   "title": "Anthropic and the AI Boom: How Crypto Traders Can Follow the IPO Story with PrimeXBT",
-   "description": "Anthropic, the AI company behind Claude, is preparing for one of the most anticipated IPOs of 2026. As investors assess its potential valuation ahead of the public listing, traders are also looking at ways to gain exposure to Anthropic’s price movements…",
-   "published_at": "2026-11-12T15:43:41Z",
-   "created_at": "2026-11-12T15:43:41Z",
-   "url": "https://bitcoinist.com/anthropic-and-the-ai-boom-how-crypto-traders-can-follow-the-ipo-story-with-primexbt/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transact",
-   "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
-   "description": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
-   "published_at": "2026-11-12T15:36:17Z",
-   "created_at": "2026-11-12T15:36:17Z",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
-   "source": "The Block"
-  },
-  {
-   "slug": "gemini-sells-uk-and-european-operations-to-kast-for-under-10-million",
-   "title": "Gemini Sells UK and European Operations to KAST for Under $10 Million",
-   "description": "Gemini sells UK and European operations to stablecoin payments company KAST for less than $10 million, marking another step in the cryptocurrency exchange’s retreat from international markets. The transaction gives Singapore-based KAST a chance to expand its…",
-   "published_at": "2026-11-12T15:35:59Z",
-   "created_at": "2026-11-12T15:35:59Z",
-   "url": "https://bitcoinist.com/gemini-sells-uk-and-european-operations-to-kast-for-under-10-million/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-   "title": "Crypto for Advisors: The blockchain built to run financial markets",
-   "description": "",
-   "published_at": "2026-11-12T15:34:29Z",
-   "created_at": "2026-11-12T15:34:29Z",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-   "title": "Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan",
-   "description": "▶ Bitcoin Magazine Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan Velina Tchakarova, geopolitical strategist and founder of FACE (For A Conscious Experience), argues that we're in a new Cold War and that the US and China are…",
-   "published_at": "2026-11-12T15:30:05Z",
-   "created_at": "2026-11-12T15:30:05Z",
-   "url": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "hyperliquid-burns-1-53-million-in-hype-tokens-in-24-hours-amid-price-dip",
-   "title": "Hyperliquid Burns $1.53 Million in HYPE Tokens in 24 Hours Amid Price Dip",
-   "description": "As HYPE dips below $70, Hyperliquid buys back 21,200 tokens and pushes total lifetime burns past 5% of supply.",
-   "published_at": "2026-11-12T15:24:45Z",
-   "created_at": "2026-11-12T15:24:45Z",
-   "url": "https://u.today/hyperliquid-burns-153-million-in-hype-tokens-in-24-hours-amid-price-dip",
-   "source": "U.Today"
-  },
-  {
-   "slug": "tether-gold-issuer-follows-usdt-to-complete-big-four-audit",
-   "title": "Tether Gold issuer follows USDT to complete Big Four audit",
-   "description": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts.",
-   "published_at": "2026-11-12T15:23:26Z",
-   "created_at": "2026-11-12T15:23:26Z",
-   "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-   "source": "The Block"
-  },
-  {
-   "slug": "bny-mellon-raises-its-strive-asst-stake-28-to-7-million-as-monday-s-13f-deadline",
-   "title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears",
-   "description": "Bitcoin Magazine BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears A Nov. 5 13F shows Bank of New York Mellon held 237,100 Strive shares worth $6.97 million at Sept. 30, up 51,544 shares from June, with other large…",
-   "published_at": "2026-11-12T15:17:00Z",
-   "created_at": "2026-11-12T15:17:00Z",
-   "url": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-tr",
-   "title": "Bitcoin plunges to $71k as Jensen Huang abruptly resigns sending Nvidia into $2 trillion wipeout",
-   "description": "Nvidia co-founder Jensen Huang resigned Thursday, sending the chipmaker's shares tumbling and intensifying a selloff across cryptocurrency markets. On Nov. 12, the company announced that Huang had stepped down as chief executive, president, and board member…",
-   "published_at": "2026-11-12T15:04:58Z",
-   "created_at": "2026-11-12T15:04:58Z",
-   "url": "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "major-crypto-crime-task-force-launched-by-tron-tether-and-chainalysis",
-   "title": "Major Crypto Crime Task Force Launched by TRON, Tether, and Chainalysis",
-   "description": "TRON, Tether, and blockchain analytics firm Chainalysis have joined forces to develop a major crypto crime task force against cryptocurrency-related crime, launching a new initiative focused on identifying suspicious transactions and disrupting illicit…",
-   "published_at": "2026-11-12T15:03:06Z",
-   "created_at": "2026-11-12T15:03:06Z",
-   "url": "https://bitcoinist.com/major-crypto-crime-task-force-launched-by-tron-tether-and-chainalysis/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "solana-sol-at-a-pivotal-moment-buy-the-dip-or-brace-for-another-crash",
-   "title": "Solana (SOL) at a Pivotal Moment: Buy the Dip or Brace for Another Crash?",
-   "description": "One popular X user believes SOL may find its local bottom around the $80 level.",
-   "published_at": "2026-11-12T15:01:24Z",
-   "created_at": "2026-11-12T15:01:24Z",
-   "url": "https://cryptopotato.com/solana-sol-at-a-pivotal-moment-buy-the-dip-or-brace-for-another-crash/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax",
-   "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
-   "description": "Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.",
-   "published_at": "2026-11-12T15:01:02Z",
-   "created_at": "2026-11-12T15:01:02Z",
-   "url": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
-   "source": "The Block"
-  },
-  {
-   "slug": "solana-sol-to-connect-with-wall-street-s-4-7-quadrillion-clearing-giant",
-   "title": "Solana (SOL) to Connect With Wall Street’s $4.7 Quadrillion Clearing Giant",
-   "description": "DTCC, home to $114 trillion depository, will bring digital twins of U.S. stocks and ETFs to Solana in 2027.",
-   "published_at": "2026-11-12T15:00:55Z",
-   "created_at": "2026-11-12T15:00:55Z",
-   "url": "https://u.today/solana-sol-to-connect-with-wall-streets-47-quadrillion-clearing-giant",
-   "source": "U.Today"
-  },
-  {
-   "slug": "msci-confirms-strategy-and-metaplanet-removal-at-november-s-rebalance",
-   "title": "MSCI Confirms Strategy and Metaplanet Removal at November’s Rebalance",
-   "description": "MSCI’s November review confirms index removals for Strategy and Metaplanet. The decision affects demand for their shares, with implementation after the November 30 close.",
-   "published_at": "2026-11-12T15:00:00Z",
-   "created_at": "2026-11-12T15:00:00Z",
-   "url": "https://www.newsbtc.com/bitcoin-news/msci-confirms-strategy-metaplanet-removal-november-2026/",
-   "source": "NewsBTC"
-  },
-  {
-   "slug": "rumble-rum-sells-two-thirds-of-its-bitcoin-as-ai-cloud-business-delivers-first-p",
-   "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
-   "description": "Bitcoin Magazine Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter RUM Group held 94.68 bitcoin worth $7.9 million on Sept. 30, down from 293.14 at the end of June, as its Quake AI unit drove record revenue of…",
-   "published_at": "2026-11-12T14:53:00Z",
-   "created_at": "2026-11-12T14:53:00Z",
-   "url": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "do-not-let-sauron-have-the-ring-voorhees-warns-against-a-government-veto-on-ai",
-   "title": "‘Do not let Sauron have the ring’: Voorhees warns against a government veto on AI",
-   "description": "His Sauron warning targets control over AI releases, a power already proposed in a September bill and El-Sayed’s campaign platform. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
-   "published_at": "2026-11-12T14:45:29Z",
-   "created_at": "2026-11-12T14:45:29Z",
-   "url": "https://cryptoslate.com/voorhees-sauron-government-ai-veto/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "jupiter-adds-anchorage-backed-usdgo-to-its-1-billion-solana-lending-platform",
-   "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-   "description": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
-   "published_at": "2026-11-12T14:45:00Z",
-   "created_at": "2026-11-12T14:45:00Z",
-   "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
-   "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
-   "description": "The Nvidia co-founder steps down after reports of affairs with an alleged Chinese spy and a company executive, ending his 33-year run.",
-   "published_at": "2026-11-12T14:44:39Z",
-   "created_at": "2026-11-12T14:44:39Z",
-   "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "bitcoin-falls-alongside-nvidia-as-etf-outflows-reach-1-44-billion",
-   "title": "Bitcoin Falls Alongside Nvidia as ETF Outflows Reach $1.44 Billion",
-   "description": "Bitcoin falls alongside Nvidia on Thursday as renewed selling in technology stocks weighed on risk assets, while persistent withdrawals from US spot Bitcoin exchange-traded funds added further pressure to the market. BTC slipped approximately 0.7% from…",
-   "published_at": "2026-11-12T14:34:18Z",
-   "created_at": "2026-11-12T14:34:18Z",
-   "url": "https://bitcoinist.com/bitcoin-falls-alongside-nvidia-as-etf-outflows-reach-1-44-billion/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-",
-   "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-   "description": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project.",
-   "published_at": "2026-11-12T14:24:51Z",
-   "created_at": "2026-11-12T14:24:51Z",
-   "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "blackrock-s-ibit-bleeds-2-billion-in-nine-straight-days-of-outflows",
-   "title": "BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
-   "description": "Bitcoin Magazine BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows U.S. spot bitcoin ETFs lost $299.8 million on Wednesday, their fifth straight day of outflows, with BlackRock's IBIT accounting for $269.7 million and about 94% of…",
-   "published_at": "2026-11-12T14:24:00Z",
-   "created_at": "2026-11-12T14:24:00Z",
-   "url": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "dtcc-plans-to-bring-tokenized-securities-to-solana-in-second-half-of-2027",
-   "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
-   "description": "DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu.",
-   "published_at": "2026-11-12T14:23:11Z",
-   "created_at": "2026-11-12T14:23:11Z",
-   "url": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
-   "source": "The Block"
-  },
-  {
-   "slug": "bitcoin-price-falls-below-72-000-as-nvidia-ceo-jensen-huang-steps-down-and-strat",
-   "title": "Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides",
-   "description": "Bitcoin Magazine Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides Bitcoin price fell below $72,000 on Thursday, its lowest level since mid-August, after Nvidia said CEO Jensen Huang had resigned and Strategy…",
-   "published_at": "2026-11-12T14:21:51Z",
-   "created_at": "2026-11-12T14:21:51Z",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "breaking-news-jensen-huang-resigns-as-nvidia-ceo-report",
-   "title": "BREAKING News: Jensen Huang Resigns as Nvidia CEO (Report)",
-   "description": "The reported resignation comes after claims that he had another affair with a women working at the company.",
-   "published_at": "2026-11-12T14:06:00Z",
-   "created_at": "2026-11-12T14:06:00Z",
-   "url": "https://cryptopotato.com/breaking-news-jensen-huang-resigns-as-nvidia-ceo-report/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "sofi-brings-its-bank-issued-stablecoin-to-polygon-s-payments-stack",
-   "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-   "description": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
-   "published_at": "2026-11-12T14:01:02Z",
-   "created_at": "2026-11-12T14:01:02Z",
-   "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "securitize-and-ethena-s-100-million-blackrock-buidl-liquidity-facility-goes-live",
-   "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
-   "description": "Securitize & Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
-   "published_at": "2026-11-12T14:00:00Z",
-   "created_at": "2026-11-12T14:00:00Z",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-   "source": "The Block"
-  },
-  {
-   "slug": "sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach",
-   "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
-   "description": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
-   "published_at": "2026-11-12T14:00:00Z",
-   "created_at": "2026-11-12T14:00:00Z",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-   "source": "The Block"
-  },
-  {
-   "slug": "jensen-huang-resigns-as-nvidia-ceo-exits-board-shares-plunge",
-   "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-   "description": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.",
-   "published_at": "2026-11-12T13:59:02Z",
-   "created_at": "2026-11-12T13:59:02Z",
-   "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "nvidia-ceo-huang-quits-company-he-co-founded-led-for-3-decades-shares-slump",
-   "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-   "description": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble.",
-   "published_at": "2026-11-12T13:57:53Z",
-   "created_at": "2026-11-12T13:57:53Z",
-   "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-   "source": "CoinDesk"
-  },
-  {
    "slug": "bitcoin-mining-legend-chun-wang-rebuys-eth-at-14-discount-after-18-5-million-sal",
    "title": "Bitcoin Mining Legend Chun Wang Rebuys ETH at 14% Discount After $18.5 Million Sale",
    "description": "One week after selling at $2,400, F2Pool co-founder Chun Wang spent $10.78 million to rebuy 5,246 ETH and stake most of it on Lido.",
@@ -541,5 +541,5 @@
    "source": "U.Today"
   }
  ],
- "updatedAt": "2026-11-12T18:15:14Z"
+ "updatedAt": "2026-11-12T23:39:16Z"
 }
