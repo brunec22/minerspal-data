@@ -3,11 +3,308 @@
   {
    "slug": "minerspal-dev-feed",
    "title": "[DEV] MinersPal staging news feed",
-   "description": "Staging feed generated 2026-11-12T00:37:38Z. Production users read news.json.",
-   "published_at": "2026-11-12T00:37:38Z",
-   "created_at": "2026-11-12T00:37:38Z",
+   "description": "Staging feed generated 2026-11-12T09:45:02Z. Production users read news.json.",
+   "published_at": "2026-11-12T09:45:02Z",
+   "created_at": "2026-11-12T09:45:02Z",
    "url": "https://github.com/brunec22/minerspal-data",
    "source": "MinersPal"
+  },
+  {
+   "slug": "aave-will-freeze-279m-in-oseth-unless-stakewise-wins-this-vote",
+   "title": "Aave will freeze $279M in osETH, unless StakeWise wins this vote",
+   "description": "Dmitri seeks a separate vote as Aave weighs who should bear osETH leverage risk and how existing borrowers can migrate. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-12T09:30:37Z",
+   "created_at": "2026-11-12T09:30:37Z",
+   "url": "https://cryptoslate.com/aave-will-freeze-279m-in-oseth-unless-stakewise-wins-this-vote/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "xrp-ledger-lending-proposal-gains-momentum-as-validators-move-closer-to-approval",
+   "title": "XRP Ledger Lending Proposal Gains Momentum As Validators Move Closer To Approval",
+   "description": "The XRP Ledger is moving closer to introducing native lending capabilities, a development that could expand the network’s role in institutional finance. Validator support for the proposed lending protocol has increased in recent weeks, bringing the blockchain…",
+   "published_at": "2026-11-12T09:16:23Z",
+   "created_at": "2026-11-12T09:16:23Z",
+   "url": "https://bitcoinist.com/xrp-ledger-lending-proposal-gains-momentum-as-validators-move-closer-to-approval/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "live-news-ai-stocks-slide-with-nasdaq-100-futures-in-retreat-following-wednesday",
+   "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+   "description": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
+   "published_at": "2026-11-12T09:15:04Z",
+   "created_at": "2026-11-12T09:15:04Z",
+   "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "betfury-introduces-turbo-bet-up-to-100-000-bets-in-a-single-session-across-its-o",
+   "title": "BetFury Introduces Turbo Bet: Up to 100,000 Bets in a Single Session Across Its Original Games",
+   "description": "[PRESS RELEASE – Willemstad, Curaçao, November 12th, 2026] BetFury, a leading crypto casino, is introducing Turbo Bet, a high-speed mode for its Original games. It lets a player place from 100 to 100 000 bets in one session. Instead of betting one at a time…",
+   "published_at": "2026-11-12T09:14:54Z",
+   "created_at": "2026-11-12T09:14:54Z",
+   "url": "https://cryptopotato.com/betfury-introduces-turbo-bet-up-to-100000-bets-in-a-single-session-across-its-original-games/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "major-xrp-price-update-and-important-ripple-news-november-12",
+   "title": "Major XRP Price Update and Important Ripple News: November 12",
+   "description": "Here's the latest on Ripple, XRP, the XRP Ledger, and some controversy around a key figure in the structure.",
+   "published_at": "2026-11-12T09:14:06Z",
+   "created_at": "2026-11-12T09:14:06Z",
+   "url": "https://cryptopotato.com/major-xrp-price-update-and-important-ripple-news-november-12/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-und",
+   "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+   "description": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
+   "published_at": "2026-11-12T09:07:00Z",
+   "created_at": "2026-11-12T09:07:00Z",
+   "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "chainstack-says-ai-powered-security-breach-exposed-customer-data-threat-now-cont",
+   "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
+   "description": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords.",
+   "published_at": "2026-11-12T08:39:57Z",
+   "created_at": "2026-11-12T08:39:57Z",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
+   "source": "The Block"
+  },
+  {
+   "slug": "bitcoin-fear-returns-but-willy-woo-says-the-bull-market-isn-t-over",
+   "title": "Bitcoin Fear Returns, But Willy Woo Says The Bull Market Isn’t Over",
+   "description": "Bitcoin sentiment has fallen sharply, but one of the market’s best-known on-chain analysts believes investors may be overlooking an important bullish signal. Rather than treating the latest correction as the beginning of a bear market, Willy Woo argues that…",
+   "published_at": "2026-11-12T08:29:03Z",
+   "created_at": "2026-11-12T08:29:03Z",
+   "url": "https://bitcoinist.com/bitcoin-fear-returns-but-willy-woo-says-the-bull-market-isnt-over/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "ai-agents-steal-shared-math-using-hidden-workspace-storage",
+   "title": "AI agents steal shared math using hidden workspace storage",
+   "description": "A controlled arithmetic experiment shows how shared storage carried missing results between agents, with outcomes sensitive to a routine recheck instruction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next…",
+   "published_at": "2026-11-12T08:10:41Z",
+   "created_at": "2026-11-12T08:10:41Z",
+   "url": "https://cryptoslate.com/ai-agents-steal-shared-math-using-hidden-workspace-storage/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "blackrock-bitcoin-etf-outflows-hit-2b-over-nine-sessions",
+   "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+   "description": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.",
+   "published_at": "2026-11-12T08:06:48Z",
+   "created_at": "2026-11-12T08:06:48Z",
+   "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "if-the-ai-trade-is-over-says-fidelity-s-timmer-but-what-about-crypto",
+   "title": "'If the AI Trade Is Over,' Says Fidelity's Timmer, but What About Crypto?",
+   "description": "Fidelity’s Timmer questions whether the AI trade is over, which raises the prospect of a rotation into Bitcoin.",
+   "published_at": "2026-11-12T08:00:00Z",
+   "created_at": "2026-11-12T08:00:00Z",
+   "url": "https://u.today/if-the-ai-trade-is-over-says-fidelitys-timmer-but-what-about-crypto",
+   "source": "U.Today"
+  },
+  {
+   "slug": "gemini-unveils-crypto-bloodbath-s-biggest-victims-as-xrp-eth-sink",
+   "title": "Gemini Unveils Crypto Bloodbath's Biggest Victims as XRP, ETH Sink",
+   "description": "Crypto exchange Gemini has revealed the biggest casualties of the ongoing crypto market bloodbath, with Zcash (ZEC) plunging 22.67%, XRP losing 18.89% and Ethereum (ETH) tumbling 13.98% over the past week as altcoins suffer massive double-digit losses.",
+   "published_at": "2026-11-12T07:54:56Z",
+   "created_at": "2026-11-12T07:54:56Z",
+   "url": "https://u.today/gemini-unveils-crypto-bloodbaths-biggest-victims-as-xrp-eth-sink",
+   "source": "U.Today"
+  },
+  {
+   "slug": "important-cardano-news-and-ada-price-update-november-12",
+   "title": "Important Cardano News and ADA Price Update: November 12",
+   "description": "ADA has been among the poorest performers lately, posting a 28% price decline over the past month.",
+   "published_at": "2026-11-12T07:52:44Z",
+   "created_at": "2026-11-12T07:52:44Z",
+   "url": "https://cryptopotato.com/important-cardano-news-and-ada-price-update-november-12/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+   "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+   "description": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.",
+   "published_at": "2026-11-12T07:41:18Z",
+   "created_at": "2026-11-12T07:41:18Z",
+   "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "ethlabs-proposes-advancing-ethereum-s-post-quantum-to-2027-citing-ai-acceleratio",
+   "title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
+   "description": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing.",
+   "published_at": "2026-11-12T07:27:24Z",
+   "created_at": "2026-11-12T07:27:24Z",
+   "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+   "source": "The Block"
+  },
+  {
+   "slug": "binance-traders-price-in-potential-jensen-huang-exit-as-nvidia-falls-8",
+   "title": "Binance Traders Price in Potential Jensen Huang Exit as Nvidia Falls 8%",
+   "description": "About half of NVDAUSDT's $2 billion in 24-hour volume came after US cash session closed, as traders reacted to leadership reports.",
+   "published_at": "2026-11-12T07:21:27Z",
+   "created_at": "2026-11-12T07:21:27Z",
+   "url": "https://cryptopotato.com/binance-traders-price-in-potential-jensen-huang-exit-as-nvidia-falls-8/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin",
+   "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+   "description": "MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts.",
+   "published_at": "2026-11-12T07:00:37Z",
+   "created_at": "2026-11-12T07:00:37Z",
+   "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "base-s-usdc-transfer-footprint-does-not-prove-merchant-reach-data-shows",
+   "title": "Base’s USDC transfer footprint does not prove merchant reach, data shows",
+   "description": "USDT routes dominate stablecoin pay-in value at NOWPayments, while blockchain transfer totals measure a different pool of activity. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
+   "published_at": "2026-11-12T06:50:40Z",
+   "created_at": "2026-11-12T06:50:40Z",
+   "url": "https://cryptoslate.com/bases-usdc-transfer-footprint-does-not-prove-merchant-reach-data-shows/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "here-s-what-happened-in-crypto-today",
+   "title": "Here’s what happened in crypto today",
+   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published_at": "2026-11-12T06:00:00Z",
+   "created_at": "2026-11-12T06:00:00Z",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "south-korea-to-permit-crypto-withdrawal-freezes-during-hacking-threats",
+   "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+   "description": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
+   "published_at": "2026-11-12T05:54:48Z",
+   "created_at": "2026-11-12T05:54:48Z",
+   "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "zcash-holders-to-vote-on-pulling-50-000-zec-worth-50-million-from-grants-treasur",
+   "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+   "description": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
+   "published_at": "2026-11-12T05:49:44Z",
+   "created_at": "2026-11-12T05:49:44Z",
+   "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "kevin-o-leary-reveals-what-s-really-behind-crypto-market-crash",
+   "title": "Kevin O'Leary Reveals What's Really Behind Crypto Market Crash",
+   "description": "Shark Tank star Kevin O'Leary has revealed what he believes is really driving the crypto market crash, arguing that regulatory uncertainty is holding back institutional adoption of blockchain and stablecoins.",
+   "published_at": "2026-11-12T05:42:34Z",
+   "created_at": "2026-11-12T05:42:34Z",
+   "url": "https://u.today/kevin-oleary-reveals-whats-really-behind-crypto-market-crash",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+   "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+   "description": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
+   "published_at": "2026-11-12T05:22:31Z",
+   "created_at": "2026-11-12T05:22:31Z",
+   "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+   "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+   "description": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
+   "published_at": "2026-11-12T05:18:43Z",
+   "created_at": "2026-11-12T05:18:43Z",
+   "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins",
+   "title": "FSB pressures Turkey regulators to lock down foreign stablecoins",
+   "description": "The FSB recommends stronger reserve checks and clearer redemption rights, but its review creates no new legal obligations. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-12T05:10:20Z",
+   "created_at": "2026-11-12T05:10:20Z",
+   "url": "https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "binance-cso-unwittingly-foreshadowed-6-3b-hack-tactic-months-before-attack",
+   "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+   "description": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.",
+   "published_at": "2026-11-12T05:07:11Z",
+   "created_at": "2026-11-12T05:07:11Z",
+   "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "btc-eth-and-xrp-face-extreme-fear-but-whales-are-sending-mixed-signals",
+   "title": "BTC, ETH, and XRP Face Extreme Fear, But Whales Are Sending Mixed Signals",
+   "description": "Crypto traders are becoming increasingly bearish, but history suggests that widespread fear can sometimes create opportunities for a market-wide recovery.",
+   "published_at": "2026-11-12T05:06:16Z",
+   "created_at": "2026-11-12T05:06:16Z",
+   "url": "https://cryptopotato.com/btc-eth-and-xrp-face-extreme-fear-but-whales-are-sending-mixed-signals/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "bitcoin-traders-raise-odds-of-sub-70-000-christmas-bitmine-reports-6-3-billion-a",
+   "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+   "description": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
+   "published_at": "2026-11-12T04:55:00Z",
+   "created_at": "2026-11-12T04:55:00Z",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+   "source": "The Block"
+  },
+  {
+   "slug": "nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+   "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+   "description": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
+   "published_at": "2026-11-12T04:03:47Z",
+   "created_at": "2026-11-12T04:03:47Z",
+   "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "bitmine-posts-2-8b-quarterly-profit-driven-by-ethereum-gains-but-yearly-net-loss",
+   "title": "BitMine posts $2.8B quarterly profit driven by Ethereum gains, but yearly net loss surpasses $6B",
+   "description": "The November 10 filing implies a June–August profit driven by unrealized crypto gains, alongside $17.557 million in operating cash outflow. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
+   "published_at": "2026-11-12T03:20:49Z",
+   "created_at": "2026-11-12T03:20:49Z",
+   "url": "https://cryptoslate.com/bitmine-posts-2-8b-quarterly-profit-but-yearly-net-loss-surpasses-6b/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "milestone-quarter-solana-company-reports-q3-revenue-growth-driven-by-staking-rew",
+   "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+   "description": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
+   "published_at": "2026-11-12T02:25:14Z",
+   "created_at": "2026-11-12T02:25:14Z",
+   "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+   "source": "The Block"
+  },
+  {
+   "slug": "nvidia-perps-plunge-10-on-hyperliquid-as-board-reportedly-weighs-ousting-jensen-",
+   "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+   "description": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
+   "published_at": "2026-11-12T02:23:45Z",
+   "created_at": "2026-11-12T02:23:45Z",
+   "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+   "source": "The Block"
+  },
+  {
+   "slug": "novig-loses-court-shield-and-new-york-gambling-laws-strike-back",
+   "title": "Novig loses court shield, and New York gambling laws strike back",
+   "description": "A judge said state rules could apply even if its sports contracts were swaps; Novig appealed the preliminary denial. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-12T01:40:47Z",
+   "created_at": "2026-11-12T01:40:47Z",
+   "url": "https://cryptoslate.com/novig-loses-court-shield-and-new-york-gambling-laws-strike-back/",
+   "source": "CryptoSlate"
   },
   {
    "slug": "msci-confirms-strategy-s-removal-from-indexes-at-end-of-november",
@@ -107,15 +404,6 @@
    "created_at": "2026-11-11T22:30:57Z",
    "url": "https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/",
    "source": "CryptoSlate"
-  },
-  {
-   "slug": "here-s-what-happened-in-crypto-today",
-   "title": "Here’s what happened in crypto today",
-   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published_at": "2026-11-11T22:15:26Z",
-   "created_at": "2026-11-11T22:15:26Z",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-   "source": "Cointelegraph"
   },
   {
    "slug": "sec-enters-fight-over-who-regulates-perpetual-derivatives-on-stocks-in-the-us",
@@ -226,15 +514,6 @@
    "source": "Decrypt"
   },
   {
-   "slug": "britain-should-ask-crypto-founders-what-would-have-kept-them-here",
-   "title": "Britain should ask crypto founders what would have kept them here",
-   "description": "When I asked Praneet Sinha why he left Britain, he said it came down to operational and financial efficiency. He co-founded his crypto startup, Moongate, in London in 2022. The business planned to collect its fees in crypto, which would mean converting that…",
-   "published_at": "2026-11-11T20:10:49Z",
-   "created_at": "2026-11-11T20:10:49Z",
-   "url": "https://cryptoslate.com/britain-crypto-founders-brain-drain/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "sen-warren-merkley-raise-ethics-concerns-over-trump-aide-s-prediction-market-bet",
    "title": "Sen. Warren, Merkley raise ethics concerns over Trump aide’s prediction market bets",
    "description": "Sen. Warren is demanding answers from the White House after its teleprompter operator was accused of using advance information to bet.",
@@ -260,15 +539,6 @@
    "created_at": "2026-11-11T19:36:02Z",
    "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
    "source": "Decrypt"
-  },
-  {
-   "slug": "pnc-lets-businesses-accept-usdc-without-keeping-the-crypto",
-   "title": "PNC lets businesses accept USDC without keeping the crypto",
-   "description": "Eligible corporate clients can receive dollar deposits through automatic USDC conversion, while broader bank funding effects remain unmeasured. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
-   "published_at": "2026-11-11T19:30:07Z",
-   "created_at": "2026-11-11T19:30:07Z",
-   "url": "https://cryptoslate.com/pnc-lets-businesses-accept-usdc-without-keeping-the-crypto/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "ripple-backed-evernorth-plunges-40-as-insiders-move-to-sell-73-7-million-shares",
@@ -316,15 +586,6 @@
    "source": "Bitcoin Magazine"
   },
   {
-   "slug": "deepmind-s-ai-humanoids-are-already-doing-factory-work-at-mercedes",
-   "title": "DeepMind’s AI humanoids are already doing factory work at Mercedes",
-   "description": "Apollo 2 handled automotive kitting on active production lines, but trial size and human-intervention rates remain undisclosed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-11T18:20:28Z",
-   "created_at": "2026-11-11T18:20:28Z",
-   "url": "https://cryptoslate.com/deepminds-ai-humanoids-are-already-doing-factory-work-at-mercedes/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "zcash-zec-collapses-below-1-000-can-the-bulls-fight-back",
    "title": "Zcash (ZEC) Collapses Below $1,000: Can the Bulls Fight Back?",
    "description": "According to one X user, ZEC may plummet to the $500-$200 zone.",
@@ -350,15 +611,6 @@
    "created_at": "2026-11-11T17:23:10Z",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
    "source": "The Block"
-  },
-  {
-   "slug": "thousands-of-bitcoin-nodes-gave-anonymous-strangers-a-pass-around-security-limit",
-   "title": "Thousands of Bitcoin nodes gave anonymous strangers a pass around security limits",
-   "description": "The November 10 disclosure traces misplaced peer privileges to bundled Tor-and-whitelist settings, with fixes available since October 2025. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
-   "published_at": "2026-11-11T17:10:30Z",
-   "created_at": "2026-11-11T17:10:30Z",
-   "url": "https://cryptoslate.com/thousands-of-bitcoin-nodes-gave-anonymous-strangers-a-pass-around-security-limits/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
@@ -451,15 +703,6 @@
    "source": "Decrypt"
   },
   {
-   "slug": "openai-adds-a-35-second-emergency-brake-for-its-research-ai",
-   "title": "OpenAI adds a 35-second emergency brake for its research AI",
-   "description": "Control Room denies further model output after a stop order, even while the research process may remain alive. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-11T16:05:44Z",
-   "created_at": "2026-11-11T16:05:44Z",
-   "url": "https://cryptoslate.com/openai-adds-a-35-second-emergency-brake-for-its-research-ai/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "ethereum-price-analysis-eth-rebounds-from-2k-but-the-danger-isn-t-over",
    "title": "Ethereum Price Analysis: ETH Rebounds From $2K, but the Danger Isn’t Over",
    "description": "Ethereum has extended its decline toward the $2K mark after losing the ascending channel that had supported its recovery since June. Trading around $2.05K, ETH is now approaching a key demand zone that could decide whether the correction stabilizes or…",
@@ -530,15 +773,6 @@
    "created_at": "2026-11-11T15:14:44Z",
    "url": "https://cryptopotato.com/michael-saylor-faces-a-critical-test-as-msci-weighs-strategys-index-future/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "hoskinson-says-he-cannot-run-cardano-like-a-ceo-who-is-accountable-for-its-growt",
-   "title": "Hoskinson says he cannot run Cardano like a CEO. Who is accountable for its growth?",
-   "description": "DReps approve spending, while recipients and administrators answer for funded work that ADA holders can trace through public reports. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
-   "published_at": "2026-11-11T15:10:14Z",
-   "created_at": "2026-11-11T15:10:14Z",
-   "url": "https://cryptoslate.com/hoskinson-says-he-cannot-run-cardano-like-a-ceo-who-is-accountable-for-its-growth/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "coreweave-surges-14-sparking-rebound-across-battered-ai-stocks",
@@ -766,8 +1000,8 @@
    "source": "The Block"
   },
   {
-   "slug": "fsb-urgest-turkey-to-tighten-crypto-oversight-set-stablecoin-rules",
-   "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+   "slug": "fsb-urges-turkey-to-tighten-crypto-oversight-set-stablecoin-rules",
+   "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
    "description": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
    "published_at": "2026-11-11T12:44:10Z",
    "created_at": "2026-11-11T12:44:10Z",
@@ -847,15 +1081,6 @@
    "source": "The Block"
   },
   {
-   "slug": "bitcoin-and-blockchain-basics",
-   "title": "Bitcoin and Blockchain Basics",
-   "description": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not…",
-   "published_at": "2026-11-11T11:43:50Z",
-   "created_at": "2026-11-11T11:43:50Z",
-   "url": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
-   "source": "The Block"
-  },
-  {
    "slug": "bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
    "description": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
@@ -919,24 +1144,6 @@
    "source": "NewsBTC"
   },
   {
-   "slug": "crosschain-protocol-across-restores-systems-after-domain-hijack",
-   "title": "Crosschain protocol Across restores systems after domain hijack",
-   "description": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.",
-   "published_at": "2026-11-11T10:55:24Z",
-   "created_at": "2026-11-11T10:55:24Z",
-   "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
-   "source": "The Block"
-  },
-  {
-   "slug": "kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-off",
-   "title": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
-   "description": "Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets.",
-   "published_at": "2026-11-11T10:54:02Z",
-   "created_at": "2026-11-11T10:54:02Z",
-   "url": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837",
-   "source": "The Block"
-  },
-  {
    "slug": "avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
    "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
    "description": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price.",
@@ -980,15 +1187,6 @@
    "created_at": "2026-11-11T10:28:09Z",
    "url": "https://cryptopotato.com/zcash-zec-dumps-below-1k-bitcoin-btc-struggles-at-74k-after-cpi-reading-market-watch/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "moody-s-and-chainlink-test-on-chain-credit-ratings-could-link-benefit",
-   "title": "Moody’s And Chainlink Test On-Chain Credit Ratings – Could LINK Benefit?",
-   "description": "Chainlink has taken another step toward institutional blockchain adoption after Moody’s Ratings successfully completed a pilot using its cross-chain technology. The development could strengthen Chainlink’s position in the growing tokenized asset market…",
-   "published_at": "2026-11-11T10:24:42Z",
-   "created_at": "2026-11-11T10:24:42Z",
-   "url": "https://bitcoinist.com/moodys-and-chainlink-test-on-chain-credit-ratings-could-link-benefit/",
-   "source": "Bitcoinist"
   },
   {
    "slug": "prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
@@ -1043,24 +1241,6 @@
    "created_at": "2026-11-11T09:55:26Z",
    "url": "https://cryptopotato.com/3-surprising-factors-behind-bitcoins-brutal-8k-weekly-drop/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "sec-enforcement-hits-35-year-low-under-trump-could-crypto-benefit",
-   "title": "SEC Enforcement Hits 35-Year Low Under Trump – Could Crypto Benefit?",
-   "description": "The US Securities and Exchange Commission (SEC) has reported its lowest annual enforcement activity since 1991, marking a significant change in financial oversight under President Donald Trump. With cryptocurrency regulation already moving toward a more…",
-   "published_at": "2026-11-11T09:49:13Z",
-   "created_at": "2026-11-11T09:49:13Z",
-   "url": "https://bitcoinist.com/sec-enforcement-hits-35-year-low-under-trump-could-crypto-benefit/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "new-york-federal-judge-denies-novig-s-injunction-bid-rules-its-sports-event-cont",
-   "title": "New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps",
-   "description": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.",
-   "published_at": "2026-11-11T09:40:46Z",
-   "created_at": "2026-11-11T09:40:46Z",
-   "url": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
-   "source": "The Block"
   },
   {
    "slug": "htx-releases-october-performance-report-spot-liquidity-significantly-enhanced-ap",
@@ -1162,15 +1342,6 @@
    "source": "U.Today"
   },
   {
-   "slug": "bitmine-reports-6-3-billion-net-loss-in-latest-fiscal-year-driven-by-44-ether-de",
-   "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-   "description": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
-   "published_at": "2026-11-11T06:22:32Z",
-   "created_at": "2026-11-11T06:22:32Z",
-   "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-   "source": "The Block"
-  },
-  {
    "slug": "why-has-xrp-plunged-harder-than-most-analyst-blames-manipulation",
    "title": "Why Has XRP Plunged Harder Than Most? Analyst Blames Manipulation",
    "description": "The ETF outflows have skyrocketed as well, though.",
@@ -1187,178 +1358,7 @@
    "created_at": "2026-11-11T05:52:14Z",
    "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks",
    "source": "Cointelegraph"
-  },
-  {
-   "slug": "ripple-s-david-schwartz-reveals-massive-xrp-sale",
-   "title": "Ripple's David Schwartz Reveals Massive XRP Sale",
-   "description": "Former Ripple CTO David Schwartz has revealed that he has slashed his XRP holdings by a staggering 23 million tokens, while also selling nearly all his Bitcoin and Ethereum holdings, citing his extremely low risk tolerance.",
-   "published_at": "2026-11-11T05:29:28Z",
-   "created_at": "2026-11-11T05:29:28Z",
-   "url": "https://u.today/ripples-david-schwartz-reveals-massive-xrp-sale",
-   "source": "U.Today"
-  },
-  {
-   "slug": "2-reasons-why-bitcoin-btc-could-bleed-even-more-in-the-short-term",
-   "title": "2 Reasons Why Bitcoin (BTC) Could Bleed Even More in the Short Term",
-   "description": "Can today's inflation report trigger another BTC sell-off?",
-   "published_at": "2026-11-11T05:11:53Z",
-   "created_at": "2026-11-11T05:11:53Z",
-   "url": "https://cryptopotato.com/2-reasons-why-bitcoin-btc-could-bleed-even-more-in-the-short-term/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "across-protocol-restores-website-after-hackers-hijack-domain",
-   "title": "Across Protocol restores website after hackers hijack domain",
-   "description": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
-   "published_at": "2026-11-11T04:42:30Z",
-   "created_at": "2026-11-11T04:42:30Z",
-   "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "crypto-ally-tom-emmer-elected-house-gop-minority-whip",
-   "title": "Crypto ally Tom Emmer elected House GOP minority whip",
-   "description": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
-   "published_at": "2026-11-11T03:07:45Z",
-   "created_at": "2026-11-11T03:07:45Z",
-   "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts",
-   "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
-   "description": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
-   "published_at": "2026-11-11T01:16:58Z",
-   "created_at": "2026-11-11T01:16:58Z",
-   "url": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "chainlink-link-cardano-ada-dogecoin-doge-and-ethereum-eth-price-analysis-for-nov",
-   "title": "ChainLink (LINK), Cardano (ADA), Dogecoin (DOGE) and Ethereum (ETH) Price Analysis for November 11: Bearish Market Hits Critical Fear Levels",
-   "description": "Chainlink, Cardano, Ethereum and Dogecoin remain under pressure as bearish sentiment drives the market toward critical fear levels.",
-   "published_at": "2026-11-11T00:01:00Z",
-   "created_at": "2026-11-11T00:01:00Z",
-   "url": "https://u.today/price-analysis/chainlink-link-cardano-ada-dogecoin-doge-and-ethereum-eth-price-analysis-for-november-11-bearish",
-   "source": "U.Today"
-  },
-  {
-   "slug": "cftc-warns-kalshi-of-imminent-charges-over-notification-of-contracts-politico",
-   "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
-   "description": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren’t live, according to Politico.",
-   "published_at": "2026-11-10T23:49:51Z",
-   "created_at": "2026-11-10T23:49:51Z",
-   "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "bitcoin-heated-hot-tubs-and-278-washington-bitcoin-merchants-now-accepting-bitco",
-   "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
-   "description": "Bitcoin Magazine Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington…",
-   "published_at": "2026-11-10T23:14:53Z",
-   "created_at": "2026-11-10T23:14:53Z",
-   "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "global-banks-commit-270m-to-stablecoin-venture-targeting-2027-launch",
-   "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-   "description": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
-   "published_at": "2026-11-10T23:08:28Z",
-   "created_at": "2026-11-10T23:08:28Z",
-   "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "bitcoin-miner-hive-eyes-45-million-in-annual-revenue-from-ai-deal",
-   "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-   "description": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
-   "published_at": "2026-11-10T22:46:02Z",
-   "created_at": "2026-11-10T22:46:02Z",
-   "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "initia-halts-blockchain-after-615k-leaves-bridged-asset-escrows",
-   "title": "Initia Halts Blockchain After $615K Leaves Bridged Asset Escrows",
-   "description": "Most assets moved from Initia's escrow accounts remained on the halted L1, leaving their status tied to the network's recovery process.",
-   "published_at": "2026-11-10T22:40:55Z",
-   "created_at": "2026-11-10T22:40:55Z",
-   "url": "https://cryptopotato.com/initia-halts-blockchain-after-615k-leaves-bridged-asset-escrows/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "trump-media-posts-410-million-profit-bitcoin-gains-did-the-heavy-lifting",
-   "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-   "description": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
-   "published_at": "2026-11-10T21:36:03Z",
-   "created_at": "2026-11-10T21:36:03Z",
-   "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "can-crypto-trust-firms-compete-with-banks-in-us-derivatives-settlements",
-   "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
-   "description": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.",
-   "published_at": "2026-11-10T21:34:40Z",
-   "created_at": "2026-11-10T21:34:40Z",
-   "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "north-korea-is-creating-fake-meme-coins-to-launder-millions-from-the-6-4b-binanc",
-   "title": "North Korea Is Creating Fake Meme Coins to Launder Millions From the $6.4B Binance Hack",
-   "description": "Six meme coins created on NEAR helped North Korean hackers move stolen funds, with almost no genuine trading activity involved.",
-   "published_at": "2026-11-10T21:07:21Z",
-   "created_at": "2026-11-10T21:07:21Z",
-   "url": "https://cryptopotato.com/north-korea-is-creating-fake-meme-coins-to-launder-millions-from-the-6-4b-binance-hack/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "rothschild-investment-reveals-xrp-etf-stake",
-   "title": "Rothschild Investment Reveals XRP ETF Stake",
-   "description": "Chicago-based investment management firm Rothschild Investment LLC has disclosed its first reported stake in the Bitwise XRP ETF, adding the Ripple-linked cryptocurrency to its portfolio.",
-   "published_at": "2026-11-10T21:05:05Z",
-   "created_at": "2026-11-10T21:05:05Z",
-   "url": "https://u.today/rothschild-investment-reveals-xrp-etf-stake",
-   "source": "U.Today"
-  },
-  {
-   "slug": "nvidia-erases-2026-gains-as-republicans-threaten-jensen-huang-with-subpoena",
-   "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-   "description": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang.",
-   "published_at": "2026-11-10T20:45:50Z",
-   "created_at": "2026-11-10T20:45:50Z",
-   "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bet",
-   "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-   "description": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
-   "published_at": "2026-11-10T20:36:33Z",
-   "created_at": "2026-11-10T20:36:33Z",
-   "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "near-ai-breach-exposes-user-details-and-data-from-18-ai-agents",
-   "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-   "description": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
-   "published_at": "2026-11-10T20:16:03Z",
-   "created_at": "2026-11-10T20:16:03Z",
-   "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish",
-   "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-   "description": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
-   "published_at": "2026-11-10T20:15:08Z",
-   "created_at": "2026-11-10T20:15:08Z",
-   "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-   "source": "CoinDesk"
   }
  ],
- "updatedAt": "2026-11-12T00:37:38Z"
+ "updatedAt": "2026-11-12T09:45:02Z"
 }
