@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:53:31Z",
+ "updatedAt": "2026-11-13T07:20:55Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -49,12 +49,6 @@
    "unit": 1000000000000.0,
    "unitLabel": "Th/s"
   },
-  "CAT": {
-   "id": 198,
-   "algorithm": "Scrypt",
-   "unit": 1000000000.0,
-   "unitLabel": "Gh/s"
-  },
   "CCX": {
    "id": 305,
    "algorithm": "CryptoNightGPU",
@@ -102,12 +96,6 @@
    "algorithm": "DynexSolve",
    "unit": 1000.0,
    "unitLabel": "kh/s"
-  },
-  "DOGE": {
-   "id": 6,
-   "algorithm": "Scrypt",
-   "unit": 1000000000.0,
-   "unitLabel": "Gh/s"
   },
   "EPIC": {
    "id": 438,
