@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T07:20:55Z",
+ "updatedAt": "2026-11-13T16:44:35Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -156,12 +156,6 @@
    "algorithm": "Handshake",
    "unit": 1000000000000.0,
    "unitLabel": "Th/s"
-  },
-  "IRON": {
-   "id": 411,
-   "algorithm": "FishHash",
-   "unit": 1000000.0,
-   "unitLabel": "Mh/s"
   },
   "KAS": {
    "id": 352,
