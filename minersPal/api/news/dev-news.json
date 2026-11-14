@@ -3,11 +3,173 @@
   {
    "slug": "minerspal-dev-feed",
    "title": "[DEV] MinersPal staging news feed",
-   "description": "Staging feed generated 2026-11-14T02:24:06Z. Production users read news.json.",
-   "published_at": "2026-11-14T02:24:06Z",
-   "created_at": "2026-11-14T02:24:06Z",
+   "description": "Staging feed generated 2026-11-14T11:26:04Z. Production users read news.json.",
+   "published_at": "2026-11-14T11:26:04Z",
+   "created_at": "2026-11-14T11:26:04Z",
    "url": "https://github.com/brunec22/minerspal-data",
    "source": "MinersPal"
+  },
+  {
+   "slug": "microsoft-confirms-global-outage-resolved-rules-out-cyberattack",
+   "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+   "description": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+   "published_at": "2026-11-14T10:34:06Z",
+   "created_at": "2026-11-14T10:34:06Z",
+   "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "big-shib-development-as-north-american-derivatives-exchange-self-certifies-strik",
+   "title": "Big SHIB Development as North American Derivatives Exchange Self-Certifies Strike Contract",
+   "description": "Shiba Inu gets new regulated market exposure as North American derivatives exchange adds SHIB to its strike event contract lineup.",
+   "published_at": "2026-11-14T10:25:13Z",
+   "created_at": "2026-11-14T10:25:13Z",
+   "url": "https://u.today/big-shib-development-as-north-american-derivatives-exchange-self-certifies-strike-contract",
+   "source": "U.Today"
+  },
+  {
+   "slug": "jensen-huang-resigns-why-nvidia-s-crisis-could-spill-further-into-bitcoin",
+   "title": "Jensen Huang Resigns: Why Nvidia’s Crisis Could Spill Further Into Bitcoin",
+   "description": "The immediate threat is to NVDA, but given the company's enormous influence over AI and US equities, the danger expands to essentially all markets.",
+   "published_at": "2026-11-14T10:25:03Z",
+   "created_at": "2026-11-14T10:25:03Z",
+   "url": "https://cryptopotato.com/jensen-huang-resigns-why-nvidias-crisis-could-spill-further-into-bitcoin/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "dogecoin-etfs-mark-one-month-of-zero-activity",
+   "title": "Dogecoin ETFs Mark One Month of Zero Activity",
+   "description": "Dogecoin ETFs have remained silent for the past month, recording zero trading activity over the period as Dogecoin's price continues to trend downward.",
+   "published_at": "2026-11-14T10:02:27Z",
+   "created_at": "2026-11-14T10:02:27Z",
+   "url": "https://u.today/dogecoin-etfs-mark-one-month-of-zero-activity",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-dips-to-68-000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buyin",
+   "title": "Bitcoin Dips To $68,000 As Anthropic IPO Pulls Cash, But History Points To A Buying Window",
+   "description": "Bitcoin just had its worst week since summer. But the reason behind the drop may be exactly why some analysts see an opportunity. BTC fell to about $68,000 overnight, its lowest level since August and more than 20% below early October. At its lowest point…",
+   "published_at": "2026-11-14T09:54:44Z",
+   "created_at": "2026-11-14T09:54:44Z",
+   "url": "https://bitcoinist.com/bitcoin-dips-to-68000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buying-window/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "vienna-s-satoshi-statue-vanishes-when-you-look-at-it-and-that-s-the-point",
+   "title": "Vienna’s Satoshi Statue Vanishes When You Look At It, And That’s The Point",
+   "description": "Nobody knows what Satoshi Nakamoto looks like. Vienna’s newest landmark leans into that mystery. Bitcoin Austria has unveiled a Satoshi statue in Viertel Zwei, a lakeside business quarter in Vienna’s second district. It makes the Austrian capital the latest…",
+   "published_at": "2026-11-14T09:45:08Z",
+   "created_at": "2026-11-14T09:45:08Z",
+   "url": "https://bitcoinist.com/viennas-satoshi-statue-vanishes-when-you-look-at-it-and-thats-the-point/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "xrp-on-wall-street-turns-ugly-evernorth-s-xrpn-crashes-83-in-a-month",
+   "title": "XRP on Wall Street Turns Ugly: Evernorth’s XRPN Crashes 83% in a Month",
+   "description": "Barely a month after its long-anticipated debut, XPRN has collapsed below $9. Moreover, it has dramatically underperformed XRP itself.",
+   "published_at": "2026-11-14T08:50:38Z",
+   "created_at": "2026-11-14T08:50:38Z",
+   "url": "https://cryptopotato.com/xrp-on-wall-street-turns-ugly-evernorths-xrpn-crashes-83-in-a-month/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "megaeth-parent-cuts-20-of-staff-amid-restructuring-ai-push",
+   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+   "description": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+   "published_at": "2026-11-14T08:12:30Z",
+   "created_at": "2026-11-14T08:12:30Z",
+   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "elizabeth-warren-could-reopen-crypto-s-banking-fight-without-changing-a-single-l",
+   "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+   "description": "Elizabeth Warren's next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she's expected to chair the Senate Banking Committee in January, giving her…",
+   "published_at": "2026-11-14T08:10:11Z",
+   "created_at": "2026-11-14T08:10:11Z",
+   "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "pi-network-reveals-why-developers-should-pay-attention-ahead-of-its-biggest-nove",
+   "title": "Pi Network Reveals Why Developers Should Pay Attention Ahead of Its Biggest November Event",
+   "description": "The big event is coming next week, and the new pitch wants devs to pay close attention.",
+   "published_at": "2026-11-14T07:16:37Z",
+   "created_at": "2026-11-14T07:16:37Z",
+   "url": "https://cryptopotato.com/pi-network-reveals-why-developers-should-pay-attention-ahead-of-its-biggest-november-event/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "bitcoin-etfs-shed-2-35b-in-2-weeks-blackrock-s-losing-streak-hits-11",
+   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+   "description": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+   "published_at": "2026-11-14T06:33:13Z",
+   "created_at": "2026-11-14T06:33:13Z",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "btc-dives-below-67k-as-xrp-breaks-under-1-00-in-fresh-crypto-sell-off-weekend-wa",
+   "title": "BTC Dives Below $67K as XRP Breaks Under $1.00 in Fresh Crypto Sell-Off: Weekend Watch",
+   "description": "The liquidations are almost $700 million on a daily scale once again as the market is deep in red.",
+   "published_at": "2026-11-14T06:09:39Z",
+   "created_at": "2026-11-14T06:09:39Z",
+   "url": "https://cryptopotato.com/btc-dives-below-67k-as-xrp-breaks-under-1-00-in-fresh-crypto-sell-off-weekend-watch/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "meta-tests-prediction-market-app-doj-moves-to-seize-1-2-billion-from-binance-hac",
+   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+   "description": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+   "published_at": "2026-11-14T05:40:00Z",
+   "created_at": "2026-11-14T05:40:00Z",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+   "source": "The Block"
+  },
+  {
+   "slug": "we-asked-3-ais-is-bitcoin-s-bull-market-over-after-a-13k-drop-in-10-days-here-s-",
+   "title": "We Asked 3 AIs: Is Bitcoin’s Bull Market Over After a $13K Drop in 10 Days? Here’s What Worried Us",
+   "description": "ChatGPT and Grok shared completely different opinions on whether this is a normal correction within a broader bull market or the bears are back in complete control.",
+   "published_at": "2026-11-14T04:58:08Z",
+   "created_at": "2026-11-14T04:58:08Z",
+   "url": "https://cryptopotato.com/we-asked-3-ais-is-bitcoins-bull-market-over-after-a-13k-drop-in-10-days-heres-what-worried-us/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "coinbase-ai-trading-tool-pauses-bots-but-leaves-orders-open",
+   "title": "Coinbase AI trading tool pauses bots, but leaves orders open",
+   "description": "Armstrong is promoting Coinbase’s new controls, but pausing an agent does not confirm that orders are canceled or positions closed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
+   "published_at": "2026-11-14T04:30:03Z",
+   "created_at": "2026-11-14T04:30:03Z",
+   "url": "https://cryptoslate.com/coinbase-ai-trading-tool-pauses-bots-but-leaves-orders-open/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "satoshi-era-wallet-served-in-a-260-billion-lawsuit-moves-75-btc-it-held-since-20",
+   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "description": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+   "published_at": "2026-11-14T04:30:00Z",
+   "created_at": "2026-11-14T04:30:00Z",
+   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "xrp-is-not-in-free-fall-according-to-bollinger-bands-even-after-nine-red-days",
+   "title": "XRP Is Not in Free Fall According to Bollinger Bands, Even After Nine Red Days",
+   "description": "XRP fell below $1 for the first time since August after nine red days, but weekly Bollinger Bands show no free fall and whale wallets hit a 2026 high.",
+   "published_at": "2026-11-14T04:00:00Z",
+   "created_at": "2026-11-14T04:00:00Z",
+   "url": "https://u.today/xrp-is-not-in-free-fall-according-to-bollinger-bands-even-after-nine-red-days",
+   "source": "U.Today"
+  },
+  {
+   "slug": "key-bullish-shiba-inu-shib-metric-surges-by-30-when-to-expect-the-reversal",
+   "title": "Key Bullish Shiba Inu (SHIB) Metric Surges by 30%: When to Expect the Reversal?",
+   "description": "Shiba Inu's average exchange outflow has crossed 1 billion SHIB per transaction, a metric that has surged by 30%.",
+   "published_at": "2026-11-14T03:00:00Z",
+   "created_at": "2026-11-14T03:00:00Z",
+   "url": "https://u.today/key-bullish-shiba-inu-shib-metric-surges-by-30-when-to-expect-the-reversal",
+   "source": "U.Today"
   },
   {
    "slug": "unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze",
@@ -505,15 +667,6 @@
    "source": "The Block"
   },
   {
-   "slug": "new-us-report-reveals-yen-rescue-used-euros-not-dollars-that-matters-for-bitcoin",
-   "title": "New US report reveals yen rescue used euros, not dollars. That matters for Bitcoin",
-   "description": "The November 12 report confirms a Treasury reserve-currency trade, leaving leveraged yen borrowing as a potential Bitcoin risk. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-13T15:30:50Z",
-   "created_at": "2026-11-13T15:30:50Z",
-   "url": "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "robinhood-s-crypto-trading-volume-falls-48-in-october-as-event-contracts-more-th",
    "title": "Robinhood’s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double",
    "description": "Bitcoin Magazine Robinhood’s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double Robinhood customers traded $17 billion of crypto in October, down 48% from a year earlier, while event contracts traded jumped 136% to 5.9 billion…",
@@ -593,15 +746,6 @@
    "created_at": "2026-11-13T14:45:00Z",
    "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
    "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "the-cost-of-a-70-000-bitcoin-hedge-more-than-doubled-in-a-day",
-   "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
-   "description": "A November 27 put rose 127.6% between two BTC-denominated trades while its reported implied volatility fell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-13T14:30:05Z",
-   "created_at": "2026-11-13T14:30:05Z",
-   "url": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "ethereum-and-layer-1s-explained",
@@ -847,15 +991,6 @@
    "source": "U.Today"
   },
   {
-   "slug": "bitcoin-enters-the-ai-economy-as-lightning-labs-launches-payments-for-autonomous",
-   "title": "Bitcoin Enters The AI Economy As Lightning Labs Launches Payments For Autonomous Agents",
-   "description": "Bitcoin could be entering a new phase of adoption as artificial intelligence developers explore ways for autonomous software to make payments without human intervention. While Bitcoin’s Lightning Network has traditionally focused on faster and cheaper…",
-   "published_at": "2026-11-13T10:42:47Z",
-   "created_at": "2026-11-13T10:42:47Z",
-   "url": "https://bitcoinist.com/bitcoin-enters-the-ai-economy-as-lightning-labs-launches-payments-for-autonomous-agents/",
-   "source": "Bitcoinist"
-  },
-  {
    "slug": "thailand-seeks-148-000-daily-cap-on-certain-stablecoin-transfers-to-curb-money-l",
    "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
    "description": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
@@ -908,15 +1043,6 @@
    "created_at": "2026-11-13T09:58:21Z",
    "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe",
    "source": "Cointelegraph"
-  },
-  {
-   "slug": "us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin",
-   "title": "US Moves To Recover $1.2 Billion In Stolen Crypto — Could It Impact Bitcoin?",
-   "description": "The US government has taken another major step toward recovering billions of dollars in stolen cryptocurrency, raising questions about how the assets could eventually return to the market. As Bitcoin investors monitor government-linked crypto movements, the…",
-   "published_at": "2026-11-13T09:49:37Z",
-   "created_at": "2026-11-13T09:49:37Z",
-   "url": "https://bitcoinist.com/us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin/",
-   "source": "Bitcoinist"
   },
   {
    "slug": "bitcoin-returns-to-200-week-trend-line-as-analyst-sees-risk-of-57-7k-next",
@@ -1232,133 +1358,7 @@
    "created_at": "2026-11-13T00:15:00Z",
    "url": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
    "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "near-protocol-near-stellar-xlm-chainlink-link-and-cardano-ada-price-analysis-for",
-   "title": "Near Protocol (NEAR), Stellar (XLM) ChainLink (LINK) and Cardano (ADA) Price Analysis For November 13: The Market Approaches Overselling",
-   "description": "The crypto market keeps sliding toward oversold territory, and NEAR, XLM, LINK and ADA are all under pressure.",
-   "published_at": "2026-11-13T00:01:00Z",
-   "created_at": "2026-11-13T00:01:00Z",
-   "url": "https://u.today/price-analysis/near-protocol-near-stellar-xlm-chainlink-link-and-cardano-ada-price-analysis-for-november-13-the",
-   "source": "U.Today"
-  },
-  {
-   "slug": "maple-finance-s-strategy-rift-sends-co-founder-coo-to-the-exits",
-   "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-   "description": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
-   "published_at": "2026-11-12T23:12:55Z",
-   "created_at": "2026-11-12T23:12:55Z",
-   "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-1-2-billion-in-sto",
-   "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-   "description": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-   "published_at": "2026-11-12T22:55:52Z",
-   "created_at": "2026-11-12T22:55:52Z",
-   "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "india-s-ed-targets-coindcx-and-delta-over-billions-in-alleged-unauthorized-overs",
-   "title": "India’s ED Targets CoinDCX and Delta Over Billions in Alleged Unauthorized Overseas Trades",
-   "description": "CoinDCX is under scrutiny after the ED alleged it routed customer funds through USDT to foreign exchanges without proper authorization.",
-   "published_at": "2026-11-12T22:50:44Z",
-   "created_at": "2026-11-12T22:50:44Z",
-   "url": "https://cryptopotato.com/indias-ed-targets-coindcx-and-delta-over-billions-in-alleged-unauthorized-overseas-trades/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "u-s-president-trump-names-cftc-sec-nominees-for-first-time-in-a-year",
-   "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-   "description": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
-   "published_at": "2026-11-12T22:47:41Z",
-   "created_at": "2026-11-12T22:47:41Z",
-   "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "doj-moves-to-seize-1-2-billion-from-binance-hack-disrupts-north-korean-deepfake-",
-   "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-   "description": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
-   "published_at": "2026-11-12T22:40:22Z",
-   "created_at": "2026-11-12T22:40:22Z",
-   "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
-   "source": "The Block"
-  },
-  {
-   "slug": "republican-senator-wants-to-freeze-ai-data-center-boom-as-congress-pushes-to-exp",
-   "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-   "description": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
-   "published_at": "2026-11-12T22:36:02Z",
-   "created_at": "2026-11-12T22:36:02Z",
-   "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
-   "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-   "description": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
-   "published_at": "2026-11-12T22:29:58Z",
-   "created_at": "2026-11-12T22:29:58Z",
-   "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "gemini-trading-volume-drops-73-as-q3-revenue-falls-to-41-million",
-   "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
-   "description": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
-   "published_at": "2026-11-12T22:18:10Z",
-   "created_at": "2026-11-12T22:18:10Z",
-   "url": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
-   "source": "The Block"
-  },
-  {
-   "slug": "north-korea-stole-400-million-in-crypto-using-deepfake-video-calls-doj-says",
-   "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-   "description": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls—as the DOJ also moves to seize $1.2 billion from the Binance hack.",
-   "published_at": "2026-11-12T22:06:03Z",
-   "created_at": "2026-11-12T22:06:03Z",
-   "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "kalshi-ends-donald-trump-jr-advisory-role-over-polymarket-investment-reuters",
-   "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-   "description": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
-   "published_at": "2026-11-12T22:05:01Z",
-   "created_at": "2026-11-12T22:05:01Z",
-   "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "strategy-stock-sheds-5-amid-msci-index-removal-bitcoin-sell-off",
-   "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-   "description": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
-   "published_at": "2026-11-12T21:52:04Z",
-   "created_at": "2026-11-12T21:52:04Z",
-   "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "louisiana-sues-kalshi-robinhood-and-other-prediction-markets-in-escalating-regul",
-   "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
-   "description": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
-   "published_at": "2026-11-12T21:44:30Z",
-   "created_at": "2026-11-12T21:44:30Z",
-   "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
-   "source": "The Block"
-  },
-  {
-   "slug": "strategy-made-19-5-billion-in-profit-so-why-is-msci-removing-it-from-stock-index",
-   "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-   "description": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying.",
-   "published_at": "2026-11-12T21:26:03Z",
-   "created_at": "2026-11-12T21:26:03Z",
-   "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
-   "source": "Decrypt"
   }
  ],
- "updatedAt": "2026-11-14T02:24:06Z"
+ "updatedAt": "2026-11-14T11:26:04Z"
 }
