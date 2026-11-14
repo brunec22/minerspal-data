@@ -1,6 +1,87 @@
 {
  "results": [
   {
+   "slug": "unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze",
+   "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+   "description": "Unocoin says disputed transfers were signed outside BitGo while it investigates suspected misuse of a backup mechanism. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-14T02:10:17Z",
+   "created_at": "2026-11-14T02:10:17Z",
+   "url": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "hyperliquid-hype-prints-growth-amid-panic-stellar-xlm-avoids-sell-off-bitcoin-bt",
+   "title": "Hyperliquid (HYPE) Prints Growth Amid Panic, Stellar (XLM) Avoids Sell-Off, Bitcoin (BTC) Losses Are Not Critical: Crypto Market Review",
+   "description": "Hyperliquid gains ground while the wider crypto market sells off, Stellar holds its bounce, and Bitcoin slips below $70,000.",
+   "published_at": "2026-11-14T00:01:00Z",
+   "created_at": "2026-11-14T00:01:00Z",
+   "url": "https://u.today/hyperliquid-hype-prints-growth-amid-panic-stellar-xlm-avoids-sell-off-bitcoin-btc-losses-are-not",
+   "source": "U.Today"
+  },
+  {
+   "slug": "us-courts-target-1-2b-in-stolen-binance-funds-yet-victims-face-a-new-hurdle",
+   "title": "US courts target $1.2B in stolen Binance funds, yet victims face a new hurdle",
+   "description": "DOJ's Nov. 12 release reports seizure or restraint authority within more than $2.7 billion frozen, without a return timetable. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-13T23:40:49Z",
+   "created_at": "2026-11-13T23:40:49Z",
+   "url": "https://cryptoslate.com/binance-funds-theft-us-court-orders-cover-over-1-2-billion-with-return-unresolved/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "bitcoin-miners-pay-paraguay-350-million-a-year-but-ai-is-pushing-them-out",
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "description": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+   "published_at": "2026-11-13T23:30:00Z",
+   "created_at": "2026-11-13T23:30:00Z",
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "tsmc-confirms-employee-data-leak-as-hackers-try-to-sell-46-000-records-for-bitco",
+   "title": "TSMC Confirms Employee Data Leak as Hackers Try to Sell 46,000 Records for Bitcoin",
+   "description": "Hackers are reportedly demanding 3 Bitcoin for thousands of TSMC employee records, threatening to publish the data if nobody buys.",
+   "published_at": "2026-11-13T22:42:27Z",
+   "created_at": "2026-11-13T22:42:27Z",
+   "url": "https://cryptopotato.com/tsmc-confirms-employee-data-leak-as-hackers-try-to-sell-46000-records-for-bitcoin/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze",
+   "title": "Diesel prices plunge 8%, yet Bitcoin traders face a squeeze",
+   "description": "October’s PPI slowed at the headline level, but higher freight prices and firm underlying inflation leave financing relief uncertain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
+   "published_at": "2026-11-13T22:20:46Z",
+   "created_at": "2026-11-13T22:20:46Z",
+   "url": "https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "could-a-former-nvidia-executive-replace-jensen-huang-arm-s-rene-haas-emerges-as-",
+   "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+   "description": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
+   "published_at": "2026-11-13T22:16:03Z",
+   "created_at": "2026-11-13T22:16:03Z",
+   "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "here-s-what-happened-in-crypto-today",
+   "title": "Here’s what happened in crypto today",
+   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published_at": "2026-11-13T22:08:37Z",
+   "created_at": "2026-11-13T22:08:37Z",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "openai-launches-ai-payments-in-chatgpt-with-visa-mastercard-and-amex",
+   "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+   "description": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+   "published_at": "2026-11-13T22:01:03Z",
+   "created_at": "2026-11-13T22:01:03Z",
+   "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
+   "source": "Cointelegraph"
+  },
+  {
    "slug": "adam-back-makes-case-for-simpler-security-as-blockstream-launches-bitcoin-custod",
    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
    "description": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
@@ -458,88 +539,7 @@
    "created_at": "2026-11-13T15:05:42Z",
    "url": "https://bitcoinist.com/krakens-parent-payward-expands-beyond-crypto-trading-as-revenue-falls-12/",
    "source": "Bitcoinist"
-  },
-  {
-   "slug": "over-300-pro-crypto-lawmakers-are-coming-into-congress",
-   "title": "Over 300 Pro-Crypto Lawmakers Are Coming Into Congress",
-   "description": "▶ Bitcoin Magazine Over 300 Pro-Crypto Lawmakers Are Coming Into Congress Mason Lynaugh, executive director of Stand With Crypto, joins BMTV to talk through what the midterms mean for Bitcoin and crypto. This post Over 300 Pro-Crypto Lawmakers Are Coming Into…",
-   "published_at": "2026-11-13T15:00:13Z",
-   "created_at": "2026-11-13T15:00:13Z",
-   "url": "https://bitcoinmagazine.com/videos/over-300-pro-crypto-lawmakers-are-coming-into-congress",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "bitcoin-flashes-historic-buy-signal-analyst-urges-investors-not-to-panic",
-   "title": "Bitcoin Flashes Historic Buy Signal, Analyst Urges Investors Not to Panic",
-   "description": "Bitcoin may be flashing a massive buying opportunity despite its brutal crash below $70,000, with prominent analyst Vetle Lunde pointing to several technical indicators suggesting a potential market bottom and urging investors not to panic.",
-   "published_at": "2026-11-13T14:54:28Z",
-   "created_at": "2026-11-13T14:54:28Z",
-   "url": "https://u.today/bitcoin-flashes-historic-buy-signal-analyst-urges-investors-not-to-panic",
-   "source": "U.Today"
-  },
-  {
-   "slug": "bitcoin-price-crashes-below-70k-as-liquidations-top-1-6-billion",
-   "title": "Bitcoin Price Crashes Below $70K as Liquidations Top $1.6 Billion",
-   "description": "Bitcoin price crashes below the psychologically important $70,000 level for the first time since August, extending a broader crypto market sell-off as a stronger US dollar and rising expectations of another Federal Reserve rate hike weigh on investor…",
-   "published_at": "2026-11-13T14:51:38Z",
-   "created_at": "2026-11-13T14:51:38Z",
-   "url": "https://bitcoinist.com/bitcoin-price-crashes-below-70k-as-liquidations-top-1-6-billion/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-g",
-   "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-   "description": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
-   "published_at": "2026-11-13T14:50:49Z",
-   "created_at": "2026-11-13T14:50:49Z",
-   "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-   "source": "The Block"
-  },
-  {
-   "slug": "president-trump-taps-two-democrats-in-bipartisan-slate-of-sec-and-cftc-nominees-",
-   "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
-   "description": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including former CFTC Commissioner Kristin Johnson…",
-   "published_at": "2026-11-13T14:45:00Z",
-   "created_at": "2026-11-13T14:45:00Z",
-   "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "the-cost-of-a-70-000-bitcoin-hedge-more-than-doubled-in-a-day",
-   "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
-   "description": "A November 27 put rose 127.6% between two BTC-denominated trades while its reported implied volatility fell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-13T14:30:05Z",
-   "created_at": "2026-11-13T14:30:05Z",
-   "url": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "ethereum-and-layer-1s-explained",
-   "title": "Ethereum and Layer 1s Explained",
-   "description": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-   "published_at": "2026-11-13T14:12:23Z",
-   "created_at": "2026-11-13T14:12:23Z",
-   "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-   "source": "The Block"
-  },
-  {
-   "slug": "bitcoin-price-briefly-crashes-to-67-500-lowest-since-august-as-dollar-holds-19-m",
-   "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
-   "description": "Bitcoin Magazine Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after…",
-   "published_at": "2026-11-13T14:11:44Z",
-   "created_at": "2026-11-13T14:11:44Z",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "can-ripple-xrp-lose-another-20-the-key-level-to-watch",
-   "title": "Can Ripple (XRP) Lose Another 20%: The Key Level to Watch",
-   "description": "Here's what can suppress XRP's price down to $0.80.",
-   "published_at": "2026-11-13T14:02:02Z",
-   "created_at": "2026-11-13T14:02:02Z",
-   "url": "https://cryptopotato.com/can-ripple-xrp-lose-another-20-the-key-level-to-watch/",
-   "source": "CryptoPotato"
   }
  ],
- "updatedAt": "2026-11-13T21:59:26Z"
+ "updatedAt": "2026-11-14T02:24:06Z"
 }
