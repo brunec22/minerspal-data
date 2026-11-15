@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T09:56:07Z",
+ "updatedAt": "2026-11-15T17:25:13Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -306,12 +306,6 @@
    "algorithm": "RandomX",
    "unit": 1000.0,
    "unitLabel": "kh/s"
-  },
-  "XEC": {
-   "id": 370,
-   "algorithm": "SHA-256",
-   "unit": 1000000000000.0,
-   "unitLabel": "Th/s"
   },
   "XEL": {
    "id": 459,
