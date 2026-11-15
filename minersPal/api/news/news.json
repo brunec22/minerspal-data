@@ -1,6 +1,114 @@
 {
  "results": [
   {
+   "slug": "ai-helped-hackers-gain-access-at-10-unnamed-organizations-researchers-say",
+   "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
+   "description": "The November 12 investigation reports 25 operations against at least 19 organizations during August–September, with humans assigning targets and able to steer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch…",
+   "published_at": "2026-11-15T05:20:04Z",
+   "created_at": "2026-11-15T05:20:04Z",
+   "url": "https://cryptoslate.com/ai-helped-hackers-gain-access-at-10-organizations-researchers-say/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "how-low-can-bitcoin-go-by-the-end-of-2026-after-losing-68k-3-ais-gave-us-brutal-",
+   "title": "How Low Can Bitcoin Go by the End of 2026 After Losing $68K? 3 AIs Gave Us Brutal Targets",
+   "description": "Is $60K next and can it even hold BTC if it comes to it?",
+   "published_at": "2026-11-15T04:57:47Z",
+   "created_at": "2026-11-15T04:57:47Z",
+   "url": "https://cryptopotato.com/how-low-can-bitcoin-go-by-the-end-of-2026-after-losing-68k-3-ais-gave-us-brutal-targets/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "solana-s-retired-validators-still-vote-with-15-of-active-stake",
+   "title": "Solana’s “retired” validators still vote with 15% of active stake",
+   "description": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators’ ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch…",
+   "published_at": "2026-11-15T04:00:00Z",
+   "created_at": "2026-11-15T04:00:00Z",
+   "url": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "description": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+   "published_at": "2026-11-15T02:50:57Z",
+   "created_at": "2026-11-15T02:50:57Z",
+   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days",
+   "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+   "description": "The preprint's 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster's balance faced a 2.5-day median wait. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-15T02:40:32Z",
+   "created_at": "2026-11-15T02:40:32Z",
+   "url": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "bitcoin-s-oil-relief-has-a-catch-more-oil-at-sea-less-on-land",
+   "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
+   "description": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get…",
+   "published_at": "2026-11-15T01:40:52Z",
+   "created_at": "2026-11-15T01:40:52Z",
+   "url": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare",
+   "title": "Telegram curbs new in-chat apps amid a no-tap hacking scare",
+   "description": "A Bot API contributor confirmed the restriction as researchers detailed older-client flaws and Pavel Durov asserted server-side remediation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
+   "published_at": "2026-11-15T00:40:48Z",
+   "created_at": "2026-11-15T00:40:48Z",
+   "url": "https://cryptoslate.com/telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "xrp-to-1-3-kalshi-traders-make-weak-november-bets",
+   "title": "XRP to $1.3? Kalshi Traders Make Weak November Bets",
+   "description": "XRP traders on Kalshi are betting on a possible reversal to at least $1.3 as the asset continues to face sharp declines losing the long-held $ mark.",
+   "published_at": "2026-11-15T00:01:00Z",
+   "created_at": "2026-11-15T00:01:00Z",
+   "url": "https://u.today/xrp-to-13-kalshi-traders-make-weak-november-bets",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-drops-below-64-000-as-bullish-bets-get-wiped-out-over-the-weekend",
+   "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
+   "description": "CoinGecko showed BTC near $65,500 on the afternoon of Nov. 14, while Newhedge recorded long-liquidation events below $66,000. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-14T23:40:35Z",
+   "created_at": "2026-11-14T23:40:35Z",
+   "url": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40",
+   "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+   "description": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+   "published_at": "2026-11-14T23:07:35Z",
+   "created_at": "2026-11-14T23:07:35Z",
+   "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+   "source": "The Block"
+  },
+  {
+   "slug": "crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi",
+   "title": "Crypto Executives Targeted in $400M North Korea Hacking Scheme: FBI",
+   "description": "Hackers reportedly hijacked Telegram and LinkedIn accounts to make fake meeting invitations appear to come from trusted industry contacts.",
+   "published_at": "2026-11-14T22:41:58Z",
+   "created_at": "2026-11-14T22:41:58Z",
+   "url": "https://cryptopotato.com/crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "peter-schiff-argues-bitcoin-may-fall-below-16-500-by-year-end-if-50-000-breaks-n",
+   "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
+   "description": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-14T22:40:39Z",
+   "created_at": "2026-11-14T22:40:39Z",
+   "url": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
+   "source": "CryptoSlate"
+  },
+  {
    "slug": "crypto-s-168-million-election-78-winners-13-newcomers-and-one-costly-defeat",
    "title": "Crypto’s $168 million election: 78 winners, 13 newcomers and one costly defeat",
    "description": "Crypto super PACs backed 78 candidates who have won seats in Congress. Just 13 of them will enter Congress for the first time. Most of the winning roster already has a record in Washington. It includes the author of the House's crypto market-regulation bill…",
@@ -100,15 +208,6 @@
    "source": "CryptoPotato"
   },
   {
-   "slug": "mica-gave-crypto-a-passport-but-customers-still-face-borders",
-   "title": "MiCA gave crypto a passport, but customers still face borders",
-   "description": "Hungary scrapped an extra set of crypto restrictions in August, and for customers who had spent months wondering when they could trade normally again, that should have made things simpler. But what they were told still depended on which app they used. Bitvavo…",
-   "published_at": "2026-11-14T18:40:48Z",
-   "created_at": "2026-11-14T18:40:48Z",
-   "url": "https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "the-week-jensen-huang-fell-how-a-spy-scandal-toppled-nvidia-s-ceo",
    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
    "description": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
@@ -125,15 +224,6 @@
    "created_at": "2026-11-14T17:50:41Z",
    "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
    "source": "The Block"
-  },
-  {
-   "slug": "binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait",
-   "title": "Binance says stolen crypto has been replaced but some customers have to wait",
-   "description": "The 198-token reserve snapshot expands Binance's disclosed scope, while proof availability, phased withdrawals and SAFU restoration remain separate tests. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get…",
-   "published_at": "2026-11-14T17:20:40Z",
-   "created_at": "2026-11-14T17:20:40Z",
-   "url": "https://cryptoslate.com/binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "eth-tanks-another-5-as-ethereum-foundation-keeps-selling-and-schiff-sounds-the-a",
@@ -154,8 +244,8 @@
    "source": "Decrypt"
   },
   {
-   "slug": "bitcoin-slides-to-3-month-low-of-65-000-as-analyst-flags-fourth-capitulation-wav",
-   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "slug": "bitcoin-crashes-to-3-month-low-below-63-000-as-analyst-flags-fourth-capitulation",
+   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
    "description": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
    "published_at": "2026-11-14T16:33:29Z",
    "created_at": "2026-11-14T16:33:29Z",
@@ -179,15 +269,6 @@
    "created_at": "2026-11-14T16:28:42Z",
    "url": "https://cryptopotato.com/ripple-price-analysis-is-the-worst-yet-to-come-as-xrp-dumps-to-a-2-year-low/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "bitcoin-s-67-000-crash-puts-57-billion-holder-cluster-at-risk-as-etf-investors-f",
-   "title": "Bitcoin’s $67,000 crash puts $57 billion holder cluster at risk as ETF investors flee",
-   "description": "Coinbase’s November 10 distribution placed roughly 855,000 BTC near current prices, leaving sustained buying central to the support case. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in…",
-   "published_at": "2026-11-14T16:20:11Z",
-   "created_at": "2026-11-14T16:20:11Z",
-   "url": "https://cryptoslate.com/bitcoins-67000-crash-puts-57-billion-holder-cluster-at-risk-as-etf-investors-flee/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
@@ -224,15 +305,6 @@
    "created_at": "2026-11-14T15:26:19Z",
    "url": "https://cryptopotato.com/bitcoin-price-analysis-where-is-the-bottom-as-btcs-correction-accelerates/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "wall-street-wants-24-7-trading-but-somebody-has-to-bankroll-the-weekend",
-   "title": "Wall Street wants 24/7 trading, but somebody has to bankroll the weekend",
-   "description": "Wall Street's move toward round-the-clock trading includes a key decision about who supplies cash when the main wholesale payment systems are closed. If you want to adjust a position on Saturday, being able to trade saves you from waiting until Monday. The…",
-   "published_at": "2026-11-14T15:20:06Z",
-   "created_at": "2026-11-14T15:20:06Z",
-   "url": "https://cryptoslate.com/wall-street-wants-24-7-trading-but-somebody-has-to-bankroll-the-weekend/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "2027-crypto-outlook-bitwise-ceo-highlights-wall-street-adoption",
@@ -298,15 +370,6 @@
    "source": "U.Today"
   },
   {
-   "slug": "microsoft-found-a-way-to-turn-a-helpful-ai-into-a-sleeper-agent",
-   "title": "Microsoft found a way to turn a helpful AI into a sleeper agent",
-   "description": "Seven neurons controlled a harmless marker, while a separate 60-neuron test predicted a destructive command format. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-14T13:20:37Z",
-   "created_at": "2026-11-14T13:20:37Z",
-   "url": "https://cryptoslate.com/microsoft-found-a-way-to-turn-a-helpful-ai-into-a-sleeper-agent/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "binance-tightens-security-with-zero-knowledge-proof-upgrade",
    "title": "Binance Tightens Security With Zero-Knowledge Proof Upgrade",
    "description": "Binance draws attention to a major security upgrade that allows users to independently verify that their assets on the exchange are fully backed at a minimum 1:1 ratio.",
@@ -359,15 +422,6 @@
    "created_at": "2026-11-14T11:43:59Z",
    "url": "https://u.today/xrp-etfs-mark-1-year-anniversary-with-116-billion-xrp-accumulated",
    "source": "U.Today"
-  },
-  {
-   "slug": "50-000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-f",
-   "title": "50,000 people installed this Bitcoin browser extension. Now control of it is up for sale",
-   "description": "The current offer is separate from documented malware cases, but it shows how buyers can acquire an audience and future update control. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in…",
-   "published_at": "2026-11-14T11:34:23Z",
-   "created_at": "2026-11-14T11:34:23Z",
-   "url": "https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-sho",
@@ -460,15 +514,6 @@
    "source": "Cointelegraph"
   },
   {
-   "slug": "elizabeth-warren-could-reopen-crypto-s-banking-fight-without-changing-a-single-l",
-   "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
-   "description": "Elizabeth Warren's next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she's expected to chair the Senate Banking Committee in January, giving her…",
-   "published_at": "2026-11-14T08:10:11Z",
-   "created_at": "2026-11-14T08:10:11Z",
-   "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "pi-network-reveals-why-developers-should-pay-attention-ahead-of-its-biggest-nove",
    "title": "Pi Network Reveals Why Developers Should Pay Attention Ahead of Its Biggest November Event",
    "description": "The big event is coming next week, and the new pitch wants devs to pay close attention.",
@@ -494,52 +539,7 @@
    "created_at": "2026-11-14T06:09:39Z",
    "url": "https://cryptopotato.com/btc-dives-below-67k-as-xrp-breaks-under-1-00-in-fresh-crypto-sell-off-weekend-watch/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "meta-tests-prediction-market-app-doj-moves-to-seize-1-2-billion-from-binance-hac",
-   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-   "description": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-   "published_at": "2026-11-14T05:40:00Z",
-   "created_at": "2026-11-14T05:40:00Z",
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-   "source": "The Block"
-  },
-  {
-   "slug": "we-asked-3-ais-is-bitcoin-s-bull-market-over-after-a-13k-drop-in-10-days-here-s-",
-   "title": "We Asked 3 AIs: Is Bitcoin’s Bull Market Over After a $13K Drop in 10 Days? Here’s What Worried Us",
-   "description": "ChatGPT and Grok shared completely different opinions on whether this is a normal correction within a broader bull market or the bears are back in complete control.",
-   "published_at": "2026-11-14T04:58:08Z",
-   "created_at": "2026-11-14T04:58:08Z",
-   "url": "https://cryptopotato.com/we-asked-3-ais-is-bitcoins-bull-market-over-after-a-13k-drop-in-10-days-heres-what-worried-us/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "satoshi-era-wallet-served-in-a-260-billion-lawsuit-moves-75-btc-it-held-since-20",
-   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-   "description": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-   "published_at": "2026-11-14T04:30:00Z",
-   "created_at": "2026-11-14T04:30:00Z",
-   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "xrp-is-not-in-free-fall-according-to-bollinger-bands-even-after-nine-red-days",
-   "title": "XRP Is Not in Free Fall According to Bollinger Bands, Even After Nine Red Days",
-   "description": "XRP fell below $1 for the first time since August after nine red days, but weekly Bollinger Bands show no free fall and whale wallets hit a 2026 high.",
-   "published_at": "2026-11-14T04:00:00Z",
-   "created_at": "2026-11-14T04:00:00Z",
-   "url": "https://u.today/xrp-is-not-in-free-fall-according-to-bollinger-bands-even-after-nine-red-days",
-   "source": "U.Today"
-  },
-  {
-   "slug": "bitcoin-miners-pay-paraguay-350-million-a-year-but-ai-is-pushing-them-out",
-   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "description": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
-   "published_at": "2026-11-13T23:30:00Z",
-   "created_at": "2026-11-13T23:30:00Z",
-   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-   "source": "CoinDesk"
   }
  ],
- "updatedAt": "2026-11-14T22:19:20Z"
+ "updatedAt": "2026-11-15T06:21:56Z"
 }
