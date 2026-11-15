@@ -3,11 +3,155 @@
   {
    "slug": "minerspal-dev-feed",
    "title": "[DEV] MinersPal staging news feed",
-   "description": "Staging feed generated 2026-11-15T15:38:06Z. Production users read news.json.",
-   "published_at": "2026-11-15T15:38:06Z",
-   "created_at": "2026-11-15T15:38:06Z",
+   "description": "Staging feed generated 2026-11-15T21:00:29Z. Production users read news.json.",
+   "published_at": "2026-11-15T21:00:29Z",
+   "created_at": "2026-11-15T21:00:29Z",
    "url": "https://github.com/brunec22/minerspal-data",
    "source": "MinersPal"
+  },
+  {
+   "slug": "bitcoin-breaks-below-63k-as-market-panic-intensifies",
+   "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
+   "description": "Bitcoin breaks below $63 on Sunday, November 15, even briefly falling toward $62,000 as selling pressure spread across the cryptocurrency market. Although BTC recovered above $65,000 after reaching its lowest level since July, the rebound did little to ease…",
+   "published_at": "2026-11-15T20:48:44Z",
+   "created_at": "2026-11-15T20:48:44Z",
+   "url": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "traders-claim-6-million-profit-by-spotting-bitgo-s-public-pull-request-and-front",
+   "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+   "description": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+   "published_at": "2026-11-15T20:33:17Z",
+   "created_at": "2026-11-15T20:33:17Z",
+   "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+   "source": "The Block"
+  },
+  {
+   "slug": "robert-barr-jailed-8-years-for-2m-crypto-theft-plot-run-by-phone-from-prison",
+   "title": "Robert Barr Jailed 8 Years for £2M Crypto Theft Plot Run by Phone From Prison",
+   "description": "Barr told an associate he had the couple's house robbed months earlier. That raid took a crypto wallet but not its PIN, and here's what Barr did next.",
+   "published_at": "2026-11-15T20:03:26Z",
+   "created_at": "2026-11-15T20:03:26Z",
+   "url": "https://cryptopotato.com/robert-barr-jailed-8-years-for-2m-crypto-theft-plot-run-by-phone-from-prison/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "stablecoin-supply-shrinkage-raises-a-bigger-question-about-crypto-liquidity",
+   "title": "Stablecoin Supply Shrinkage Raises a Bigger Question About Crypto Liquidity",
+   "description": "Crypto investors spend plenty of time staring at Bitcoin charts, but one of the more revealing signals this month may be the amount of dollar-backed stablecoins circulating across the market. Recent data suggests that the combined supply of major stablecoins…",
+   "published_at": "2026-11-15T20:00:00Z",
+   "created_at": "2026-11-15T20:00:00Z",
+   "url": "https://www.newsbtc.com/crypto-news/stablecoin-supply-contracts-crypto-liquidity-november-2026/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+   "description": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+   "published_at": "2026-11-15T19:30:00Z",
+   "created_at": "2026-11-15T19:30:00Z",
+   "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "xrp-briefly-drops-to-0-89-as-crypto-liquidity-retreats",
+   "title": "XRP Briefly Drops to $0.89 as Crypto Liquidity Retreats",
+   "description": "XRP has joined the wider cryptocurrency sell-off with a particularly sharp move, briefly touching about $0.89 as investors cut exposure to riskier assets. The level is notable because it takes the token back toward prices last seen in late 2024, but the more…",
+   "published_at": "2026-11-15T19:00:00Z",
+   "created_at": "2026-11-15T19:00:00Z",
+   "url": "https://www.newsbtc.com/xrp-news/xrp-falls-089-november-2026-market-liquidity/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "crypto-has-lost-57-cents-to-hackers-for-every-dollar-earned-ark",
+   "title": "Crypto Has Lost 57 Cents to Hackers for Every Dollar Earned: ARK",
+   "description": "Crypto revenue outpaced hacking losses for most years after 2020, until the Binance incident reversed the trend.",
+   "published_at": "2026-11-15T18:40:24Z",
+   "created_at": "2026-11-15T18:40:24Z",
+   "url": "https://cryptopotato.com/crypto-has-lost-57-cents-to-hackers-for-every-dollar-earned-ark/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "binance-warns-about-ai-scams",
+   "title": "Binance Warns About AI Scams",
+   "description": "Binance has issued a warning about increasingly sophisticated AI-powered scams, with fraudsters using realistic deepfake videos to impersonate company executives and employees in an attempt to steal users' crypto.",
+   "published_at": "2026-11-15T18:36:45Z",
+   "created_at": "2026-11-15T18:36:45Z",
+   "url": "https://u.today/binance-warns-about-ai-scams",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-etfs-lose-2-35-billion-in-two-weeks-as-outflow-streak-extends",
+   "title": "Bitcoin ETFs Lose $2.35 Billion in Two Weeks as Outflow Streak Extends",
+   "description": "US spot Bitcoin exchange-traded funds have now suffered two consecutive weeks of withdrawals exceeding $1 billion, a remarkable reversal for products often treated as the clearest gauge of institutional demand. The latest weekly tally also extends the run of…",
+   "published_at": "2026-11-15T18:00:00Z",
+   "created_at": "2026-11-15T18:00:00Z",
+   "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-etf-two-week-outflows-235-billion-november-2026/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "tether-wants-its-gold-token-to-rival-etfs",
+   "title": "Tether wants its gold token to rival ETFs",
+   "description": "Anchorage supports institutional XAUT sales and client financing, while direct issuer redemption requires separate eligibility and acceptance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-15T17:25:18Z",
+   "created_at": "2026-11-15T17:25:18Z",
+   "url": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "bitcoin-s-rebound-is-failing-3-reasons-btc-could-face-more-pressure",
+   "title": "Bitcoin’s Rebound Is Failing: 3 Reasons BTC Could Face More Pressure",
+   "description": "CryptoQuant warned that a sustainable rebound would require something the market currently lacks: fresh buyers.",
+   "published_at": "2026-11-15T17:06:14Z",
+   "created_at": "2026-11-15T17:06:14Z",
+   "url": "https://cryptopotato.com/bitcoins-rebound-is-failing-3-reasons-btc-could-face-more-pressure/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "bitcoin-slides-toward-63-000-as-weekend-selling-tests-market-confidence",
+   "title": "Bitcoin Slides Toward $63,000 as Weekend Selling Tests Market Confidence",
+   "description": "Bitcoin's latest decline is testing something more important than a round-number price level: whether buyers have enough conviction to absorb selling when liquidity thins out over the weekend. The market slipped toward $63,000 during Saturday's trading after…",
+   "published_at": "2026-11-15T17:00:00Z",
+   "created_at": "2026-11-15T17:00:00Z",
+   "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-november-weekend-selloff-63000-risk-liquidity/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "how-10-000-in-stablecoins-would-have-gained-420-without-earning-interest",
+   "title": "How $10,000 in stablecoins would have gained €420 without earning interest",
+   "description": "ECB household evidence and a two-date FX illustration separate dollar-token stability from euro value before costs. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-15T16:30:56Z",
+   "created_at": "2026-11-15T16:30:56Z",
+   "url": "https://cryptoslate.com/how-10000-in-stablecoins-would-have-gained-e420-without-earning-interest/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "xrp-ledger-passes-11-7-million-sub-dollar-ai-agent-microtransactions",
+   "title": "XRP Ledger Passes 11.7 Million Sub-Dollar AI Agent Microtransactions",
+   "description": "AI agents went from almost zero to over 10 million XRPL payments in three months, and t54.ai’s founder expects them to outnumber humans next year.",
+   "published_at": "2026-11-15T16:27:45Z",
+   "created_at": "2026-11-15T16:27:45Z",
+   "url": "https://u.today/xrp-ledger-passes-117-million-sub-dollar-ai-agent-microtransactions",
+   "source": "U.Today"
+  },
+  {
+   "slug": "how-wall-street-is-racing-to-claim-the-onchain-dollar",
+   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "description": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+   "published_at": "2026-11-15T16:01:02Z",
+   "created_at": "2026-11-15T16:01:02Z",
+   "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "central-banks-are-loading-up-on-gold-is-bitcoin-losing-the-hard-money-battle",
+   "title": "Central Banks Are Loading Up on Gold: Is Bitcoin Losing the Hard-Money Battle?",
+   "description": "Gold has quietly gained significant ground against BTC, but not because the precious metal's price has risen in simple terms.",
+   "published_at": "2026-11-15T15:54:51Z",
+   "created_at": "2026-11-15T15:54:51Z",
+   "url": "https://cryptopotato.com/central-banks-are-loading-up-on-gold-is-bitcoin-losing-the-hard-money-battle/",
+   "source": "CryptoPotato"
   },
   {
    "slug": "bitcoin-now-looks-cheap-by-one-measure-after-1-billion-in-etf-outflows",
@@ -370,15 +514,6 @@
    "source": "CryptoPotato"
   },
   {
-   "slug": "solana-s-retired-validators-still-vote-with-15-of-active-stake",
-   "title": "Solana’s “retired” validators still vote with 15% of active stake",
-   "description": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators’ ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch…",
-   "published_at": "2026-11-15T04:00:00Z",
-   "created_at": "2026-11-15T04:00:00Z",
-   "url": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
    "description": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
@@ -386,15 +521,6 @@
    "created_at": "2026-11-15T02:50:57Z",
    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
    "source": "CoinDesk"
-  },
-  {
-   "slug": "a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days",
-   "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
-   "description": "The preprint's 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster's balance faced a 2.5-day median wait. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
-   "published_at": "2026-11-15T02:40:32Z",
-   "created_at": "2026-11-15T02:40:32Z",
-   "url": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "xrp-to-1-3-kalshi-traders-make-weak-november-bets",
@@ -620,15 +746,6 @@
    "created_at": "2026-11-14T14:50:16Z",
    "url": "https://u.today/xrp-slips-below-1-is-its-top-five-ranking-in-jeopardy",
    "source": "U.Today"
-  },
-  {
-   "slug": "ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in",
-   "title": "Ethereum Staking Hits Record 36.3% Of Supply As ETH Holders Lock In",
-   "description": "The ETH price has had a rough month. But Ethereum’s most committed holders do not seem to care. More than a third of all ether is now locked in staking, a new all-time high. According to Token Terminal data, Ethereum’s staking rate has climbed to 36.3% of…",
-   "published_at": "2026-11-14T14:16:57Z",
-   "created_at": "2026-11-14T14:16:57Z",
-   "url": "https://bitcoinist.com/ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in/",
-   "source": "Bitcoinist"
   },
   {
    "slug": "bitcoin-s-crash-isn-t-over-yet-analysts-see-more-downside-toward-60k",
@@ -1241,124 +1358,7 @@
    "created_at": "2026-11-13T15:11:08Z",
    "url": "https://cryptopotato.com/ethereum-price-predictions-whats-next-for-eth-after-2k-fell/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "japanese-giant-rakuten-joins-institutional-xrp-etf-holders",
-   "title": "Japanese Giant Rakuten Joins Institutional XRP ETF Holders",
-   "description": "Japanese tech conglomerate Rakuten Group holds Bitwise’s XRP ETF as part of a $6.42 million U.S. crypto ETF portfolio, its latest 13F filing shows. .",
-   "published_at": "2026-11-13T15:10:45Z",
-   "created_at": "2026-11-13T15:10:45Z",
-   "url": "https://u.today/japanese-giant-rakuten-joins-institutional-xrp-etf-holders",
-   "source": "U.Today"
-  },
-  {
-   "slug": "over-300-pro-crypto-lawmakers-are-coming-into-congress",
-   "title": "Over 300 Pro-Crypto Lawmakers Are Coming Into Congress",
-   "description": "▶ Bitcoin Magazine Over 300 Pro-Crypto Lawmakers Are Coming Into Congress Mason Lynaugh, executive director of Stand With Crypto, joins BMTV to talk through what the midterms mean for Bitcoin and crypto. This post Over 300 Pro-Crypto Lawmakers Are Coming Into…",
-   "published_at": "2026-11-13T15:00:13Z",
-   "created_at": "2026-11-13T15:00:13Z",
-   "url": "https://bitcoinmagazine.com/videos/over-300-pro-crypto-lawmakers-are-coming-into-congress",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "bitcoin-flashes-historic-buy-signal-analyst-urges-investors-not-to-panic",
-   "title": "Bitcoin Flashes Historic Buy Signal, Analyst Urges Investors Not to Panic",
-   "description": "Bitcoin may be flashing a massive buying opportunity despite its brutal crash below $70,000, with prominent analyst Vetle Lunde pointing to several technical indicators suggesting a potential market bottom and urging investors not to panic.",
-   "published_at": "2026-11-13T14:54:28Z",
-   "created_at": "2026-11-13T14:54:28Z",
-   "url": "https://u.today/bitcoin-flashes-historic-buy-signal-analyst-urges-investors-not-to-panic",
-   "source": "U.Today"
-  },
-  {
-   "slug": "tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-g",
-   "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-   "description": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
-   "published_at": "2026-11-13T14:50:49Z",
-   "created_at": "2026-11-13T14:50:49Z",
-   "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-   "source": "The Block"
-  },
-  {
-   "slug": "president-trump-taps-two-democrats-in-bipartisan-slate-of-sec-and-cftc-nominees-",
-   "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
-   "description": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including former CFTC Commissioner Kristin Johnson…",
-   "published_at": "2026-11-13T14:45:00Z",
-   "created_at": "2026-11-13T14:45:00Z",
-   "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "ethereum-and-layer-1s-explained",
-   "title": "Ethereum and Layer 1s Explained",
-   "description": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-   "published_at": "2026-11-13T14:12:23Z",
-   "created_at": "2026-11-13T14:12:23Z",
-   "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-   "source": "The Block"
-  },
-  {
-   "slug": "bitcoin-price-briefly-crashes-to-67-500-lowest-since-august-as-dollar-holds-19-m",
-   "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
-   "description": "Bitcoin Magazine Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after…",
-   "published_at": "2026-11-13T14:11:44Z",
-   "created_at": "2026-11-13T14:11:44Z",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "can-ripple-xrp-lose-another-20-the-key-level-to-watch",
-   "title": "Can Ripple (XRP) Lose Another 20%: The Key Level to Watch",
-   "description": "Here's what can suppress XRP's price down to $0.80.",
-   "published_at": "2026-11-13T14:02:02Z",
-   "created_at": "2026-11-13T14:02:02Z",
-   "url": "https://cryptopotato.com/can-ripple-xrp-lose-another-20-the-key-level-to-watch/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenu",
-   "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-   "description": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
-   "published_at": "2026-11-13T14:02:00Z",
-   "created_at": "2026-11-13T14:02:00Z",
-   "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "dogecoin-cofounder-makes-i-m-a-shiba-inu-statement",
-   "title": "Dogecoin Cofounder Makes 'I’m a Shiba Inu' Statement",
-   "description": "Dogecoin cofounder talks Shiba Inu in unexpected social media response.",
-   "published_at": "2026-11-13T14:00:55Z",
-   "created_at": "2026-11-13T14:00:55Z",
-   "url": "https://u.today/dogecoin-cofounder-makes-im-a-shiba-inu-statement",
-   "source": "U.Today"
-  },
-  {
-   "slug": "crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
-   "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
-   "description": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering.",
-   "published_at": "2026-11-13T13:55:25Z",
-   "created_at": "2026-11-13T13:55:25Z",
-   "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "arthur-hayes-flattered-as-coinbase-backs-us-stock-perps",
-   "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-   "description": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
-   "published_at": "2026-11-13T13:41:26Z",
-   "created_at": "2026-11-13T13:41:26Z",
-   "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-   "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-   "description": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
-   "published_at": "2026-11-13T13:36:29Z",
-   "created_at": "2026-11-13T13:36:29Z",
-   "url": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-   "source": "Decrypt"
   }
  ],
- "updatedAt": "2026-11-15T15:38:06Z"
+ "updatedAt": "2026-11-15T21:00:29Z"
 }

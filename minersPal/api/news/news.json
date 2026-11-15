@@ -1,6 +1,150 @@
 {
  "results": [
   {
+   "slug": "bitcoin-breaks-below-63k-as-market-panic-intensifies",
+   "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
+   "description": "Bitcoin breaks below $63 on Sunday, November 15, even briefly falling toward $62,000 as selling pressure spread across the cryptocurrency market. Although BTC recovered above $65,000 after reaching its lowest level since July, the rebound did little to ease…",
+   "published_at": "2026-11-15T20:48:44Z",
+   "created_at": "2026-11-15T20:48:44Z",
+   "url": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "traders-claim-6-million-profit-by-spotting-bitgo-s-public-pull-request-and-front",
+   "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+   "description": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+   "published_at": "2026-11-15T20:33:17Z",
+   "created_at": "2026-11-15T20:33:17Z",
+   "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+   "source": "The Block"
+  },
+  {
+   "slug": "robert-barr-jailed-8-years-for-2m-crypto-theft-plot-run-by-phone-from-prison",
+   "title": "Robert Barr Jailed 8 Years for £2M Crypto Theft Plot Run by Phone From Prison",
+   "description": "Barr told an associate he had the couple's house robbed months earlier. That raid took a crypto wallet but not its PIN, and here's what Barr did next.",
+   "published_at": "2026-11-15T20:03:26Z",
+   "created_at": "2026-11-15T20:03:26Z",
+   "url": "https://cryptopotato.com/robert-barr-jailed-8-years-for-2m-crypto-theft-plot-run-by-phone-from-prison/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "stablecoin-supply-shrinkage-raises-a-bigger-question-about-crypto-liquidity",
+   "title": "Stablecoin Supply Shrinkage Raises a Bigger Question About Crypto Liquidity",
+   "description": "Crypto investors spend plenty of time staring at Bitcoin charts, but one of the more revealing signals this month may be the amount of dollar-backed stablecoins circulating across the market. Recent data suggests that the combined supply of major stablecoins…",
+   "published_at": "2026-11-15T20:00:00Z",
+   "created_at": "2026-11-15T20:00:00Z",
+   "url": "https://www.newsbtc.com/crypto-news/stablecoin-supply-contracts-crypto-liquidity-november-2026/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+   "description": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+   "published_at": "2026-11-15T19:30:00Z",
+   "created_at": "2026-11-15T19:30:00Z",
+   "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "xrp-briefly-drops-to-0-89-as-crypto-liquidity-retreats",
+   "title": "XRP Briefly Drops to $0.89 as Crypto Liquidity Retreats",
+   "description": "XRP has joined the wider cryptocurrency sell-off with a particularly sharp move, briefly touching about $0.89 as investors cut exposure to riskier assets. The level is notable because it takes the token back toward prices last seen in late 2024, but the more…",
+   "published_at": "2026-11-15T19:00:00Z",
+   "created_at": "2026-11-15T19:00:00Z",
+   "url": "https://www.newsbtc.com/xrp-news/xrp-falls-089-november-2026-market-liquidity/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "crypto-has-lost-57-cents-to-hackers-for-every-dollar-earned-ark",
+   "title": "Crypto Has Lost 57 Cents to Hackers for Every Dollar Earned: ARK",
+   "description": "Crypto revenue outpaced hacking losses for most years after 2020, until the Binance incident reversed the trend.",
+   "published_at": "2026-11-15T18:40:24Z",
+   "created_at": "2026-11-15T18:40:24Z",
+   "url": "https://cryptopotato.com/crypto-has-lost-57-cents-to-hackers-for-every-dollar-earned-ark/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "binance-warns-about-ai-scams",
+   "title": "Binance Warns About AI Scams",
+   "description": "Binance has issued a warning about increasingly sophisticated AI-powered scams, with fraudsters using realistic deepfake videos to impersonate company executives and employees in an attempt to steal users' crypto.",
+   "published_at": "2026-11-15T18:36:45Z",
+   "created_at": "2026-11-15T18:36:45Z",
+   "url": "https://u.today/binance-warns-about-ai-scams",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-etfs-lose-2-35-billion-in-two-weeks-as-outflow-streak-extends",
+   "title": "Bitcoin ETFs Lose $2.35 Billion in Two Weeks as Outflow Streak Extends",
+   "description": "US spot Bitcoin exchange-traded funds have now suffered two consecutive weeks of withdrawals exceeding $1 billion, a remarkable reversal for products often treated as the clearest gauge of institutional demand. The latest weekly tally also extends the run of…",
+   "published_at": "2026-11-15T18:00:00Z",
+   "created_at": "2026-11-15T18:00:00Z",
+   "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-etf-two-week-outflows-235-billion-november-2026/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "tether-wants-its-gold-token-to-rival-etfs",
+   "title": "Tether wants its gold token to rival ETFs",
+   "description": "Anchorage supports institutional XAUT sales and client financing, while direct issuer redemption requires separate eligibility and acceptance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-15T17:25:18Z",
+   "created_at": "2026-11-15T17:25:18Z",
+   "url": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "bitcoin-s-rebound-is-failing-3-reasons-btc-could-face-more-pressure",
+   "title": "Bitcoin’s Rebound Is Failing: 3 Reasons BTC Could Face More Pressure",
+   "description": "CryptoQuant warned that a sustainable rebound would require something the market currently lacks: fresh buyers.",
+   "published_at": "2026-11-15T17:06:14Z",
+   "created_at": "2026-11-15T17:06:14Z",
+   "url": "https://cryptopotato.com/bitcoins-rebound-is-failing-3-reasons-btc-could-face-more-pressure/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "bitcoin-slides-toward-63-000-as-weekend-selling-tests-market-confidence",
+   "title": "Bitcoin Slides Toward $63,000 as Weekend Selling Tests Market Confidence",
+   "description": "Bitcoin's latest decline is testing something more important than a round-number price level: whether buyers have enough conviction to absorb selling when liquidity thins out over the weekend. The market slipped toward $63,000 during Saturday's trading after…",
+   "published_at": "2026-11-15T17:00:00Z",
+   "created_at": "2026-11-15T17:00:00Z",
+   "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-november-weekend-selloff-63000-risk-liquidity/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "how-10-000-in-stablecoins-would-have-gained-420-without-earning-interest",
+   "title": "How $10,000 in stablecoins would have gained €420 without earning interest",
+   "description": "ECB household evidence and a two-date FX illustration separate dollar-token stability from euro value before costs. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-15T16:30:56Z",
+   "created_at": "2026-11-15T16:30:56Z",
+   "url": "https://cryptoslate.com/how-10000-in-stablecoins-would-have-gained-e420-without-earning-interest/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "xrp-ledger-passes-11-7-million-sub-dollar-ai-agent-microtransactions",
+   "title": "XRP Ledger Passes 11.7 Million Sub-Dollar AI Agent Microtransactions",
+   "description": "AI agents went from almost zero to over 10 million XRPL payments in three months, and t54.ai’s founder expects them to outnumber humans next year.",
+   "published_at": "2026-11-15T16:27:45Z",
+   "created_at": "2026-11-15T16:27:45Z",
+   "url": "https://u.today/xrp-ledger-passes-117-million-sub-dollar-ai-agent-microtransactions",
+   "source": "U.Today"
+  },
+  {
+   "slug": "how-wall-street-is-racing-to-claim-the-onchain-dollar",
+   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "description": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+   "published_at": "2026-11-15T16:01:02Z",
+   "created_at": "2026-11-15T16:01:02Z",
+   "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "central-banks-are-loading-up-on-gold-is-bitcoin-losing-the-hard-money-battle",
+   "title": "Central Banks Are Loading Up on Gold: Is Bitcoin Losing the Hard-Money Battle?",
+   "description": "Gold has quietly gained significant ground against BTC, but not because the precious metal's price has risen in simple terms.",
+   "published_at": "2026-11-15T15:54:51Z",
+   "created_at": "2026-11-15T15:54:51Z",
+   "url": "https://cryptopotato.com/central-banks-are-loading-up-on-gold-is-bitcoin-losing-the-hard-money-battle/",
+   "source": "CryptoPotato"
+  },
+  {
    "slug": "bitcoin-now-looks-cheap-by-one-measure-after-1-billion-in-etf-outflows",
    "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
    "description": "Darkfost’s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
@@ -361,15 +505,6 @@
    "source": "CryptoPotato"
   },
   {
-   "slug": "solana-s-retired-validators-still-vote-with-15-of-active-stake",
-   "title": "Solana’s “retired” validators still vote with 15% of active stake",
-   "description": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators’ ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch…",
-   "published_at": "2026-11-15T04:00:00Z",
-   "created_at": "2026-11-15T04:00:00Z",
-   "url": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
    "description": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
@@ -377,15 +512,6 @@
    "created_at": "2026-11-15T02:50:57Z",
    "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
    "source": "CoinDesk"
-  },
-  {
-   "slug": "a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days",
-   "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
-   "description": "The preprint's 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster's balance faced a 2.5-day median wait. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
-   "published_at": "2026-11-15T02:40:32Z",
-   "created_at": "2026-11-15T02:40:32Z",
-   "url": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "xrp-to-1-3-kalshi-traders-make-weak-november-bets",
@@ -413,133 +539,7 @@
    "created_at": "2026-11-14T22:41:58Z",
    "url": "https://cryptopotato.com/crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "zcash-zec-price-warning-long-liquidation-cluster-sits-at-860",
-   "title": "Zcash (ZEC) Price Warning? Long Liquidation Cluster Sits at $860",
-   "description": "Zcash (ZEC) faces liquidation risk as major long cluster emerges near $860.",
-   "published_at": "2026-11-14T21:23:00Z",
-   "created_at": "2026-11-14T21:23:00Z",
-   "url": "https://u.today/zcash-zec-price-warning-long-liquidation-cluster-sits-at-860",
-   "source": "U.Today"
-  },
-  {
-   "slug": "us-crypto-trust-charters-face-senate-scrutiny-as-coinbase-receives-final-approva",
-   "title": "US Crypto Trust Charters Face Senate Scrutiny as Coinbase Receives Final Approval",
-   "description": "US regulators are allowing more cryptocurrency companies to operate under US crypto trust charters, but the expansion is attracting growing scrutiny from lawmakers concerned about compliance standards, regulatory oversight, and potential political conflicts…",
-   "published_at": "2026-11-14T20:58:41Z",
-   "created_at": "2026-11-14T20:58:41Z",
-   "url": "https://bitcoinist.com/us-crypto-trust-charters-face-senate-scrutiny-as-coinbase-receives-final-approval/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "megaeth-cuts-20-of-workforce-as-it-shifts-focus-toward-ai-marketplace",
-   "title": "MegaETH Cuts 20% of Workforce as It Shifts Focus Toward AI Marketplace",
-   "description": "MEGA, the organization behind Ethereum Layer 2 network MegaETH, has reduced its workforce by 20% as it prepares to expand beyond blockchain infrastructure and develop artificial intelligence products. Co-founder Shuyao Kong announced the restructuring on…",
-   "published_at": "2026-11-14T20:51:23Z",
-   "created_at": "2026-11-14T20:51:23Z",
-   "url": "https://bitcoinist.com/megaeth-cuts-20-of-workforce-as-it-shifts-focus-toward-ai-marketplace/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses",
-   "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
-   "description": "Institutional demand for crypto ETFs investment products continued to weaken last week, with US spot Bitcoin exchange-traded funds (ETFs) recording more than $1 billion in withdrawals for the second consecutive week. The selling extended across most digital…",
-   "published_at": "2026-11-14T20:42:38Z",
-   "created_at": "2026-11-14T20:42:38Z",
-   "url": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "trump-nominates-4-sec-and-cftc-picks-including-clarity-act-negotiators",
-   "title": "Trump Nominates 4 SEC and CFTC Picks, Including CLARITY Act Negotiators",
-   "description": "The Senate Banking Committee has scheduled a hearing for SEC nominees Kristin Johnson and Steven Levine on November 19.",
-   "published_at": "2026-11-14T20:28:55Z",
-   "created_at": "2026-11-14T20:28:55Z",
-   "url": "https://cryptopotato.com/trump-nominates-4-sec-and-cftc-picks-including-clarity-act-negotiators/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "analyst-explains-why-bitcoin-dumped-below-65k-on-saturday-update",
-   "title": "Analyst Explains Why Bitcoin Dumped Below $65K on Saturday: UPDATE",
-   "description": "Was a group of large players dumping major holdings during the weekend or was there something else behind today's crash?",
-   "published_at": "2026-11-14T19:47:28Z",
-   "created_at": "2026-11-14T19:47:28Z",
-   "url": "https://cryptopotato.com/analyst-explains-why-bitcoin-dumped-to-65k-on-saturday-details/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-marke",
-   "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-   "description": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
-   "published_at": "2026-11-14T19:06:59Z",
-   "created_at": "2026-11-14T19:06:59Z",
-   "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-   "source": "The Block"
-  },
-  {
-   "slug": "jpmorgan-lifts-strategy-stake-36-and-holds-540m-in-blackrock-s-bitcoin-etf",
-   "title": "JPMorgan Lifts Strategy Stake 36% and Holds $540M in BlackRock’s Bitcoin ETF",
-   "description": "JPMorgan's US broker-dealer held 370,680 Strategy shares at the end of September, up from 11,876 in June, along with puts on 1,148,500 Strategy shares.",
-   "published_at": "2026-11-14T18:49:14Z",
-   "created_at": "2026-11-14T18:49:14Z",
-   "url": "https://cryptopotato.com/jpmorgan-lifts-strategy-stake-36-and-holds-540m-in-blackrocks-bitcoin-etf/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "the-week-jensen-huang-fell-how-a-spy-scandal-toppled-nvidia-s-ceo",
-   "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
-   "description": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
-   "published_at": "2026-11-14T18:01:02Z",
-   "created_at": "2026-11-14T18:01:02Z",
-   "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-",
-   "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-   "description": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
-   "published_at": "2026-11-14T17:50:41Z",
-   "created_at": "2026-11-14T17:50:41Z",
-   "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-   "source": "The Block"
-  },
-  {
-   "slug": "eth-tanks-another-5-as-ethereum-foundation-keeps-selling-and-schiff-sounds-the-a",
-   "title": "ETH Tanks Another 5% as Ethereum Foundation Keeps Selling and Schiff Sounds the Alarm",
-   "description": "Peter Schiff believes $1,000 won't be ETH's lowest target soon as crash accelerates.Alth",
-   "published_at": "2026-11-14T17:05:53Z",
-   "created_at": "2026-11-14T17:05:53Z",
-   "url": "https://cryptopotato.com/eth-tanks-another-5-as-ethereum-foundation-keeps-selling-and-schiff-sounds-the-alarm/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "openai-anthropic-google-and-other-ai-giants-face-lawsuit-demanding-development-f",
-   "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-   "description": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
-   "published_at": "2026-11-14T17:01:02Z",
-   "created_at": "2026-11-14T17:01:02Z",
-   "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "bitcoin-crashes-to-3-month-low-below-63-000-as-analyst-flags-fourth-capitulation",
-   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-   "description": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-   "published_at": "2026-11-14T16:33:29Z",
-   "created_at": "2026-11-14T16:33:29Z",
-   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-1-3-billio",
-   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-   "description": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
-   "published_at": "2026-11-14T13:00:00Z",
-   "created_at": "2026-11-14T13:00:00Z",
-   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-   "source": "CoinDesk"
   }
  ],
- "updatedAt": "2026-11-15T15:38:06Z"
+ "updatedAt": "2026-11-15T21:00:29Z"
 }
