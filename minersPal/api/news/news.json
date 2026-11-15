@@ -1,6 +1,348 @@
 {
  "results": [
   {
+   "slug": "bitcoin-now-looks-cheap-by-one-measure-after-1-billion-in-etf-outflows",
+   "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
+   "description": "Darkfost’s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-15T15:35:58Z",
+   "created_at": "2026-11-15T15:35:58Z",
+   "url": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "robots-now-run-ai-written-code-without-an-ai-calling-the-shots-succeeding-92-of-",
+   "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
+   "description": "ACE-CaP-0's frozen task programs ran without a coding agent in the loop after development with human assistance available. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-15T14:40:28Z",
+   "created_at": "2026-11-15T14:40:28Z",
+   "url": "https://cryptoslate.com/robot-code-runs-without-ai-calling-the-shots/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "enterprise-blockchain-is-going-to-come-back-from-the-dead",
+   "title": "Enterprise blockchain is going to come back from the dead",
+   "description": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+   "published_at": "2026-11-15T14:30:00Z",
+   "created_at": "2026-11-15T14:30:00Z",
+   "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "we-asked-3-ais-what-happens-to-xrp-after-dumping-below-1-their-answers-shocked-u",
+   "title": "We Asked 3 AIs: What Happens to XRP After Dumping Below $1? Their Answers Shocked Us",
+   "description": "A few of the AI predictions were quite worrisome, envisioning further price declines of up to 50%.",
+   "published_at": "2026-11-15T14:28:24Z",
+   "created_at": "2026-11-15T14:28:24Z",
+   "url": "https://cryptopotato.com/we-asked-3-ais-what-happens-to-xrp-after-dumping-below-1-their-answers-shocked-us/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "best-reason-to-exist-dogecoin-creator-defends-bitcoin-s-role-as-401-k-alternativ",
+   "title": "'Best Reason to Exist': Dogecoin Creator Defends Bitcoin’s Role as 401(k) Alternative",
+   "description": "Dogecoin co-founder believes the largest cryptocurrency by market valuation Bitcoin has a unique purpose.",
+   "published_at": "2026-11-15T14:25:57Z",
+   "created_at": "2026-11-15T14:25:57Z",
+   "url": "https://u.today/best-reason-to-exist-dogecoin-creator-defends-bitcoins-role-as-401k-alternative",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-rebounds-5-5-off-62-000-low-as-satoshi-ally-adam-back-sees-bouncy-streng",
+   "title": "Bitcoin Rebounds 5.5% Off $62,000 Low as Satoshi Ally Adam Back Sees ‘Bouncy’ Strength",
+   "description": "Bitcoin bounced 5.5% after a drop to $62,029, and Blockstream CEO Adam Back, who expects $1 million by 2028, called the move “bouncy”.",
+   "published_at": "2026-11-15T14:11:45Z",
+   "created_at": "2026-11-15T14:11:45Z",
+   "url": "https://u.today/bitcoin-rebounds-55-off-62000-low-as-satoshi-ally-adam-back-sees-bouncy-strength",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-etfs-lose-2-1-billion-in-november-as-outflow-streak-hits-seven-days",
+   "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+   "description": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+   "published_at": "2026-11-15T14:01:02Z",
+   "created_at": "2026-11-15T14:01:02Z",
+   "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+   "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+   "description": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+   "published_at": "2026-11-15T14:00:00Z",
+   "created_at": "2026-11-15T14:00:00Z",
+   "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "britain-to-spend-4-billion-on-grid-bottlenecks-can-bitcoin-use-the-wasted-wind",
+   "title": "Britain to spend £4 billion on grid bottlenecks. Can Bitcoin use the wasted wind?",
+   "description": "Flexible mines could use curtailed Scottish wind, but most recent constraint spending paid for replacement power elsewhere. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-15T13:45:30Z",
+   "created_at": "2026-11-15T13:45:30Z",
+   "url": "https://cryptoslate.com/can-bitcoin-use-britains-wasted-wind/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "why-is-xrp-down-today-three-reasons-according-to-onchain-data",
+   "title": "Why Is XRP Down Today? Three Reasons According to Onchain Data",
+   "description": "XRP liquidations accelerated with long traders taking the biggest hit.",
+   "published_at": "2026-11-15T13:00:35Z",
+   "created_at": "2026-11-15T13:00:35Z",
+   "url": "https://u.today/why-is-xrp-down-today-three-reasons-according-to-onchain-data",
+   "source": "U.Today"
+  },
+  {
+   "slug": "almost-1-5-billion-withdrawn-from-bitcoin-and-ethereum-etfs-in-a-single-week",
+   "title": "Almost $1.5 Billion Withdrawn From Bitcoin and Ethereum ETFs in a Single Week",
+   "description": "The ETH ETFs are in a particularly painful streak, with another $400 million leaving the funds over the past five days.",
+   "published_at": "2026-11-15T12:52:47Z",
+   "created_at": "2026-11-15T12:52:47Z",
+   "url": "https://cryptopotato.com/almost-1-5-billion-withdrawn-from-bitcoin-and-ethereum-etfs-in-a-single-week/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "the-fed-could-rescue-bond-markets-and-still-make-life-harder-for-bitcoin",
+   "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
+   "description": "Her proposals separate emergency market support from the rate path, leaving Bitcoin exposed to a different monetary-policy channel. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
+   "published_at": "2026-11-15T12:50:56Z",
+   "created_at": "2026-11-15T12:50:56Z",
+   "url": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "crypto-traders-blame-binance-for-bitcoin-drop-but-data-points-to-coinbase",
+   "title": "Crypto Traders Blame Binance for Bitcoin Drop, But Data Points to Coinbase",
+   "description": "Traders blamed Binance for Bitcoin’s slide to $61,956, but spot data points to Coinbase, where net selling hit $1.08 billion.",
+   "published_at": "2026-11-15T12:26:20Z",
+   "created_at": "2026-11-15T12:26:20Z",
+   "url": "https://u.today/crypto-traders-blame-binance-for-bitcoin-drop-but-data-points-to-coinbase",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-mirrors-pre-spacex-drop-ahead-of-anthropic-ipo-history-points-to-90-000-",
+   "title": "Bitcoin Mirrors Pre-SpaceX Drop Ahead of Anthropic IPO, History Points to $90,000 by February",
+   "description": "Bitcoin fell about 19% ahead of Anthropic’s Nasdaq IPO, as it did before SpaceX’s listing, and Strive CEO Matt Cole sees a rebound to $90,000 by February.",
+   "published_at": "2026-11-15T12:06:35Z",
+   "created_at": "2026-11-15T12:06:35Z",
+   "url": "https://u.today/bitcoin-mirrors-pre-spacex-drop-ahead-of-anthropic-ipo-history-points-to-90000-by-february",
+   "source": "U.Today"
+  },
+  {
+   "slug": "is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss",
+   "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
+   "description": "The image shared by @ThinkingUSD pairs November holdings with an August average cost, while BitMine supplies no updated basis in its November release. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-15T11:55:50Z",
+   "created_at": "2026-11-15T11:55:50Z",
+   "url": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "ethereum-price-analysis-can-eth-bounce-back-before-1-5k-comes-into-play",
+   "title": "Ethereum Price Analysis: Can ETH Bounce Back Before $1.5K Comes Into Play?",
+   "description": "Ethereum has rebounded toward $1.82K after a sharp selloff reached the marked liquidity level near $1.71K. Daily momentum is oversold, creating room for a relief rally, but the broader bearish structure remains intact as large futures orders appear during the…",
+   "published_at": "2026-11-15T11:40:33Z",
+   "created_at": "2026-11-15T11:40:33Z",
+   "url": "https://cryptopotato.com/ethereum-price-analysis-can-eth-bounce-back-before-1-5k-comes-into-play/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "xrp-ledger-creates-new-baseline-1-billion-secured",
+   "title": "XRP Ledger Creates New Baseline: 1 Billion Secured",
+   "description": "XRP bounces toward $1 on rising volume, while XRP Ledger activity climbs despite the market downturn.",
+   "published_at": "2026-11-15T11:35:12Z",
+   "created_at": "2026-11-15T11:35:12Z",
+   "url": "https://u.today/xrp-ledger-creates-new-baseline-1-billion-secured",
+   "source": "U.Today"
+  },
+  {
+   "slug": "here-s-what-happened-in-crypto-today",
+   "title": "Here’s what happened in crypto today",
+   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published_at": "2026-11-15T11:18:48Z",
+   "created_at": "2026-11-15T11:18:48Z",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "cardano-s-hoskinson-says-everyone-will-be-happy-next-year",
+   "title": "Cardano's Hoskinson Says Everyone Will Be Happy Next Year",
+   "description": "Cardano founder Charles Hoskinson has assured frustrated ADA holders that things will get better next year, even as the cryptocurrency plunges 95% from its all-time high and risks falling out of the top 20.",
+   "published_at": "2026-11-15T10:40:24Z",
+   "created_at": "2026-11-15T10:40:24Z",
+   "url": "https://u.today/cardanos-hoskinson-says-everyone-will-be-happy-next-year",
+   "source": "U.Today"
+  },
+  {
+   "slug": "strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin",
+   "title": "Strategy Is Officially Out of MSCI: What It Could Mean for MSTR and Bitcoin",
+   "description": "Will BTC feel the impact directly?",
+   "published_at": "2026-11-15T10:32:13Z",
+   "created_at": "2026-11-15T10:32:13Z",
+   "url": "https://cryptopotato.com/strategy-is-officially-out-of-msci-what-it-could-mean-for-mstr-and-bitcoin/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "shiba-inu-death-cross-completes-after-14-month-wait-what-s-next",
+   "title": "Shiba Inu Death Cross Completes After 14-Month Wait, What’s Next?",
+   "description": "Shiba Inu (SHIB) latest death cross signal coincides with a sharp price drop, with SHIB falling to unusually low levels below $0.000004.",
+   "published_at": "2026-11-15T10:30:00Z",
+   "created_at": "2026-11-15T10:30:00Z",
+   "url": "https://u.today/shiba-inu-death-cross-completes-after-14-month-wait-whats-next",
+   "source": "U.Today"
+  },
+  {
+   "slug": "bitcoin-falls-to-four-month-low-near-62k-as-crypto-selloff-deepens",
+   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+   "description": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+   "published_at": "2026-11-15T10:23:17Z",
+   "created_at": "2026-11-15T10:23:17Z",
+   "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "someone-moves-240-million-xrp-the-exact-moment-price-hits-its-0-89-floor",
+   "title": "Someone Moves 240 Million XRP the Exact Moment Price Hits Its $0.89 Floor",
+   "description": "XRP hit a two-year low of $0.89 just as 240 million XRP changed wallets, and on-chain data shows the coins never reached an exchange.",
+   "published_at": "2026-11-15T10:11:40Z",
+   "created_at": "2026-11-15T10:11:40Z",
+   "url": "https://u.today/someone-moves-240-million-xrp-the-exact-moment-price-hits-its-089-floor",
+   "source": "U.Today"
+  },
+  {
+   "slug": "new-monero-privacy-update-might-be-coming-soon-key-improvement",
+   "title": "New Monero Privacy Update Might Be Coming Soon: Key Improvement",
+   "description": "A new Monero pull request aims to close a timing gap that can expose transactions arriving from Tor and I2P.",
+   "published_at": "2026-11-15T10:05:00Z",
+   "created_at": "2026-11-15T10:05:00Z",
+   "url": "https://u.today/new-monero-privacy-update-might-be-coming-soon-key-improvement",
+   "source": "U.Today"
+  },
+  {
+   "slug": "blockstream-and-thales-launch-bitcoin-custody-system",
+   "title": "Blockstream And Thales Launch Bitcoin Custody System",
+   "description": "The biggest crypto hack in history started with a fake job interview. Now one of Bitcoin’s oldest infrastructure firms is betting that the answer to AI-era attacks is simpler, hardware-first Bitcoin custody. Blockstream, the company led by co-founder and CEO…",
+   "published_at": "2026-11-15T09:40:40Z",
+   "created_at": "2026-11-15T09:40:40Z",
+   "url": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "all-of-shiba-inu-s-shib-value-on-the-verge-of-dropping-below-300-million",
+   "title": "All of Shiba Inu's (SHIB) Value on the Verge of Dropping Below $300 Million",
+   "description": "SHIB held on exchanges is now worth $331.96 million and could fall below $300 million for the first time in four years.",
+   "published_at": "2026-11-15T09:22:00Z",
+   "created_at": "2026-11-15T09:22:00Z",
+   "url": "https://u.today/all-of-shiba-inus-shib-value-on-the-verge-of-dropping-below-300-million",
+   "source": "U.Today"
+  },
+  {
+   "slug": "are-whales-selling-bitcoin-for-the-anthropic-ipo-the-spacex-playbook-hints-a-bot",
+   "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
+   "description": "Bitcoin is bleeding ahead of the biggest AI listing in history. But if the market follows the script it wrote just five months ago, the selling could soon run out of fuel. BTC dropped below $67,000 this week, its weakest level since August, as investors…",
+   "published_at": "2026-11-15T09:14:44Z",
+   "created_at": "2026-11-15T09:14:44Z",
+   "url": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day",
+   "title": "Solana Staking Holds Near 69% Even As SOL Price Crashes To $67 On Breakpoint Day",
+   "description": "Solana’s biggest week of the year got off to a painful start. But beneath the price chart, Solana staking tells a very different story. SOL fell as low as $67.37 overnight into Sunday, its lowest level since late June. The drop landed on the very first day of…",
+   "published_at": "2026-11-15T08:55:16Z",
+   "created_at": "2026-11-15T08:55:16Z",
+   "url": "https://bitcoinist.com/solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "crypto-markets-lost-300b-in-days-as-bitcoin-btc-slumped-below-62k-weekend-watch",
+   "title": "Crypto Markets Lost $300B in Days as Bitcoin (BTC) Slumped Below $62K: Weekend Watch",
+   "description": "The altcoins have been battered even harder, with massive 5-10% losses once again.",
+   "published_at": "2026-11-15T08:48:37Z",
+   "created_at": "2026-11-15T08:48:37Z",
+   "url": "https://cryptopotato.com/crypto-markets-lost-300b-in-days-as-bitcoin-btc-slumped-below-62k-weekend-watch/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "ai-cyberattacks-and-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-",
+   "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
+   "description": "AI cyberattacks and outages have made the past few months brutal for the systems the modern internet runs on. Cloud platforms have gone dark, AI tools have failed in waves, and hackers have pulled off the biggest heist in history. Yet through all of it, one…",
+   "published_at": "2026-11-15T08:24:47Z",
+   "created_at": "2026-11-15T08:24:47Z",
+   "url": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
+   "source": "Bitcoinist"
+  },
+  {
+   "slug": "coinone-warns-of-phishing-identity-theft-after-customer-data-breach",
+   "title": "Coinone warns of phishing, identity theft after customer data breach",
+   "description": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+   "published_at": "2026-11-15T08:07:58Z",
+   "created_at": "2026-11-15T08:07:58Z",
+   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "lido-s-lending-plan-could-block-loan-repayments-without-stopping-interest",
+   "title": "Lido’s lending plan could block loan repayments without stopping interest",
+   "description": "Lido Lend’s proposed emergency pause would halt repayment and lender exits, while a separate governance path could make the interruption indefinite. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-15T08:00:11Z",
+   "created_at": "2026-11-15T08:00:11Z",
+   "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "ripple-xrp-etfs-turn-one-the-good-the-bad-and-the-ugly",
+   "title": "Ripple (XRP) ETFs Turn One: The Good, the Bad, and the Ugly",
+   "description": "Over a billion tokens were purchased from investors through the ETFs, but there's a massive elephant in the room.",
+   "published_at": "2026-11-15T07:58:32Z",
+   "created_at": "2026-11-15T07:58:32Z",
+   "url": "https://cryptopotato.com/ripple-xrp-etfs-turn-one-the-good-the-bad-and-the-ugly/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "tom-lee-reveals-three-possible-reasons-behind-crypto-market-crash",
+   "title": "Tom Lee Reveals Three Possible Reasons Behind Crypto Market Crash",
+   "description": "BitMine chairman Tom Lee has identified three potential triggers behind the latest cryptocurrency market crash, which has sent Bitcoin plunging toward $60,000 and wiped out nearly $2 billion in leveraged positions in just 24 hours.",
+   "published_at": "2026-11-15T07:55:16Z",
+   "created_at": "2026-11-15T07:55:16Z",
+   "url": "https://u.today/tom-lee-reveals-three-possible-reasons-behind-crypto-market-crash",
+   "source": "U.Today"
+  },
+  {
+   "slug": "the-hidden-reason-behind-bitcoin-s-massive-crash-below-62k",
+   "title": "The Hidden Reason Behind Bitcoin’s Massive Crash Below $62K",
+   "description": "We will also take a look at what could finally snap this losing streak and reverse the major bearish trend.",
+   "published_at": "2026-11-15T06:46:36Z",
+   "created_at": "2026-11-15T06:46:36Z",
+   "url": "https://cryptopotato.com/the-hidden-reason-behind-bitcoins-massive-crash-below-62k/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "ai-models-agreed-with-each-other-more-than-with-reality-in-a-new-test",
+   "title": "AI models agreed with each other more than with reality in a new test",
+   "description": "Science Prediction Universe found that pooling rankings improved average results, while shared scientific errors survived. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-15T06:40:07Z",
+   "created_at": "2026-11-15T06:40:07Z",
+   "url": "https://cryptoslate.com/ai-models-agreed-with-each-other-more-than-with-reality-in-a-new-test/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "bitcoin-may-never-hit-new-ath-legendary-trader-peter-brandt-warns",
+   "title": "Bitcoin May Never Hit New ATH, Legendary Trader Peter Brandt Warns",
+   "description": "Legendary trader Peter Brandt has warned that Bitcoin may never reclaim its all-time high as a massive bearish chart pattern emerges.",
+   "published_at": "2026-11-15T06:36:35Z",
+   "created_at": "2026-11-15T06:36:35Z",
+   "url": "https://u.today/bitcoin-may-never-hit-new-ath-legendary-trader-peter-brandt-warns",
+   "source": "U.Today"
+  },
+  {
+   "slug": "rwa-protocol-stusdt-winds-down-three-years-after-2-3b-tvl-peak",
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "description": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+   "published_at": "2026-11-15T06:27:26Z",
+   "created_at": "2026-11-15T06:27:26Z",
+   "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+   "source": "Cointelegraph"
+  },
+  {
    "slug": "ai-helped-hackers-gain-access-at-10-unnamed-organizations-researchers-say",
    "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
    "description": "The November 12 investigation reports 25 operations against at least 19 organizations during August–September, with humans assigning targets and able to steer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch…",
@@ -46,24 +388,6 @@
    "source": "CryptoSlate"
   },
   {
-   "slug": "bitcoin-s-oil-relief-has-a-catch-more-oil-at-sea-less-on-land",
-   "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
-   "description": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get…",
-   "published_at": "2026-11-15T01:40:52Z",
-   "created_at": "2026-11-15T01:40:52Z",
-   "url": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare",
-   "title": "Telegram curbs new in-chat apps amid a no-tap hacking scare",
-   "description": "A Bot API contributor confirmed the restriction as researchers detailed older-client flaws and Pavel Durov asserted server-side remediation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
-   "published_at": "2026-11-15T00:40:48Z",
-   "created_at": "2026-11-15T00:40:48Z",
-   "url": "https://cryptoslate.com/telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "xrp-to-1-3-kalshi-traders-make-weak-november-bets",
    "title": "XRP to $1.3? Kalshi Traders Make Weak November Bets",
    "description": "XRP traders on Kalshi are betting on a possible reversal to at least $1.3 as the asset continues to face sharp declines losing the long-held $ mark.",
@@ -71,15 +395,6 @@
    "created_at": "2026-11-15T00:01:00Z",
    "url": "https://u.today/xrp-to-13-kalshi-traders-make-weak-november-bets",
    "source": "U.Today"
-  },
-  {
-   "slug": "bitcoin-drops-below-64-000-as-bullish-bets-get-wiped-out-over-the-weekend",
-   "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
-   "description": "CoinGecko showed BTC near $65,500 on the afternoon of Nov. 14, while Newhedge recorded long-liquidation events below $66,000. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-14T23:40:35Z",
-   "created_at": "2026-11-14T23:40:35Z",
-   "url": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40",
@@ -98,24 +413,6 @@
    "created_at": "2026-11-14T22:41:58Z",
    "url": "https://cryptopotato.com/crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "peter-schiff-argues-bitcoin-may-fall-below-16-500-by-year-end-if-50-000-breaks-n",
-   "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
-   "description": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-14T22:40:39Z",
-   "created_at": "2026-11-14T22:40:39Z",
-   "url": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "crypto-s-168-million-election-78-winners-13-newcomers-and-one-costly-defeat",
-   "title": "Crypto’s $168 million election: 78 winners, 13 newcomers and one costly defeat",
-   "description": "Crypto super PACs backed 78 candidates who have won seats in Congress. Just 13 of them will enter Congress for the first time. Most of the winning roster already has a record in Washington. It includes the author of the House's crypto market-regulation bill…",
-   "published_at": "2026-11-14T21:40:06Z",
-   "created_at": "2026-11-14T21:40:06Z",
-   "url": "https://cryptoslate.com/cryptos-168-million-election-78-winners-13-newcomers-and-one-costly-defeat/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "zcash-zec-price-warning-long-liquidation-cluster-sits-at-860",
@@ -154,15 +451,6 @@
    "source": "Bitcoinist"
   },
   {
-   "slug": "evernorth-s-35-million-fundraising-could-buy-35-million-xrp-but-there-s-a-catch",
-   "title": "Evernorth’s $35 million fundraising could buy 35 million XRP, but there’s a catch",
-   "description": "The proceeds are cumulative through Nov. 9; allocation and completed purchases will show how much becomes additional XRP demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-14T20:40:16Z",
-   "created_at": "2026-11-14T20:40:16Z",
-   "url": "https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "trump-nominates-4-sec-and-cftc-picks-including-clarity-act-negotiators",
    "title": "Trump Nominates 4 SEC and CFTC Picks, Including CLARITY Act Negotiators",
    "description": "The Senate Banking Committee has scheduled a hearing for SEC nominees Kristin Johnson and Steven Levine on November 19.",
@@ -179,15 +467,6 @@
    "created_at": "2026-11-14T19:47:28Z",
    "url": "https://cryptopotato.com/analyst-explains-why-bitcoin-dumped-to-65k-on-saturday-details/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell",
-   "title": "Your wallet may show a dollar balance for fake USDT that you cannot sell",
-   "description": "Keeper wallets maintained the quotations through restricted pools, where Forta's simulated outside sales failed for all 32 identified tokens. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
-   "published_at": "2026-11-14T19:40:06Z",
-   "created_at": "2026-11-14T19:40:06Z",
-   "url": "https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-marke",
@@ -253,132 +532,6 @@
    "source": "CoinDesk"
   },
   {
-   "slug": "ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-   "description": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-   "published_at": "2026-11-14T16:33:23Z",
-   "created_at": "2026-11-14T16:33:23Z",
-   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "ripple-price-analysis-is-the-worst-yet-to-come-as-xrp-dumps-to-a-2-year-low",
-   "title": "Ripple Price Analysis: Is the Worst Yet to Come as XRP Dumps to a 2-Year Low?",
-   "description": "XRP has extended its November sell-off, falling more than 10% this week and dropping below the $1.00 mark. Trading beneath that key level, the asset is now testing the same support that launched its August rally, which makes the current zone a key inflection…",
-   "published_at": "2026-11-14T16:28:42Z",
-   "created_at": "2026-11-14T16:28:42Z",
-   "url": "https://cryptopotato.com/ripple-price-analysis-is-the-worst-yet-to-come-as-xrp-dumps-to-a-2-year-low/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-   "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-   "description": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-   "published_at": "2026-11-14T16:01:02Z",
-   "created_at": "2026-11-14T16:01:02Z",
-   "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-22-million-no",
-   "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-   "description": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-   "published_at": "2026-11-14T15:38:27Z",
-   "created_at": "2026-11-14T15:38:27Z",
-   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "bitcoin-price-falls-14-in-a-week-to-65-000-as-weekend-selling-breaks-friday-s-lo",
-   "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday’s Low",
-   "description": "Bitcoin Magazine Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday’s Low Bitcoin price crashed about 13% over the past week and traded near $65,600 on Saturday. This post Bitcoin Price Falls 14% in a Week to $65,000 as Weekend…",
-   "published_at": "2026-11-14T15:27:33Z",
-   "created_at": "2026-11-14T15:27:33Z",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
-   "source": "Bitcoin Magazine"
-  },
-  {
-   "slug": "bitcoin-price-analysis-where-is-the-bottom-as-btc-s-correction-accelerates",
-   "title": "Bitcoin Price Analysis: Where Is the Bottom as BTC’s Correction Accelerates?",
-   "description": "Bitcoin’s correction has sped up over the past week and is now dropping almost vertically. It currently trades around $65K after cutting through several support levels. The latest drop pushed BTC below its daily ascending channel and the key $70K support…",
-   "published_at": "2026-11-14T15:26:19Z",
-   "created_at": "2026-11-14T15:26:19Z",
-   "url": "https://cryptopotato.com/bitcoin-price-analysis-where-is-the-bottom-as-btcs-correction-accelerates/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "2027-crypto-outlook-bitwise-ceo-highlights-wall-street-adoption",
-   "title": "2027 Crypto Outlook: Bitwise CEO Highlights Wall Street Adoption",
-   "description": "Bitwise CEO hints at what 2027 could hold for crypto amid institutional appetite surge.",
-   "published_at": "2026-11-14T15:15:49Z",
-   "created_at": "2026-11-14T15:15:49Z",
-   "url": "https://u.today/2027-crypto-outlook-bitwise-ceo-highlights-wall-street-adoption",
-   "source": "U.Today"
-  },
-  {
-   "slug": "uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stabl",
-   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-   "description": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
-   "published_at": "2026-11-14T15:00:00Z",
-   "created_at": "2026-11-14T15:00:00Z",
-   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "xrp-slips-below-1-is-its-top-five-ranking-in-jeopardy",
-   "title": "XRP Slips Below $1: Is Its Top-Five Ranking in Jeopardy?",
-   "description": "XRP drops out of crypto's top five as bears tighten grip below $1.",
-   "published_at": "2026-11-14T14:50:16Z",
-   "created_at": "2026-11-14T14:50:16Z",
-   "url": "https://u.today/xrp-slips-below-1-is-its-top-five-ranking-in-jeopardy",
-   "source": "U.Today"
-  },
-  {
-   "slug": "ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in",
-   "title": "Ethereum Staking Hits Record 36.3% Of Supply As ETH Holders Lock In",
-   "description": "The ETH price has had a rough month. But Ethereum’s most committed holders do not seem to care. More than a third of all ether is now locked in staking, a new all-time high. According to Token Terminal data, Ethereum’s staking rate has climbed to 36.3% of…",
-   "published_at": "2026-11-14T14:16:57Z",
-   "created_at": "2026-11-14T14:16:57Z",
-   "url": "https://bitcoinist.com/ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "bitcoin-s-crash-isn-t-over-yet-analysts-see-more-downside-toward-60k",
-   "title": "Bitcoin’s Crash Isn’t Over Yet? Analysts See More Downside Toward $60K",
-   "description": "Bitcoin's collapse has accelerated dramatically over the past several days, but the rebound might not be coming soon.",
-   "published_at": "2026-11-14T14:15:13Z",
-   "created_at": "2026-11-14T14:15:13Z",
-   "url": "https://cryptopotato.com/bitcoins-crash-isnt-over-yet-analysts-see-more-downside-toward-60k/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "openai-launches-chatgpt-wallet-to-let-ai-agents-shop-without-crypto",
-   "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-   "description": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
-   "published_at": "2026-11-14T14:01:02Z",
-   "created_at": "2026-11-14T14:01:02Z",
-   "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "xrp-ledger-activity-hits-new-november-highs-as-batch-ticket-usage-surge",
-   "title": "XRP Ledger Activity Hits New November Highs as Batch, Ticket Usage Surge",
-   "description": "XRP Ledger activity gains momentum as batch and ticket metrics hit new highs.",
-   "published_at": "2026-11-14T13:30:33Z",
-   "created_at": "2026-11-14T13:30:33Z",
-   "url": "https://u.today/xrp-ledger-activity-hits-new-november-highs-as-batch-ticket-usage-surge",
-   "source": "U.Today"
-  },
-  {
-   "slug": "binance-tightens-security-with-zero-knowledge-proof-upgrade",
-   "title": "Binance Tightens Security With Zero-Knowledge Proof Upgrade",
-   "description": "Binance draws attention to a major security upgrade that allows users to independently verify that their assets on the exchange are fully backed at a minimum 1:1 ratio.",
-   "published_at": "2026-11-14T13:02:11Z",
-   "created_at": "2026-11-14T13:02:11Z",
-   "url": "https://u.today/binance-tightens-security-with-zero-knowledge-proof-upgrade",
-   "source": "U.Today"
-  },
-  {
    "slug": "britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-1-3-billio",
    "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
    "description": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
@@ -386,160 +539,7 @@
    "created_at": "2026-11-14T13:00:00Z",
    "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
    "source": "CoinDesk"
-  },
-  {
-   "slug": "a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-   "description": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
-   "published_at": "2026-11-14T12:57:00Z",
-   "created_at": "2026-11-14T12:57:00Z",
-   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "charles-hoskinson-speaks-out-on-finishing-cardano",
-   "title": "Charles Hoskinson Speaks Out on Finishing Cardano",
-   "description": "Cardano founder Charles Hoskinson addresses speculation of leaving the project, saying the roadmap isn't abandoned.",
-   "published_at": "2026-11-14T12:06:16Z",
-   "created_at": "2026-11-14T12:06:16Z",
-   "url": "https://u.today/charles-hoskinson-speaks-out-on-finishing-cardano",
-   "source": "U.Today"
-  },
-  {
-   "slug": "9-reasons-bitcoin-crashed-from-81k-to-67k-in-just-10-days",
-   "title": "9 Reasons Bitcoin Crashed From $81K to $67K in Just 10 Days",
-   "description": "There's no single catalyst behind the move. Instead, BTC was hit by a succession of negative developments while underlying demand and liquidity have weakened considerably.",
-   "published_at": "2026-11-14T11:56:54Z",
-   "created_at": "2026-11-14T11:56:54Z",
-   "url": "https://cryptopotato.com/9-reasons-bitcoin-crashed-from-81k-to-67k-in-just-10-days/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "xrp-etfs-mark-1-year-anniversary-with-1-16-billion-xrp-accumulated",
-   "title": "XRP ETFs Mark 1-Year Anniversary With 1.16 Billion XRP Accumulated",
-   "description": "XRP ETFs have marked one year since launch, boasting of impressive progress over the period as they have accumulated about 1.16 billion XRP since then.",
-   "published_at": "2026-11-14T11:43:59Z",
-   "created_at": "2026-11-14T11:43:59Z",
-   "url": "https://u.today/xrp-etfs-mark-1-year-anniversary-with-116-billion-xrp-accumulated",
-   "source": "U.Today"
-  },
-  {
-   "slug": "jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-sho",
-   "title": "Jane Street Nearly Doubled Its Bitcoin ETF Book In Q3: What The Filing Really Shows",
-   "description": "One of Wall Street’s biggest trading firms just showed its Bitcoin hand. But reading it correctly takes more than a glance at the headline numbers. Jane Street’s latest Form 13F, filed with the SEC on Nov. 12, shows its combined stake in three major spot…",
-   "published_at": "2026-11-14T11:30:01Z",
-   "created_at": "2026-11-14T11:30:01Z",
-   "url": "https://bitcoinist.com/jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-shows/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "here-s-what-happened-in-crypto-today",
-   "title": "Here’s what happened in crypto today",
-   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published_at": "2026-11-14T11:28:12Z",
-   "created_at": "2026-11-14T11:28:12Z",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "microsoft-confirms-global-outage-resolved-rules-out-cyberattack",
-   "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-   "description": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
-   "published_at": "2026-11-14T10:34:06Z",
-   "created_at": "2026-11-14T10:34:06Z",
-   "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "big-shib-development-as-north-american-derivatives-exchange-self-certifies-strik",
-   "title": "Big SHIB Development as North American Derivatives Exchange Self-Certifies Strike Contract",
-   "description": "Shiba Inu gets new regulated market exposure as North American derivatives exchange adds SHIB to its strike event contract lineup.",
-   "published_at": "2026-11-14T10:25:13Z",
-   "created_at": "2026-11-14T10:25:13Z",
-   "url": "https://u.today/big-shib-development-as-north-american-derivatives-exchange-self-certifies-strike-contract",
-   "source": "U.Today"
-  },
-  {
-   "slug": "jensen-huang-resigns-why-nvidia-s-crisis-could-spill-further-into-bitcoin",
-   "title": "Jensen Huang Resigns: Why Nvidia’s Crisis Could Spill Further Into Bitcoin",
-   "description": "The immediate threat is to NVDA, but given the company's enormous influence over AI and US equities, the danger expands to essentially all markets.",
-   "published_at": "2026-11-14T10:25:03Z",
-   "created_at": "2026-11-14T10:25:03Z",
-   "url": "https://cryptopotato.com/jensen-huang-resigns-why-nvidias-crisis-could-spill-further-into-bitcoin/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "dogecoin-etfs-mark-one-month-of-zero-activity",
-   "title": "Dogecoin ETFs Mark One Month of Zero Activity",
-   "description": "Dogecoin ETFs have remained silent for the past month, recording zero trading activity over the period as Dogecoin's price continues to trend downward.",
-   "published_at": "2026-11-14T10:02:27Z",
-   "created_at": "2026-11-14T10:02:27Z",
-   "url": "https://u.today/dogecoin-etfs-mark-one-month-of-zero-activity",
-   "source": "U.Today"
-  },
-  {
-   "slug": "bitcoin-dips-to-68-000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buyin",
-   "title": "Bitcoin Dips To $68,000 As Anthropic IPO Pulls Cash, But History Points To A Buying Window",
-   "description": "Bitcoin just had its worst week since summer. But the reason behind the drop may be exactly why some analysts see an opportunity. BTC fell to about $68,000 overnight, its lowest level since August and more than 20% below early October. At its lowest point…",
-   "published_at": "2026-11-14T09:54:44Z",
-   "created_at": "2026-11-14T09:54:44Z",
-   "url": "https://bitcoinist.com/bitcoin-dips-to-68000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buying-window/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "vienna-s-satoshi-statue-vanishes-when-you-look-at-it-and-that-s-the-point",
-   "title": "Vienna’s Satoshi Statue Vanishes When You Look At It, And That’s The Point",
-   "description": "Nobody knows what Satoshi Nakamoto looks like. Vienna’s newest landmark leans into that mystery. Bitcoin Austria has unveiled a Satoshi statue in Viertel Zwei, a lakeside business quarter in Vienna’s second district. It makes the Austrian capital the latest…",
-   "published_at": "2026-11-14T09:45:08Z",
-   "created_at": "2026-11-14T09:45:08Z",
-   "url": "https://bitcoinist.com/viennas-satoshi-statue-vanishes-when-you-look-at-it-and-thats-the-point/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "xrp-on-wall-street-turns-ugly-evernorth-s-xrpn-crashes-83-in-a-month",
-   "title": "XRP on Wall Street Turns Ugly: Evernorth’s XRPN Crashes 83% in a Month",
-   "description": "Barely a month after its long-anticipated debut, XPRN has collapsed below $9. Moreover, it has dramatically underperformed XRP itself.",
-   "published_at": "2026-11-14T08:50:38Z",
-   "created_at": "2026-11-14T08:50:38Z",
-   "url": "https://cryptopotato.com/xrp-on-wall-street-turns-ugly-evernorths-xrpn-crashes-83-in-a-month/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "megaeth-parent-cuts-20-of-staff-amid-restructuring-ai-push",
-   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-   "description": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
-   "published_at": "2026-11-14T08:12:30Z",
-   "created_at": "2026-11-14T08:12:30Z",
-   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "pi-network-reveals-why-developers-should-pay-attention-ahead-of-its-biggest-nove",
-   "title": "Pi Network Reveals Why Developers Should Pay Attention Ahead of Its Biggest November Event",
-   "description": "The big event is coming next week, and the new pitch wants devs to pay close attention.",
-   "published_at": "2026-11-14T07:16:37Z",
-   "created_at": "2026-11-14T07:16:37Z",
-   "url": "https://cryptopotato.com/pi-network-reveals-why-developers-should-pay-attention-ahead-of-its-biggest-november-event/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "bitcoin-etfs-shed-2-35b-in-2-weeks-blackrock-s-losing-streak-hits-11",
-   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-   "description": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
-   "published_at": "2026-11-14T06:33:13Z",
-   "created_at": "2026-11-14T06:33:13Z",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "btc-dives-below-67k-as-xrp-breaks-under-1-00-in-fresh-crypto-sell-off-weekend-wa",
-   "title": "BTC Dives Below $67K as XRP Breaks Under $1.00 in Fresh Crypto Sell-Off: Weekend Watch",
-   "description": "The liquidations are almost $700 million on a daily scale once again as the market is deep in red.",
-   "published_at": "2026-11-14T06:09:39Z",
-   "created_at": "2026-11-14T06:09:39Z",
-   "url": "https://cryptopotato.com/btc-dives-below-67k-as-xrp-breaks-under-1-00-in-fresh-crypto-sell-off-weekend-watch/",
-   "source": "CryptoPotato"
   }
  ],
- "updatedAt": "2026-11-15T06:21:56Z"
+ "updatedAt": "2026-11-15T15:38:06Z"
 }
