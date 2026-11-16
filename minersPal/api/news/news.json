@@ -1,13 +1,103 @@
 {
  "results": [
   {
-   "slug": "bitcoin-breaks-below-63k-as-market-panic-intensifies",
-   "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
-   "description": "Bitcoin breaks below $63 on Sunday, November 15, even briefly falling toward $62,000 as selling pressure spread across the cryptocurrency market. Although BTC recovered above $65,000 after reaching its lowest level since July, the rebound did little to ease…",
-   "published_at": "2026-11-15T20:48:44Z",
-   "created_at": "2026-11-15T20:48:44Z",
-   "url": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
-   "source": "Bitcoinist"
+   "slug": "three-central-banks-test-a-bridge-between-traditional-fx-and-tokenized-settlemen",
+   "title": "Three Central Banks Test a Bridge Between Traditional FX and Tokenized Settlement",
+   "description": "The Bank of England, Monetary Authority of Singapore and Bank of Thailand have completed a cross-border foreign-exchange settlement experiment designed to connect existing payment infrastructure with tokenised systems. The project might sound technical, but…",
+   "published_at": "2026-11-16T01:00:00Z",
+   "created_at": "2026-11-16T01:00:00Z",
+   "url": "https://www.newsbtc.com/news/blockchain/central-banks-meridian-fx-apac-tokenized-settlement-test/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "shiba-inu-shib-solana-sol-and-zcash-zec-price-analysis-for-november-16-is-this-f",
+   "title": "Shiba Inu (SHIB), Solana (SOL) and Zcash (ZEC) Price Analysis For November 16: Is This Finally the Recovery Point?",
+   "description": "Solana, Zcash and Shiba Inu all face key tests today as the market looks for a possible recovery point.",
+   "published_at": "2026-11-16T00:01:00Z",
+   "created_at": "2026-11-16T00:01:00Z",
+   "url": "https://u.today/price-analysis/shiba-inu-shib-solana-sol-and-zcash-zec-price-analysis-for-november-16-is-this-finally-the-recovery",
+   "source": "U.Today"
+  },
+  {
+   "slug": "kazakhstan-targets-tokenized-government-bonds-after-22-million-note-sale",
+   "title": "Kazakhstan Targets Tokenized Government Bonds After $22 Million Note Sale",
+   "description": "Kazakhstan wants to move from experiments with tokenised central-bank notes to government bonds recorded using blockchain infrastructure. Officials are targeting the first quarter of 2027 for a sovereign-debt issuance, following a transaction this month that…",
+   "published_at": "2026-11-16T00:00:00Z",
+   "created_at": "2026-11-16T00:00:00Z",
+   "url": "https://www.newsbtc.com/news/blockchain/kazakhstan-tokenized-government-bonds-q1-2027-notes/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027",
+   "title": "DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027",
+   "description": "DTCC's tokens run only on Canton and its own private Besu network today. Stellar is due first, in the first half of 2027, and Circle's Arc shares Solana's second-half slot.",
+   "published_at": "2026-11-15T23:51:26Z",
+   "created_at": "2026-11-15T23:51:26Z",
+   "url": "https://cryptopotato.com/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "jensen-huang-weighs-nvidia-comeback-days-after-shock-exit-ft",
+   "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+   "description": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
+   "published_at": "2026-11-15T23:47:45Z",
+   "created_at": "2026-11-15T23:47:45Z",
+   "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "megaeth-cuts-staff-as-ai-ambitions-complicate-its-ethereum-scaling-story",
+   "title": "MegaETH Cuts Staff as AI Ambitions Complicate Its Ethereum Scaling Story",
+   "description": "Ethereum scaling project MegaETH is reducing its workforce while developing a new artificial-intelligence business, a combination that raises an awkward question for investors and users: what exactly should they expect the project to prioritise? The company…",
+   "published_at": "2026-11-15T23:00:00Z",
+   "created_at": "2026-11-15T23:00:00Z",
+   "url": "https://www.newsbtc.com/ethereum-news/megaeth-staff-cuts-ai-pivot-ethereum-layer-two/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "us-sellers-drive-bitcoin-crash-jensen-plots-nvidia-comeback-hodler-s-digest",
+   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+   "description": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+   "published_at": "2026-11-15T22:50:59Z",
+   "created_at": "2026-11-15T22:50:59Z",
+   "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "kava-lend-exploit-exposes-a-dangerous-gap-in-defi-collateral-accounting",
+   "title": "Kava Lend Exploit Exposes a Dangerous Gap in DeFi Collateral Accounting",
+   "description": "An exploit at Kava Lend has drained roughly 55 million KAVA tokens from the lending protocol, highlighting a class of DeFi vulnerability that can remain dormant until unusual market conditions make it dangerous. The incident did not involve an attacker…",
+   "published_at": "2026-11-15T22:00:00Z",
+   "created_at": "2026-11-15T22:00:00Z",
+   "url": "https://www.newsbtc.com/news/defi/kava-lend-exploit-collateral-busd-market-55-million/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62-000",
+   "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+   "description": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+   "published_at": "2026-11-15T21:57:53Z",
+   "created_at": "2026-11-15T21:57:53Z",
+   "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+   "source": "The Block"
+  },
+  {
+   "slug": "kraken-parent-payward-takes-revenue-hit-as-q3-adjusted-ebitda-falls-67",
+   "title": "Kraken Parent Payward Takes Revenue Hit as Q3 Adjusted EBITDA Falls 67%",
+   "description": "Payward recast its second-quarter adjusted revenue to $498 million, down from the $508 million it reported in August.",
+   "published_at": "2026-11-15T21:34:11Z",
+   "created_at": "2026-11-15T21:34:11Z",
+   "url": "https://cryptopotato.com/kraken-parent-payward-takes-revenue-hit-as-q3-adjusted-ebitda-falls-67/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "ether-etfs-approach-an-unwanted-record-after-seven-weeks-of-outflows",
+   "title": "Ether ETFs Approach an Unwanted Record After Seven Weeks of Outflows",
+   "description": "US spot Ether exchange-traded funds are edging toward an uncomfortable milestone. The category has now recorded seven consecutive weeks of net withdrawals, placing it one additional negative week away from matching the longest losing streak identified in the…",
+   "published_at": "2026-11-15T21:00:00Z",
+   "created_at": "2026-11-15T21:00:00Z",
+   "url": "https://www.newsbtc.com/ethereum-news/ether-etfs-seventh-week-outflows-398-million-november-2026/",
+   "source": "NewsBTC"
   },
   {
    "slug": "traders-claim-6-million-profit-by-spotting-bitgo-s-public-pull-request-and-front",
@@ -361,15 +451,6 @@
    "source": "U.Today"
   },
   {
-   "slug": "blockstream-and-thales-launch-bitcoin-custody-system",
-   "title": "Blockstream And Thales Launch Bitcoin Custody System",
-   "description": "The biggest crypto hack in history started with a fake job interview. Now one of Bitcoin’s oldest infrastructure firms is betting that the answer to AI-era attacks is simpler, hardware-first Bitcoin custody. Blockstream, the company led by co-founder and CEO…",
-   "published_at": "2026-11-15T09:40:40Z",
-   "created_at": "2026-11-15T09:40:40Z",
-   "url": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
-   "source": "Bitcoinist"
-  },
-  {
    "slug": "all-of-shiba-inu-s-shib-value-on-the-verge-of-dropping-below-300-million",
    "title": "All of Shiba Inu's (SHIB) Value on the Verge of Dropping Below $300 Million",
    "description": "SHIB held on exchanges is now worth $331.96 million and could fall below $300 million for the first time in four years.",
@@ -379,24 +460,6 @@
    "source": "U.Today"
   },
   {
-   "slug": "are-whales-selling-bitcoin-for-the-anthropic-ipo-the-spacex-playbook-hints-a-bot",
-   "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
-   "description": "Bitcoin is bleeding ahead of the biggest AI listing in history. But if the market follows the script it wrote just five months ago, the selling could soon run out of fuel. BTC dropped below $67,000 this week, its weakest level since August, as investors…",
-   "published_at": "2026-11-15T09:14:44Z",
-   "created_at": "2026-11-15T09:14:44Z",
-   "url": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
-   "source": "Bitcoinist"
-  },
-  {
-   "slug": "solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day",
-   "title": "Solana Staking Holds Near 69% Even As SOL Price Crashes To $67 On Breakpoint Day",
-   "description": "Solana’s biggest week of the year got off to a painful start. But beneath the price chart, Solana staking tells a very different story. SOL fell as low as $67.37 overnight into Sunday, its lowest level since late June. The drop landed on the very first day of…",
-   "published_at": "2026-11-15T08:55:16Z",
-   "created_at": "2026-11-15T08:55:16Z",
-   "url": "https://bitcoinist.com/solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day/",
-   "source": "Bitcoinist"
-  },
-  {
    "slug": "crypto-markets-lost-300b-in-days-as-bitcoin-btc-slumped-below-62k-weekend-watch",
    "title": "Crypto Markets Lost $300B in Days as Bitcoin (BTC) Slumped Below $62K: Weekend Watch",
    "description": "The altcoins have been battered even harder, with massive 5-10% losses once again.",
@@ -404,15 +467,6 @@
    "created_at": "2026-11-15T08:48:37Z",
    "url": "https://cryptopotato.com/crypto-markets-lost-300b-in-days-as-bitcoin-btc-slumped-below-62k-weekend-watch/",
    "source": "CryptoPotato"
-  },
-  {
-   "slug": "ai-cyberattacks-and-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-",
-   "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
-   "description": "AI cyberattacks and outages have made the past few months brutal for the systems the modern internet runs on. Cloud platforms have gone dark, AI tools have failed in waves, and hackers have pulled off the biggest heist in history. Yet through all of it, one…",
-   "published_at": "2026-11-15T08:24:47Z",
-   "created_at": "2026-11-15T08:24:47Z",
-   "url": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
-   "source": "Bitcoinist"
   },
   {
    "slug": "coinone-warns-of-phishing-identity-theft-after-customer-data-breach",
@@ -485,61 +539,7 @@
    "created_at": "2026-11-15T06:27:26Z",
    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
    "source": "Cointelegraph"
-  },
-  {
-   "slug": "ai-helped-hackers-gain-access-at-10-unnamed-organizations-researchers-say",
-   "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
-   "description": "The November 12 investigation reports 25 operations against at least 19 organizations during August–September, with humans assigning targets and able to steer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch…",
-   "published_at": "2026-11-15T05:20:04Z",
-   "created_at": "2026-11-15T05:20:04Z",
-   "url": "https://cryptoslate.com/ai-helped-hackers-gain-access-at-10-organizations-researchers-say/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "how-low-can-bitcoin-go-by-the-end-of-2026-after-losing-68k-3-ais-gave-us-brutal-",
-   "title": "How Low Can Bitcoin Go by the End of 2026 After Losing $68K? 3 AIs Gave Us Brutal Targets",
-   "description": "Is $60K next and can it even hold BTC if it comes to it?",
-   "published_at": "2026-11-15T04:57:47Z",
-   "created_at": "2026-11-15T04:57:47Z",
-   "url": "https://cryptopotato.com/how-low-can-bitcoin-go-by-the-end-of-2026-after-losing-68k-3-ais-gave-us-brutal-targets/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-   "description": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-   "published_at": "2026-11-15T02:50:57Z",
-   "created_at": "2026-11-15T02:50:57Z",
-   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "xrp-to-1-3-kalshi-traders-make-weak-november-bets",
-   "title": "XRP to $1.3? Kalshi Traders Make Weak November Bets",
-   "description": "XRP traders on Kalshi are betting on a possible reversal to at least $1.3 as the asset continues to face sharp declines losing the long-held $ mark.",
-   "published_at": "2026-11-15T00:01:00Z",
-   "created_at": "2026-11-15T00:01:00Z",
-   "url": "https://u.today/xrp-to-13-kalshi-traders-make-weak-november-bets",
-   "source": "U.Today"
-  },
-  {
-   "slug": "kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40",
-   "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-   "description": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-   "published_at": "2026-11-14T23:07:35Z",
-   "created_at": "2026-11-14T23:07:35Z",
-   "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-   "source": "The Block"
-  },
-  {
-   "slug": "crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi",
-   "title": "Crypto Executives Targeted in $400M North Korea Hacking Scheme: FBI",
-   "description": "Hackers reportedly hijacked Telegram and LinkedIn accounts to make fake meeting invitations appear to come from trusted industry contacts.",
-   "published_at": "2026-11-14T22:41:58Z",
-   "created_at": "2026-11-14T22:41:58Z",
-   "url": "https://cryptopotato.com/crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi/",
-   "source": "CryptoPotato"
   }
  ],
- "updatedAt": "2026-11-15T21:00:29Z"
+ "updatedAt": "2026-11-16T01:59:30Z"
 }
