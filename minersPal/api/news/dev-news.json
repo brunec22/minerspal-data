@@ -3,11 +3,164 @@
   {
    "slug": "minerspal-dev-feed",
    "title": "[DEV] MinersPal staging news feed",
-   "description": "Staging feed generated 2026-11-21T01:28:06Z. Production users read news.json.",
-   "published_at": "2026-11-21T01:28:06Z",
-   "created_at": "2026-11-21T01:28:06Z",
+   "description": "Staging feed generated 2026-11-21T09:42:51Z. Production users read news.json.",
+   "published_at": "2026-11-21T09:42:51Z",
+   "created_at": "2026-11-21T09:42:51Z",
    "url": "https://github.com/brunec22/minerspal-data",
    "source": "MinersPal"
+  },
+  {
+   "slug": "crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-wa",
+   "title": "Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
+   "description": "ZEC and HYPE are today's biggest losers among the larger-cap alts. Two out of the top four cryptocurrencies are now stablecoins.",
+   "published_at": "2026-11-21T08:30:43Z",
+   "created_at": "2026-11-21T08:30:43Z",
+   "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "binance-can-hold-mexc-deposits-even-after-the-blockchain-clears-them",
+   "title": "Binance can hold MEXC deposits even after the blockchain clears them",
+   "description": "You can send crypto from MEXC to Binance, see that the transaction went through on the blockchain, and still be unable to trade with that deposit when you log in to Binance. That's what Binance told customers to expect while it reviews deposits from MEXC. Try…",
+   "published_at": "2026-11-21T08:30:04Z",
+   "created_at": "2026-11-21T08:30:04Z",
+   "url": "https://cryptoslate.com/binance-can-hold-mexc-deposits-even-after-the-blockchain-clears-them/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "us-lawmakers-propose-up-to-30-rewards-for-prediction-market-whistleblowers",
+   "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+   "description": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+   "published_at": "2026-11-21T07:51:47Z",
+   "created_at": "2026-11-21T07:51:47Z",
+   "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "crypto-fear-reaches-extreme-levels-as-bitcoin-plummets-to-55k",
+   "title": "Crypto Fear Reaches Extreme Levels as Bitcoin Plummets to $55K",
+   "description": "The popular metric is deep in \"extreme fear\" territory.",
+   "published_at": "2026-11-21T07:41:59Z",
+   "created_at": "2026-11-21T07:41:59Z",
+   "url": "https://cryptopotato.com/crypto-fear-reaches-extreme-levels-as-bitcoin-plummets-to-55k/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "variational-s-1-5-billion-trading-business-has-a-catch-even-profitable-traders-c",
+   "title": "Variational’s $1.5 billion trading business has a catch even profitable traders cannot escape",
+   "description": "More dealers could help Omni handle larger trades, while customers still rely on its in-house market maker to pay their gains. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-21T06:30:53Z",
+   "created_at": "2026-11-21T06:30:53Z",
+   "url": "https://cryptoslate.com/variationals-1-5-billion-trading-business-has-a-catch-even-profitable-traders-cannot-escape/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-pape",
+   "title": "Strategy Breaks Silence After BTC Crash as Bitcoin Position Dumps to $17B in Paper Losses",
+   "description": "Bitcoin's latest capitulation has put unprecedented pressure on the largest corporate holder.",
+   "published_at": "2026-11-21T06:23:22Z",
+   "created_at": "2026-11-21T06:23:22Z",
+   "url": "https://cryptopotato.com/strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-paper-losses/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "description": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+   "published_at": "2026-11-21T06:16:42Z",
+   "created_at": "2026-11-21T06:16:42Z",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-1-billion",
+   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "description": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+   "published_at": "2026-11-21T05:59:19Z",
+   "created_at": "2026-11-21T05:59:19Z",
+   "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "hong-kong-pushes-to-bring-crypto-custodians-advisers-under-licensing-rules",
+   "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+   "description": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+   "published_at": "2026-11-21T05:40:35Z",
+   "created_at": "2026-11-21T05:40:35Z",
+   "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+   "source": "Cointelegraph"
+  },
+  {
+   "slug": "bitcoin-price-plunges-to-55-5k-for-the-first-time-since-september-2024",
+   "title": "Bitcoin Price Plunges to $55.5K for the First Time Since September 2024",
+   "description": "The liquidations on a daily scale reached $2.4 billion as the market continues to experience new lows.",
+   "published_at": "2026-11-21T05:26:32Z",
+   "created_at": "2026-11-21T05:26:32Z",
+   "url": "https://cryptopotato.com/bitcoin-price-plunges-to-55-5k-for-the-first-time-since-september-2024/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "xrp-bulls-lose-0-99-the-next-downside-targets-are-ugly",
+   "title": "XRP Bulls Lose $0.99: The Next Downside Targets Are Ugly",
+   "description": "XRP was rejected at $1.00 once again this week.",
+   "published_at": "2026-11-21T04:49:38Z",
+   "created_at": "2026-11-21T04:49:38Z",
+   "url": "https://cryptopotato.com/xrp-bulls-lose-0-99-the-next-downside-targets-are-ugly/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "jpmorgan-says-bitcoin-s-price-drop-pressures-miners-senate-passes-death-bets-act",
+   "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+   "description": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+   "published_at": "2026-11-21T04:30:00Z",
+   "created_at": "2026-11-21T04:30:00Z",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+   "source": "The Block"
+  },
+  {
+   "slug": "sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-imm",
+   "title": "Sky offers nearly 30% yield but 99.96% of its lending vault is unavailable for immediate withdrawals",
+   "description": "Spark’s November 20 reading showed about 0.04% of vault assets available for immediate withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-21T04:10:34Z",
+   "created_at": "2026-11-21T04:10:34Z",
+   "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "bitcoin-tanks-below-57-000-for-the-first-time-in-two-years-and-its-not-alone",
+   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "description": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+   "published_at": "2026-11-21T04:10:07Z",
+   "created_at": "2026-11-21T04:10:07Z",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "what-happened-the-last-time-xrp-fell-28-in-a-month",
+   "title": "What Happened the Last Time XRP Fell 28% in a Month",
+   "description": "XRP lost 29.3% in February 2025 and hit an all-time high five months later, but now the token is down 27.7% in November and stuck below $1.",
+   "published_at": "2026-11-21T04:00:00Z",
+   "created_at": "2026-11-21T04:00:00Z",
+   "url": "https://u.today/what-happened-the-last-time-xrp-fell-28-in-a-month",
+   "source": "U.Today"
+  },
+  {
+   "slug": "476-billion-shiba-inu-shib-in-24-hours-it-sets-the-point",
+   "title": "+476 Billion Shiba Inu (SHIB) in 24 Hours: It Sets the Point",
+   "description": "Shiba Inu faces increased selling pressure as exchange inflows rise and its price remains below key technical levels.",
+   "published_at": "2026-11-21T03:00:00Z",
+   "created_at": "2026-11-21T03:00:00Z",
+   "url": "https://u.today/476-billion-shiba-inu-shib-in-24-hours-it-sets-the-point",
+   "source": "U.Today"
+  },
+  {
+   "slug": "fluidkey-s-1-6-million-hack-exposes-a-security-risk-even-when-private-keys-never",
+   "title": "Fluidkey’s $1.6 million hack exposes a security risk even when private keys never leave users’ devices",
+   "description": "Bitquery traced at least $1.58 million to incident-linked wallets across six chains and says some other transfers appear to be user withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-21T02:30:26Z",
+   "created_at": "2026-11-21T02:30:26Z",
+   "url": "https://cryptoslate.com/fluidkeys-1-6-million-hack-exposes-a-security-risk-even-when-private-keys-never-leave-users-devices/",
+   "source": "CryptoSlate"
   },
   {
    "slug": "dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc",
@@ -226,15 +379,6 @@
    "source": "Bitcoin Magazine"
   },
   {
-   "slug": "bitcoin-etf-investors-have-a-way-to-hedge-during-thanksgiving-s-40-hour-trading-",
-   "title": "Bitcoin ETF investors have a way to hedge during Thanksgiving’s 40+ hour trading gap",
-   "description": "Eligible CME contracts can trade during Thursday’s closure, with trades submitted for clearing that day due to clear Friday. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-20T19:15:10Z",
-   "created_at": "2026-11-20T19:15:10Z",
-   "url": "https://cryptoslate.com/bitcoin-etf-investors-have-a-way-to-hedge-during-thanksgivings-40-hour-trading-gap/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "wealth-platforms-set-record-for-bitcoin-etp-ownership-despite-market-weakness-re",
    "title": "Wealth Platforms Set Record for Bitcoin ETP Ownership Despite Market Weakness: Report",
    "description": "Galaxy's Q3 figures show advisors added 24,838 BTC-equivalent, accounting for roughly half of institutional managers' net purchases.",
@@ -287,15 +431,6 @@
    "created_at": "2026-11-20T18:16:02Z",
    "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
    "source": "Decrypt"
-  },
-  {
-   "slug": "bitcoin-faces-a-new-inflation-threat-as-a-regional-us-factory-price-hits-a-4-yea",
-   "title": "Bitcoin faces a new inflation threat as a regional US factory price hits a 4 year high",
-   "description": "The Philadelphia Fed’s selling-price index reached its highest since June 2022, while the earlier October PCE reading could shift December rate expectations. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next…",
-   "published_at": "2026-11-20T18:15:18Z",
-   "created_at": "2026-11-20T18:15:18Z",
-   "url": "https://cryptoslate.com/bitcoin-faces-a-new-inflation-threat-as-a-regional-us-factory-price-hits-a-4-year-high/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "can-bitcoin-btc-recover-historically-accurate-signal-flashes-buy",
@@ -352,15 +487,6 @@
    "source": "CryptoPotato"
   },
   {
-   "slug": "bitcoin-crashes-to-59-000-as-anthropic-falls-25-from-yesterday-s-ipo-day-high",
-   "title": "Bitcoin crashes to $59,000 as Anthropic falls 25% from yesterday’s IPO-day high",
-   "description": "Bitcoin fell below $60,000 on Friday for the first time since July as US technology stocks slid and Anthropic shares fell about 25% from their IPO-day high. Bitcoin traded at $59,470, down 5.66% over the previous 24 hours, according to CryptoSlate’s Bitcoin…",
-   "published_at": "2026-11-20T17:15:22Z",
-   "created_at": "2026-11-20T17:15:22Z",
-   "url": "https://cryptoslate.com/bitcoin-crashes-to-59000-as-anthropic-falls-25-from-yesterdays-ipo-day-high/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff",
    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
    "description": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
@@ -379,6 +505,24 @@
    "source": "Bitcoin Magazine"
   },
   {
+   "slug": "htx-research-publishes-six-month-outlook-for-bitcoin-and-crypto-markets",
+   "title": "HTX Research Publishes Six-Month Outlook for Bitcoin and Crypto Markets",
+   "description": "Apia, Samoa, November 20, 2026 – HTX Research, the dedicated research arm of HTX, has published a new report titled From a Price Rebound to a Recovery in Capital Flows: A Six-Month Outlook for Bitcoin and Crypto Markets. The report addresses a central…",
+   "published_at": "2026-11-20T16:39:14Z",
+   "created_at": "2026-11-20T16:39:14Z",
+   "url": "https://www.newsbtc.com/news/htx-research-publishes-six-month-outlook-for-bitcoin-and-crypto-markets/",
+   "source": "NewsBTC"
+  },
+  {
+   "slug": "banks-are-adopting-stablecoins-here-is-why-crypto-native-dollars-still-win-on-us",
+   "title": "Banks Are Adopting Stablecoins: Here Is Why Crypto-Native Dollars Still Win on User Freedom",
+   "description": "As traditional giants rush into digital dollars, USDD’s Yvonne Chia explains why 24/7 access, self-custody, and transparent yield give decentralized stablecoins an edge banks can’t replicate. 20 November – Road Town, Totorla, British Virgin Islands –…",
+   "published_at": "2026-11-20T16:36:15Z",
+   "created_at": "2026-11-20T16:36:15Z",
+   "url": "https://www.newsbtc.com/news/banks-are-adopting-stablecoins-here-is-why-crypto-native-dollars-still-win-on-user-freedom/",
+   "source": "NewsBTC"
+  },
+  {
    "slug": "bitcoin-breaks-below-60k-as-crypto-fear-index-hits-worst-level-since-february",
    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
    "description": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
@@ -386,15 +530,6 @@
    "created_at": "2026-11-20T16:35:59Z",
    "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
    "source": "Decrypt"
-  },
-  {
-   "slug": "us-spot-bitcoin-etfs-are-almost-1-billion-short-of-a-record-monthly-outflow-at-3",
-   "title": "US spot Bitcoin ETFs are almost $1 billion short of a record monthly outflow at $3.5 billion",
-   "description": "US spot Bitcoin exchange-traded funds recorded $3.47 billion in net outflows through Nov. 19, about $1.04 billion short of the record set in June. Farside Investors reported that BlackRock’s iShares Bitcoin Trust (IBIT) recorded $541 million in net outflows…",
-   "published_at": "2026-11-20T16:30:38Z",
-   "created_at": "2026-11-20T16:30:38Z",
-   "url": "https://cryptoslate.com/blackrock-leads-582-million-bitcoin-etf-exodus-as-november-withdrawals-approach-3-5-billion/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "u-s-treasury-secretary-pushes-back-on-bigger-fed-hike",
@@ -1223,142 +1358,7 @@
    "created_at": "2026-11-19T22:36:02Z",
    "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
    "source": "Decrypt"
-  },
-  {
-   "slug": "binance-s-6-5b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
-   "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-   "description": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
-   "published_at": "2026-11-19T22:25:18Z",
-   "created_at": "2026-11-19T22:25:18Z",
-   "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "nvidia-amd-micron-sink-as-anthropic-closes-17-above-ipo-price",
-   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-   "description": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-   "published_at": "2026-11-19T21:12:06Z",
-   "created_at": "2026-11-19T21:12:06Z",
-   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
-   "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-   "description": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
-   "published_at": "2026-11-19T21:01:42Z",
-   "created_at": "2026-11-19T21:01:42Z",
-   "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "meet-shrincs-bitcoin-s-emerging-frontrunner-for-a-post-quantum-signature",
-   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-   "description": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
-   "published_at": "2026-11-19T20:46:02Z",
-   "created_at": "2026-11-19T20:46:02Z",
-   "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "hyperliquid-anthropic-futures-priced-within-1-of-nasdaq-opening-price",
-   "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-   "description": "Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.",
-   "published_at": "2026-11-19T20:33:24Z",
-   "created_at": "2026-11-19T20:33:24Z",
-   "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "anthropic-ant-debuts-on-coinbase-amid-volatile-ipo",
-   "title": "Anthropic (ANT) Debuts on Coinbase Amid Volatile IPO",
-   "description": "Coinbase has expanded its stock trading offerings with the addition of Anthropic (ANT) shares in the U.S. and U.K., as the AI giant's historic $81 billion IPO triggered massive volatility, with its stock surging before giving back much of its early gains.",
-   "published_at": "2026-11-19T20:32:34Z",
-   "created_at": "2026-11-19T20:32:34Z",
-   "url": "https://u.today/anthropic-ant-debuts-on-coinbase-amid-volatile-ipo",
-   "source": "U.Today"
-  },
-  {
-   "slug": "kalshi-s-quintenz-says-insider-trading-is-just-easier-to-see-in-prediction-marke",
-   "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
-   "description": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.",
-   "published_at": "2026-11-19T20:20:59Z",
-   "created_at": "2026-11-19T20:20:59Z",
-   "url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
-   "source": "The Block"
-  },
-  {
-   "slug": "hackers-leak-visa-mastercard-and-jpmorgan-customer-data",
-   "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-   "description": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
-   "published_at": "2026-11-19T20:15:32Z",
-   "created_at": "2026-11-19T20:15:32Z",
-   "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "trump-s-sec-nominee-johnson-backs-formal-rulemaking-for-tokenized-stock-trading",
-   "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-   "description": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
-   "published_at": "2026-11-19T20:06:34Z",
-   "created_at": "2026-11-19T20:06:34Z",
-   "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "sky-s-usds-stablecoin-shrinks-35-as-1-5-billion-exits-reserves-after-illicit-fin",
-   "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-   "description": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
-   "published_at": "2026-11-19T19:53:42Z",
-   "created_at": "2026-11-19T19:53:42Z",
-   "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "bitcoin-enters-death-cross-as-anthropic-ipo-fails-to-lift-wall-street",
-   "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-   "description": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
-   "published_at": "2026-11-19T19:08:24Z",
-   "created_at": "2026-11-19T19:08:24Z",
-   "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-   "source": "Decrypt"
-  },
-  {
-   "slug": "ripple-s-alderoty-doubts-elizabeth-warren-will-set-crypto-policy-in-this-country",
-   "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-   "description": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
-   "published_at": "2026-11-19T18:47:30Z",
-   "created_at": "2026-11-19T18:47:30Z",
-   "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-   "source": "The Block"
-  },
-  {
-   "slug": "ethereum-s-glamsterdam-upgrade-could-slip-to-may-2027-over-compatibility-concern",
-   "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-   "description": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
-   "published_at": "2026-11-19T18:20:49Z",
-   "created_at": "2026-11-19T18:20:49Z",
-   "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-proc",
-   "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-   "description": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
-   "published_at": "2026-11-19T18:15:56Z",
-   "created_at": "2026-11-19T18:15:56Z",
-   "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "ledger-faces-growing-scrutiny-as-dubai-users-report-mysterious-crypto-losses",
-   "title": "Ledger Faces Growing Scrutiny as Dubai Users Report Mysterious Crypto Losses",
-   "description": "One Dubai user claims to have lost 507K USDT from their Ledger Flex, while another is said to have lost 122K USDT also from a Ledger device.",
-   "published_at": "2026-11-19T18:15:20Z",
-   "created_at": "2026-11-19T18:15:20Z",
-   "url": "https://cryptopotato.com/ledger-faces-growing-scrutiny-as-dubai-users-report-mysterious-crypto-losses/",
-   "source": "CryptoPotato"
   }
  ],
- "updatedAt": "2026-11-21T01:28:06Z"
+ "updatedAt": "2026-11-21T09:42:51Z"
 }
