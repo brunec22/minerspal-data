@@ -3,11 +3,128 @@
   {
    "slug": "minerspal-dev-feed",
    "title": "[DEV] MinersPal staging news feed",
-   "description": "Staging feed generated 2026-11-21T17:27:07Z. Production users read news.json.",
-   "published_at": "2026-11-21T17:27:07Z",
-   "created_at": "2026-11-21T17:27:07Z",
+   "description": "Staging feed generated 2026-11-21T23:09:51Z. Production users read news.json.",
+   "published_at": "2026-11-21T23:09:51Z",
+   "created_at": "2026-11-21T23:09:51Z",
    "url": "https://github.com/brunec22/minerspal-data",
    "source": "MinersPal"
+  },
+  {
+   "slug": "quantum-proofing-crypto-could-come-at-a-staggering-cost",
+   "title": "Quantum-Proofing Crypto Could Come at a Staggering Cost",
+   "description": "IOSCO revealed Solana's quantum-resistant testnet suffered a roughly 90% throughput decline.",
+   "published_at": "2026-11-21T22:57:55Z",
+   "created_at": "2026-11-21T22:57:55Z",
+   "url": "https://cryptopotato.com/quantum-proofing-crypto-could-come-at-a-staggering-cost/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "just-18-billion-shib-shiba-inu-netflow-signals-market-ease",
+   "title": "Just 18 Billion SHIB: Shiba Inu Netflow Signals Market Ease",
+   "description": "Shiba Inu’s netflow has stayed bearish but provided a relief signal as the number of tokens moved to exchanges for sale has dropped substantially.",
+   "published_at": "2026-11-21T21:47:00Z",
+   "created_at": "2026-11-21T21:47:00Z",
+   "url": "https://u.today/just-18-billion-shib-shiba-inu-netflow-signals-market-ease",
+   "source": "U.Today"
+  },
+  {
+   "slug": "hackers-swapped-a-hosted-deepseek-model-for-53-hours-and-stripped-away-its-safet",
+   "title": "Hackers swapped a hosted DeepSeek model for 53 hours and stripped away its safety protections",
+   "description": "Prime Intellect says the substitute refused none of its HarmBench prompts, down from 198 of 240 with the original model. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-21T21:30:30Z",
+   "created_at": "2026-11-21T21:30:30Z",
+   "url": "https://cryptoslate.com/hackers-swapped-a-hosted-deepseek-model-for-53-hours-and-stripped-away-its-safety-protections/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchan",
+   "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+   "description": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
+   "published_at": "2026-11-21T21:17:36Z",
+   "created_at": "2026-11-21T21:17:36Z",
+   "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+   "source": "The Block"
+  },
+  {
+   "slug": "dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead",
+   "title": "Dogecoin (DOGE) Flashes a Major Bullish Signal: Big Rebound Ahead?",
+   "description": "Is there any hope left for DOGE after falling 65% in the past year?",
+   "published_at": "2026-11-21T20:41:16Z",
+   "created_at": "2026-11-21T20:41:16Z",
+   "url": "https://cryptopotato.com/dogecoin-doge-flashes-a-major-bullish-signal-big-rebound-ahead/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "russia-allows-bitcoin-trading-as-sanctioned-moscow-exchange-prepares-december-la",
+   "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+   "description": "From Nov. 22, Russian exchanges can begin trading Bitcoin once the central bank approves the rules, but customers still can't use it to pay for anything. Moscow Exchange plans a Dec. 1 pilot through a US-sanctioned clearinghouse, with ordinary investors…",
+   "published_at": "2026-11-21T19:40:03Z",
+   "created_at": "2026-11-21T19:40:03Z",
+   "url": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "xrp-major-2026-death-cross-completes-after-1-year-wait-what-comes-next",
+   "title": "XRP Major 2026 Death Cross Completes After 1-Year Wait, What Comes Next?",
+   "description": "XRP's latest death cross signal raises fresh questions about its next move.",
+   "published_at": "2026-11-21T19:20:00Z",
+   "created_at": "2026-11-21T19:20:00Z",
+   "url": "https://u.today/xrp-major-2026-death-cross-completes-after-1-year-wait-what-comes-next",
+   "source": "U.Today"
+  },
+  {
+   "slug": "cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-t",
+   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+   "description": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+   "published_at": "2026-11-21T18:51:14Z",
+   "created_at": "2026-11-21T18:51:14Z",
+   "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "source": "The Block"
+  },
+  {
+   "slug": "aave-s-4-billion-usdc-borrow-cap-could-leave-just-190-million-available-for-with",
+   "title": "Aave’s $4 billion USDC borrow cap could leave just $190 million available for withdrawals",
+   "description": "If loans fill the new cap at late Nov. 20 supply levels, about 190 million USDC would remain for withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-21T18:40:32Z",
+   "created_at": "2026-11-21T18:40:32Z",
+   "url": "https://cryptoslate.com/aaves-4-billion-usdc-borrow-cap-could-leave-just-190-million-available-for-withdrawals/",
+   "source": "CryptoSlate"
+  },
+  {
+   "slug": "netflix-s-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-h",
+   "title": "Netflix’s FTX Drama ‘The Altruists’ Makes CZ the Villain, but Is That What Really Happened?",
+   "description": "From missing billions to questionable scenes involving CZ, The Altruists takes creative liberties with a scandal that may not need embellishment.",
+   "published_at": "2026-11-21T18:26:21Z",
+   "created_at": "2026-11-21T18:26:21Z",
+   "url": "https://cryptopotato.com/netflixs-ftx-drama-the-altruists-makes-cz-the-villain-but-is-that-what-really-happened/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "gta-6-leaker-dangles-a-pc-port-behind-a-15-million-crypto-pump",
+   "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+   "description": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+   "published_at": "2026-11-21T18:01:02Z",
+   "created_at": "2026-11-21T18:01:02Z",
+   "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+   "source": "Decrypt"
+  },
+  {
+   "slug": "bitcoin-rebounds-above-60-000-after-1-8-billion-crypto-liquidation-wave",
+   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+   "description": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+   "published_at": "2026-11-21T17:50:00Z",
+   "created_at": "2026-11-21T17:50:00Z",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "source": "CoinDesk"
+  },
+  {
+   "slug": "singapore-wants-to-test-stablecoin-payments-by-ai-agents",
+   "title": "Singapore wants to test stablecoin payments by AI agents",
+   "description": "A planned sandbox would test how banks and payment providers verify an agent’s authority before executing payments in digital money. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
+   "published_at": "2026-11-21T17:40:11Z",
+   "created_at": "2026-11-21T17:40:11Z",
+   "url": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents/",
+   "source": "CryptoSlate"
   },
   {
    "slug": "bitcoin-capitulation-is-here-why-55k-could-become-a-historic-turning-point",
@@ -352,15 +469,6 @@
    "source": "CryptoPotato"
   },
   {
-   "slug": "variational-s-1-5-billion-trading-business-has-a-catch-even-profitable-traders-c",
-   "title": "Variational’s $1.5 billion trading business has a catch even profitable traders cannot escape",
-   "description": "More dealers could help Omni handle larger trades, while customers still rely on its in-house market maker to pay their gains. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-21T06:30:53Z",
-   "created_at": "2026-11-21T06:30:53Z",
-   "url": "https://cryptoslate.com/variationals-1-5-billion-trading-business-has-a-catch-even-profitable-traders-cannot-escape/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "strategy-breaks-silence-after-btc-crash-as-bitcoin-position-dumps-to-17b-in-pape",
    "title": "Strategy Breaks Silence After BTC Crash as Bitcoin Position Dumps to $17B in Paper Losses",
    "description": "Bitcoin's latest capitulation has put unprecedented pressure on the largest corporate holder.",
@@ -424,15 +532,6 @@
    "source": "The Block"
   },
   {
-   "slug": "sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-imm",
-   "title": "Sky offers nearly 30% yield but 99.96% of its lending vault is unavailable for immediate withdrawals",
-   "description": "Spark’s November 20 reading showed about 0.04% of vault assets available for immediate withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-21T04:10:34Z",
-   "created_at": "2026-11-21T04:10:34Z",
-   "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals/",
-   "source": "CryptoSlate"
-  },
-  {
    "slug": "bitcoin-tanks-below-57-000-for-the-first-time-in-two-years-and-its-not-alone",
    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
    "description": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
@@ -458,24 +557,6 @@
    "created_at": "2026-11-21T03:00:00Z",
    "url": "https://u.today/476-billion-shiba-inu-shib-in-24-hours-it-sets-the-point",
    "source": "U.Today"
-  },
-  {
-   "slug": "fluidkey-s-1-6-million-hack-exposes-a-security-risk-even-when-private-keys-never",
-   "title": "Fluidkey’s $1.6 million hack exposes a security risk even when private keys never leave users’ devices",
-   "description": "Bitquery traced at least $1.58 million to incident-linked wallets across six chains and says some other transfers appear to be user withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
-   "published_at": "2026-11-21T02:30:26Z",
-   "created_at": "2026-11-21T02:30:26Z",
-   "url": "https://cryptoslate.com/fluidkeys-1-6-million-hack-exposes-a-security-risk-even-when-private-keys-never-leave-users-devices/",
-   "source": "CryptoSlate"
-  },
-  {
-   "slug": "dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc",
-   "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC",
-   "description": "The partners say eligible clients in Asia would be able to redeem USDC through DBS with near-instant, round-the-clock settlement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
-   "published_at": "2026-11-21T00:50:53Z",
-   "created_at": "2026-11-21T00:50:53Z",
-   "url": "https://cryptoslate.com/dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc/",
-   "source": "CryptoSlate"
   },
   {
    "slug": "near-protocol-near-chainlink-link-and-litecoin-ltc-price-analysis-for-november-2",
@@ -1277,88 +1358,7 @@
    "created_at": "2026-11-20T10:02:03Z",
    "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
    "source": "CoinDesk"
-  },
-  {
-   "slug": "cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-90-million-worth-of-sha",
-   "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-   "description": "ARK Invest snapped up $90 million in Anthropic stock across six funds during the AI maker’s historic Nasdaq debut while offloading Nvidia shares amid leadership turmoil.",
-   "published_at": "2026-11-20T09:48:52Z",
-   "created_at": "2026-11-20T09:48:52Z",
-   "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "rich-dad-author-robert-kiyosaki-calls-bitcoin-drop-below-62-000-a-gift-prepares-",
-   "title": "'Rich Dad' Author Robert Kiyosaki Calls Bitcoin Drop Below $62,000 a Gift, Prepares to Buy More",
-   "description": "Amid a November crypto and metals sell-off, Robert Kiyosaki says “strong hands” wait to buy as Bitcoin drops under $62,000.",
-   "published_at": "2026-11-20T09:28:05Z",
-   "created_at": "2026-11-20T09:28:05Z",
-   "url": "https://u.today/rich-dad-author-robert-kiyosaki-calls-bitcoin-drop-below-62000-a-gift-prepares-to-buy-more",
-   "source": "U.Today"
-  },
-  {
-   "slug": "bitcoin-crash-could-hit-the-us-harder-than-other-countries-peter-schiff",
-   "title": "Bitcoin Crash Could Hit the US Harder Than Other Countries: Peter Schiff",
-   "description": "The economist also questioned how long Michael Saylor can keep buying STRC shares as falling BTC prices put pressure on Strategy's finances.",
-   "published_at": "2026-11-20T09:11:27Z",
-   "created_at": "2026-11-20T09:11:27Z",
-   "url": "https://cryptopotato.com/bitcoin-crash-could-hit-the-us-harder-than-other-countries-peter-schiff/",
-   "source": "CryptoPotato"
-  },
-  {
-   "slug": "bitcoin-btc-double-death-cross-raises-concerns-next-price-target",
-   "title": "Bitcoin (BTC) Double Death Cross Raises Concerns: Next Price Target",
-   "description": "Bitcoin is testing $60,000 support as a double death cross deepens the bearish setup.",
-   "published_at": "2026-11-20T08:45:00Z",
-   "created_at": "2026-11-20T08:45:00Z",
-   "url": "https://u.today/bitcoin-btc-double-death-cross-raises-concerns-next-price-target",
-   "source": "U.Today"
-  },
-  {
-   "slug": "blackrock-s-ibit-loses-record-541m-amid-anthropic-market-debut",
-   "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-   "description": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
-   "published_at": "2026-11-20T08:18:42Z",
-   "created_at": "2026-11-20T08:18:42Z",
-   "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-13-5-million",
-   "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-   "description": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market.",
-   "published_at": "2026-11-20T08:04:40Z",
-   "created_at": "2026-11-20T08:04:40Z",
-   "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "sec-charges-8-firms-over-fake-crypto-platforms-tied-to-37m-fraud",
-   "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-   "description": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
-   "published_at": "2026-11-20T08:03:34Z",
-   "created_at": "2026-11-20T08:03:34Z",
-   "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud",
-   "source": "Cointelegraph"
-  },
-  {
-   "slug": "michael-saylor-sees-up-to-7-5-billion-in-natural-demand-for-strategy-s-strc-pref",
-   "title": "Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock",
-   "description": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding.",
-   "published_at": "2026-11-20T08:02:36Z",
-   "created_at": "2026-11-20T08:02:36Z",
-   "url": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
-   "source": "The Block"
-  },
-  {
-   "slug": "global-markets-turn-red-bitcoin-crashes-as-wall-street-loses-over-1-100-dow-poin",
-   "title": "Global Markets Turn Red: Bitcoin Crashes as Wall Street Loses Over 1,100 Dow Points",
-   "description": "Neither Anthropic's historic IPO nor Nvidia's strong earnings could prevent a brutal sell-off across global financial markets.",
-   "published_at": "2026-11-20T08:01:36Z",
-   "created_at": "2026-11-20T08:01:36Z",
-   "url": "https://cryptopotato.com/global-markets-turn-red-bitcoin-crashes-as-wall-street-loses-over-1100-dow-points/",
-   "source": "CryptoPotato"
   }
  ],
- "updatedAt": "2026-11-21T17:27:07Z"
+ "updatedAt": "2026-11-21T23:09:51Z"
 }
