@@ -1,6 +1,24 @@
 {
  "results": [
   {
+   "slug": "bitcoin-s-55k-crash-was-historic-but-still-far-from-crypto-s-worst",
+   "title": "Bitcoin’s $55K Crash Was Historic – But Still Far From Crypto’s Worst",
+   "description": "The Saturday massacre to a multi-year low didn't even make it in the top 10, according to the Kobeissi Letter.",
+   "published_at": "2026-11-22T06:08:45Z",
+   "created_at": "2026-11-22T06:08:45Z",
+   "url": "https://cryptopotato.com/bitcoins-55k-crash-was-historic-but-still-far-from-cryptos-worst/",
+   "source": "CryptoPotato"
+  },
+  {
+   "slug": "chainflip-confirms-12m-hack-offers-attacker-10-bounty",
+   "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+   "description": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+   "published_at": "2026-11-22T05:28:43Z",
+   "created_at": "2026-11-22T05:28:43Z",
+   "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+   "source": "Cointelegraph"
+  },
+  {
    "slug": "quantum-proofing-crypto-could-come-at-a-staggering-cost",
    "title": "Quantum-Proofing Crypto Could Come at a Staggering Cost",
    "description": "IOSCO revealed Solana's quantum-resistant testnet suffered a roughly 90% throughput decline.",
@@ -521,25 +539,7 @@
    "created_at": "2026-11-21T04:30:00Z",
    "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
    "source": "The Block"
-  },
-  {
-   "slug": "bitcoin-tanks-below-57-000-for-the-first-time-in-two-years-and-its-not-alone",
-   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-   "description": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
-   "published_at": "2026-11-21T04:10:07Z",
-   "created_at": "2026-11-21T04:10:07Z",
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-   "source": "CoinDesk"
-  },
-  {
-   "slug": "what-happened-the-last-time-xrp-fell-28-in-a-month",
-   "title": "What Happened the Last Time XRP Fell 28% in a Month",
-   "description": "XRP lost 29.3% in February 2025 and hit an all-time high five months later, but now the token is down 27.7% in November and stuck below $1.",
-   "published_at": "2026-11-21T04:00:00Z",
-   "created_at": "2026-11-21T04:00:00Z",
-   "url": "https://u.today/what-happened-the-last-time-xrp-fell-28-in-a-month",
-   "source": "U.Today"
   }
  ],
- "updatedAt": "2026-11-21T23:09:51Z"
+ "updatedAt": "2026-11-22T06:39:55Z"
 }
