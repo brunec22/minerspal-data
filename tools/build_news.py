@@ -2,7 +2,13 @@
 """Builds minersPal/api/news/news.json (+ dev-news.json) from public crypto RSS feeds.
 
 Schema (decoded by MinersPal NewsManager / GitHubNews):
-{"results":[{"slug","title","description","published_at","created_at","url","source"}],
+{"results":[{"slug","title","description","published_at","created_at","url","source",
+             "image"?, "category"?, "coins"?}],
+ image    = optional https URL of the story's picture (media:content / media:thumbnail /
+            enclosure / first <img> in the body); omitted when the feed has none.
+ category = optional "Mining" | "Bitcoin" | "Markets" | "Altcoins" (keyword rules below).
+ coins    = optional list of tickers named in the title, e.g. ["BTC","XRP"]; omitted when empty.
+Older app versions ignore the optional keys (unknown JSON keys are skipped by Codable).
  "updatedAt":"YYYY-MM-DDTHH:MM:SSZ"}
 Dates are UTC "yyyy-MM-dd'T'HH:mm:ss'Z'". URLs are plain https links.
 
@@ -79,6 +85,66 @@ def parse_date(s):
     return d.astimezone(timezone.utc)
 
 
+CATEGORY_RULES = [  # first match wins; Mining reuses MINING_WORDS
+    ("Markets", re.compile(r"\b(price|prices|etf|etfs|stock|stocks|shares|market|markets|futures|rally|surge|crash|bottom|treasury|fed|inflation|trading|liquidation)", re.I)),
+    ("Bitcoin", re.compile(r"\b(bitcoin|btc|satoshi|lightning)\b", re.I)),
+    ("Altcoins", re.compile(r"\b(ethereum|eth|solana|sol|xrp|cardano|ada|dogecoin|doge|shib|shiba|kaspa|monero|litecoin|altcoin|altcoins|token|tokens|memecoin|defi)\b", re.I)),
+]
+COIN_RULES = [  # ticker, regex on the title
+    ("BTC", r"\bbitcoin\b|\bbtc\b"), ("ETH", r"\bethereum\b|\beth\b"), ("SOL", r"\bsolana\b|\bsol\b"),
+    ("XRP", r"\bxrp\b"), ("DOGE", r"\bdogecoin\b|\bdoge\b"), ("KAS", r"\bkaspa\b|\bkas\b"),
+    ("XMR", r"\bmonero\b|\bxmr\b"), ("LTC", r"\blitecoin\b|\bltc\b"), ("ETC", r"\bethereum classic\b|\betc\b"),
+    ("ZEC", r"\bzcash\b|\bzec\b"), ("BCH", r"\bbitcoin cash\b|\bbch\b"), ("ADA", r"\bcardano\b|\bada\b"),
+    ("SHIB", r"\bshiba inu\b|\bshib\b"), ("BNB", r"\bbnb\b"), ("RVN", r"\bravencoin\b|\brvn\b"),
+]
+
+
+def category_of(title, desc):
+    text = f"{title} {desc}"
+    if MINING_WORDS.search(text):
+        return "Mining"
+    for name, rx in CATEGORY_RULES:
+        if rx.search(title):
+            return name
+    for name, rx in CATEGORY_RULES:
+        if rx.search(text):
+            return name
+    return None
+
+
+def coins_of(title):
+    out = []
+    for ticker, rx in COIN_RULES:
+        if re.search(rx, title, re.I) and ticker not in out:
+            if ticker == "BTC" and re.search(r"\bbitcoin cash\b", title, re.I) and not re.search(r"\bbitcoin\b(?! cash)", title, re.I):
+                continue
+            out.append(ticker)
+    return out[:3]
+
+
+def image_of(it, body):
+    for tag in ("media:content", "media:thumbnail"):
+        for m in it.findall(tag, NS):
+            u = m.get("url")
+            medium = (m.get("medium") or m.get("type") or "image").lower()
+            if u and ("image" in medium) :
+                return u
+    e = it.find("enclosure")
+    if e is not None and (e.get("type") or "image").lower().startswith("image") and e.get("url"):
+        return e.get("url")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', body or "")
+    return m.group(1) if m else None
+
+
+def clean_image(u):
+    u = html.unescape((u or "").strip())
+    if not u.startswith("https://") or len(u) > 600:
+        return None  # https only (ATS); skip data: URIs and tracking pixels
+    if re.search(r"(1x1|pixel|spacer|gravatar|feeds\.feedburner)", u, re.I):
+        return None
+    return u
+
+
 def items_from(source, raw):
     root = ET.fromstring(raw)
     out = []
@@ -86,9 +152,11 @@ def items_from(source, raw):
         title = clean_text(it.findtext("title"))
         link = clean_url(it.findtext("link"))
         desc = it.findtext("description") or it.findtext("content:encoded", namespaces=NS) or ""
+        body = (it.findtext("description") or "") + (it.findtext("content:encoded", namespaces=NS) or "")
         date = parse_date(it.findtext("pubDate") or it.findtext("dc:date", namespaces=NS))
         if title and link and date:
-            out.append(dict(title=title, url=link, description=clean_text(desc, 260), date=date, source=source))
+            out.append(dict(title=title, url=link, description=clean_text(desc, 260), date=date, source=source,
+                            image=clean_image(image_of(it, body))))
     for it in root.iter("{http://www.w3.org/2005/Atom}entry"):
         title = clean_text(it.findtext("atom:title", namespaces=NS))
         l = it.find("atom:link", NS)
@@ -96,7 +164,9 @@ def items_from(source, raw):
         date = parse_date(it.findtext("atom:published", namespaces=NS) or it.findtext("atom:updated", namespaces=NS))
         desc = it.findtext("atom:summary", namespaces=NS) or ""
         if title and link and date:
-            out.append(dict(title=title, url=link, description=clean_text(desc, 260), date=date, source=source))
+            body = desc + (it.findtext("atom:content", namespaces=NS) or "")
+            out.append(dict(title=title, url=link, description=clean_text(desc, 260), date=date, source=source,
+                            image=clean_image(image_of(it, body))))
     return out
 
 
@@ -113,8 +183,18 @@ def to_json_items(items):
             continue
         seen.add(key); seen.add(x["url"])
         ts = x["date"].strftime("%Y-%m-%dT%H:%M:%SZ")
-        res.append({"slug": slugify(x["title"]), "title": x["title"], "description": x["description"],
-                    "published_at": ts, "created_at": ts, "url": x["url"], "source": x["source"]})
+        item = {"slug": slugify(x["title"]), "title": x["title"], "description": x["description"],
+                "published_at": ts, "created_at": ts, "url": x["url"], "source": x["source"]}
+        # optional keys (app 2.1.0 (41)+); omitted rather than null when unknown
+        if x.get("image"):
+            item["image"] = x["image"]
+        cat = category_of(x["title"], x["description"])
+        if cat:
+            item["category"] = cat
+        coins = coins_of(x["title"])
+        if coins:
+            item["coins"] = coins
+        res.append(item)
     return res
 
 
