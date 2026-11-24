@@ -1,6 +1,142 @@
 {
  "results": [
   {
+   "slug": "aave-s-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges",
+   "title": "Aave’s USDC loans surge 36% to $2.6 billion as liquid collateral share plunges",
+   "description": "TokenLogic’s Nov. 17 model leaves roughly 240,000 USDC above the proposed target if queued withdrawals follow historical rates. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-24T02:10:14Z",
+   "created_at": "2026-11-24T02:10:14Z",
+   "url": "https://cryptoslate.com/aaves-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/usdc-backstop-harbor-barrier.webp",
+   "category": "Markets"
+  },
+  {
+   "slug": "xrp-borrowers-face-a-207-500-tipping-point-as-one-vault-dominates-an-8-million-m",
+   "title": "XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million market",
+   "description": "The Ethereum market showed about 1.02 million RLUSD available on Nov. 23, and Sentora’s allocations can affect fresh credit and borrowing rates. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
+   "published_at": "2026-11-24T00:50:30Z",
+   "created_at": "2026-11-24T00:50:30Z",
+   "url": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-market/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/sentora-rlusd-vault-supply.webp",
+   "category": "Markets",
+   "coins": [
+    "XRP"
+   ]
+  },
+  {
+   "slug": "ethereum-foundation-doubles-protocol-security-team-ahead-of-overhaul",
+   "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+   "description": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+   "published_at": "2026-11-24T00:36:26Z",
+   "created_at": "2026-11-24T00:36:26Z",
+   "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul",
+   "source": "Cointelegraph",
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg",
+   "category": "Altcoins",
+   "coins": [
+    "ETH"
+   ]
+  },
+  {
+   "slug": "cftc-staff-say-bitcoin-ether-can-count-toward-derivatives-firms-operating-expens",
+   "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+   "description": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+   "published_at": "2026-11-24T00:33:22Z",
+   "created_at": "2026-11-24T00:33:22Z",
+   "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+   "source": "The Block",
+   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-23-at-7.28.52 PM.png",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-bo",
+   "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+   "description": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+   "published_at": "2026-11-24T00:25:04Z",
+   "created_at": "2026-11-24T00:25:04Z",
+   "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+   "source": "CoinDesk",
+   "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "slug": "solana-price-prediction-2030-is-2-000-sol-still-on-the-table-after-a-75-crash",
+   "title": "Solana Price Prediction 2030: Is $2,000 SOL Still on the Table After a 75% Crash?",
+   "description": "Key takeaways SOL trades near $73, roughly 75% below its January 2025 high of $294, and tracked Binance whale positioning leans bearish (about 20% longs) while around 79% of broader accounts are long. PumpGlass shows a $19.5 million short-liquidation cluster…",
+   "published_at": "2026-11-24T00:08:32Z",
+   "created_at": "2026-11-24T00:08:32Z",
+   "url": "https://www.newsbtc.com/news/solana/solana-price-prediction-2030/",
+   "source": "NewsBTC",
+   "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/Neon-Solana-Paths-at-Dawn-750x422.png",
+   "category": "Markets",
+   "coins": [
+    "SOL"
+   ]
+  },
+  {
+   "slug": "xrp-s-activity-is-recovering-monero-xmr-grows-on-privacy-demand-and-dogecoin-s-d",
+   "title": "XRP's Activity Is Recovering, Monero (XMR) Grows on Privacy Demand and Dogecoin's (DOGE) Price Recovery Attempt: Crypto Market Review",
+   "description": "XRP, Monero and Dogecoin attempt a recovery after a sharp crypto market correction, but weak trading activity and persistent bearish signals raise doubts about the sustainability of the bounce.",
+   "published_at": "2026-11-24T00:01:00Z",
+   "created_at": "2026-11-24T00:01:00Z",
+   "url": "https://u.today/xrps-activity-is-recovering-monero-xmr-grows-on-privacy-demand-and-dogecoins-doge-price-recovery",
+   "source": "U.Today",
+   "category": "Markets",
+   "coins": [
+    "XRP",
+    "DOGE",
+    "XMR"
+   ]
+  },
+  {
+   "slug": "cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+   "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+   "description": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+   "published_at": "2026-11-23T23:43:34Z",
+   "created_at": "2026-11-23T23:43:34Z",
+   "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+   "source": "Cointelegraph",
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "inkling-2-mini-got-20-questions-right-but-failed-4-out-of-5-tests-that-required-",
+   "title": "Inkling 2 Mini got 20 questions right but failed 4 out of 5 tests that required deeper thinking",
+   "description": "Plotly’s hosted benchmark exposed a repeated-query loop, and a separate MacBook test measured the downloadable model’s memory use. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your…",
+   "published_at": "2026-11-23T23:10:36Z",
+   "created_at": "2026-11-23T23:10:36Z",
+   "url": "https://cryptoslate.com/inkling-2-mini-got-20-questions-right-but-failed-4-out-of-5-tests-that-required-deeper-thinking/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/inkling-hidden-pattern-lens.webp"
+  },
+  {
+   "slug": "china-s-z-ai-says-its-new-ai-model-can-think-like-one-four-times-its-size",
+   "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+   "description": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
+   "published_at": "2026-11-23T23:06:02Z",
+   "created_at": "2026-11-23T23:06:02Z",
+   "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+   "source": "Decrypt",
+   "image": "https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-brain-hand-gID_7.png"
+  },
+  {
+   "slug": "south-korea-targets-risky-crypto-transfers-with-stricter-checks-and-mandatory-re",
+   "title": "South Korea Targets Risky Crypto Transfers With Stricter Checks and Mandatory Reporting",
+   "description": "A major regulatory shift in South Korea will require crypto exchanges to verify customers more thoroughly and share transfer details regardless of amount.",
+   "published_at": "2026-11-23T22:52:40Z",
+   "created_at": "2026-11-23T22:52:40Z",
+   "url": "https://cryptopotato.com/south-korea-targets-risky-crypto-transfers-with-stricter-checks-and-mandatory-reporting/",
+   "source": "CryptoPotato",
+   "image": "https://cryptopotato.com/wp-content/uploads/2020/11/south_korea.jpg"
+  },
+  {
    "slug": "grayscale-says-bitcoin-and-major-altcoins-look-oversold-as-ai-risks-cloud-near-t",
    "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
    "description": "Grayscale said bitcoin's drop to about $55,000 on Saturday made the current bear market its longest on record, at least 411 days.",
@@ -60,6 +196,20 @@
    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ai-contest-research-scorecards.webp"
   },
   {
+   "slug": "this-is-an-excellent-entry-point-utxo-s-loren-asmus-gives-bitcoin-outlook",
+   "title": "“This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook",
+   "description": "▶ Bitcoin Magazine “This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook Loren Asmus of UTXO Management says Bitcoin's long-term case is intact after a brutal year for price. This post “This Is An Excellent Entry Point” – UTXO’s Loren…",
+   "published_at": "2026-11-23T21:30:11Z",
+   "created_at": "2026-11-23T21:30:11Z",
+   "url": "https://bitcoinmagazine.com/videos/this-is-an-excellent-entry-point-utxos-loren-asmus-gives-bitcoin-outlook",
+   "source": "Bitcoin Magazine",
+   "image": "https://img.youtube.com/vi/0UTRsMp2t_0/hqdefault.jpg",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
    "slug": "why-one-math-proof-has-ai-experts-warning-humans-might-soon-lose-control",
    "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
    "description": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
@@ -68,6 +218,20 @@
    "url": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
    "source": "Decrypt",
    "image": "https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg"
+  },
+  {
+   "slug": "strive-asst-buys-no-bitcoin-last-week-holdings-stay-at-43-404-btc",
+   "title": "Strive (ASST) Buys No Bitcoin Last Week, Holdings Stay at 43,404 BTC",
+   "description": "Bitcoin Magazine Strive (ASST) Buys No Bitcoin Last Week, Holdings Stay at 43,404 BTC Strive bought no bitcoin and sold no stock last week, leaving holdings at 43,404 BTC, its Monday 8-K shows. ASST shares traded near $15.55. This post Strive (ASST) Buys No…",
+   "published_at": "2026-11-23T21:09:15Z",
+   "created_at": "2026-11-23T21:09:15Z",
+   "url": "https://bitcoinmagazine.com/news/strive-asst-no-bitcoin-purchases-holdings",
+   "source": "Bitcoin Magazine",
+   "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strive-Expands-Bitcoin-Treasury-With-61.4-Million-Purchase-Holdings-Reach-14557-BTC.jpg",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
   },
   {
    "slug": "pump-fun-wallet-migration-raises-private-key-security-concerns",
@@ -89,6 +253,20 @@
    "source": "Cointelegraph",
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png",
    "category": "Bitcoin"
+  },
+  {
+   "slug": "bitcoin-price-fades-near-61-000-as-stocks-soar-on-huang-s-return",
+   "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return",
+   "description": "Bitcoin Magazine Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return The bitcoin price gave back its Nvidia-fueled spike above $64,000 on Monday afternoon, slipping near $61,000 while stocks and crypto shares held big gains. This post Bitcoin…",
+   "published_at": "2026-11-23T20:58:21Z",
+   "created_at": "2026-11-23T20:58:21Z",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
+   "source": "Bitcoin Magazine",
+   "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Holds-Near-75800-After-Hot-October-Jobs-Report.jpg",
+   "category": "Markets",
+   "coins": [
+    "BTC"
+   ]
   },
   {
    "slug": "kalshi-secures-temporary-win-in-new-york-gambling-law-dispute",
@@ -124,6 +302,20 @@
    "source": "CryptoSlate",
    "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-kraken-cargo-transfer.webp",
    "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
+   "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch",
+   "description": "▶ Bitcoin Magazine Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch Sean Hagan revisits the Bitcoin-in-gold chart BMTV first ran in late September, when one Bitcoin bought about 19. This post Bitcoin-Gold Ratio Signals Potential Bottom: What to…",
+   "published_at": "2026-11-23T20:30:12Z",
+   "created_at": "2026-11-23T20:30:12Z",
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
+   "source": "Bitcoin Magazine",
+   "image": "https://img.youtube.com/vi/Qseds_vaT-I/hqdefault.jpg",
+   "category": "Markets",
    "coins": [
     "BTC"
    ]
@@ -209,6 +401,20 @@
    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84X25GWYAAE3AGR265PESJB/hi-how-to-buy-usdc-on-the-base-network.png"
   },
   {
+   "slug": "grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
+   "title": "Grant Cardone: Bitcoin to 5x – MSTR So Cheap “You Have to Buy it”",
+   "description": "▶ Bitcoin Magazine Grant Cardone: Bitcoin to 5x – MSTR So Cheap “You Have to Buy it” Grant Cardone says Michael Saylor \"is hated, frankly, by the Bitcoin community that needs him,\" and predicts Saylor will be proven one of the smartest individual thinkers…",
+   "published_at": "2026-11-23T19:15:17Z",
+   "created_at": "2026-11-23T19:15:17Z",
+   "url": "https://bitcoinmagazine.com/videos/grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
+   "source": "Bitcoin Magazine",
+   "image": "https://img.youtube.com/vi/6VpzmMy5Jv8/hqdefault.jpg",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
    "slug": "monad-faces-190-million-insider-token-unlock-larger-than-its-market-cap-as-mon-h",
    "title": "Monad faces $190 million insider token unlock larger than its market cap as MON hits record low",
    "description": "About 2.30 billion MON would account for a tenth of voting power if it entered active stake and existing balances stayed fixed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
@@ -242,6 +448,20 @@
    "category": "Markets"
   },
   {
+   "slug": "bitdeer-sells-all-281-bitcoin-it-mined-last-week-holds-none",
+   "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
+   "description": "Bitcoin Magazine Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None Bitdeer mined 281.1 BTC last week and sold all of it, leaving the miner with no bitcoin of its own as of Nov. 20 while American Bitcoin borrows against its reserve instead. This…",
+   "published_at": "2026-11-23T18:30:00Z",
+   "created_at": "2026-11-23T18:30:00Z",
+   "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
+   "source": "Bitcoin Magazine",
+   "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Bitdeer-BTDR-Dumps-Bitcoin-Treasury-After-Eight-Week-Drawdown-Holds-Zero-BTC.jpg",
+   "category": "Mining",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
    "slug": "bitcoin-at-10-000-mike-mcglone-warns-the-everything-bubble-could-be-about-to-bur",
    "title": "Bitcoin at $10,000? Mike McGlone Warns the Everything Bubble Could Be About to Burst",
    "description": "Mike McGlone thinks Bitcoin's $10,000 level could become reality as fading liquidity exposes years of speculative market excess.",
@@ -264,6 +484,20 @@
    "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
    "source": "CoinDesk",
    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c6baa6823c28467fc75fe889e204ecc283367d0-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip"
+  },
+  {
+   "slug": "bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market",
+   "title": "Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?",
+   "description": "▶ Bitcoin Magazine Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market? Ryan Rasmussen, Head of Research at Bitwise, joins Bitcoin Magazine TV as stocks and Bitcoin bounce on Jensen Huang's return to Nvidia. This post Bitwise Head of…",
+   "published_at": "2026-11-23T18:21:13Z",
+   "created_at": "2026-11-23T18:21:13Z",
+   "url": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market",
+   "source": "Bitcoin Magazine",
+   "image": "https://img.youtube.com/vi/HlQZx4IROgE/hqdefault.jpg",
+   "category": "Markets",
+   "coins": [
+    "BTC"
+   ]
   },
   {
    "slug": "solo-bitcoin-miner-scores-again-hitting-191-000-jackpot-against-the-odds",
@@ -382,6 +616,20 @@
    "category": "Markets"
   },
   {
+   "slug": "solo-bitcoin-miner-wins-191-000-block-reward-with-just-11-th-s",
+   "title": "Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s",
+   "description": "Bitcoin Magazine Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s A solo miner with about 11.1 TH/s found Bitcoin block 977,057 through CKpool, collecting 3.1287 BTC. The CKpool developer put the odds at about 1 in 1,650 a year. This post Solo…",
+   "published_at": "2026-11-23T17:25:00Z",
+   "created_at": "2026-11-23T17:25:00Z",
+   "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
+   "source": "Bitcoin Magazine",
+   "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Benchmark-Raises-Hut-8-Price-Target-After-Bitcoin-Miner-Signs-9.8-Billion-AI-Data-Center-Deal.jpg",
+   "category": "Mining",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
    "slug": "trump-linked-american-bitcoin-secures-150m-falconx-credit-line-backed-by-btc",
    "title": "Trump-Linked American Bitcoin Secures $150M FalconX Credit Line Backed by BTC",
    "description": "American Bitcoin, the cryptocurrency mining company co-founded by Eric Trump, has secured a $150 million revolving credit facility from digital asset brokerage FalconX, allowing it to access capital without immediately selling its Bitcoin holdings or issuing…",
@@ -406,59 +654,6 @@
    "image": "https://cryptopotato.com/wp-content/uploads/2025/04/Trump_Dinner-1.jpg"
   },
   {
-   "slug": "jensen-huang-s-nvidia-comeback-sparks-1-trillion-rally-and-12-million-polymarket",
-   "title": "Jensen Huang’s NVIDIA comeback sparks $1 trillion rally and $12 million Polymarket frenzy",
-   "description": "The board said its independent investigation would continue, and Polymarket’s November return contract reached 99.3% in CryptoSlate’s snapshot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The…",
-   "published_at": "2026-11-23T17:10:09Z",
-   "created_at": "2026-11-23T17:10:09Z",
-   "url": "https://cryptoslate.com/jensen-huangs-nvidia-comeback-sparks-1-trillion-rally-and-12-million-polymarket-frenzy/",
-   "source": "CryptoSlate",
-   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/jensen-huang-nvidia-return.webp",
-   "category": "Markets"
-  },
-  {
-   "slug": "bitcoin-rebounds-17-from-55k-lows-as-nvidia-rally-sparks-500m-crypto-liquidation",
-   "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-   "description": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.",
-   "published_at": "2026-11-23T16:51:17Z",
-   "created_at": "2026-11-23T16:51:17Z",
-   "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations",
-   "source": "Cointelegraph",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "tom-lee-says-ethereum-is-as-scarce-as-bitcoin-and-bitmine-just-bought-more",
-   "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-   "description": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
-   "published_at": "2026-11-23T16:46:03Z",
-   "created_at": "2026-11-23T16:46:03Z",
-   "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-   "source": "Decrypt",
-   "image": "https://cdn.decrypt.co/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC",
-    "ETH"
-   ]
-  },
-  {
-   "slug": "xrp-briefly-tops-1-as-short-squeeze-hits-578-liquidation-imbalance",
-   "title": "XRP Briefly Tops $1 as Short Squeeze Hits 578% Liquidation Imbalance",
-   "description": "XRP shot above $1 within minutes of Jensen Huang's return to Nvidia, as short sellers were liquidated at nearly seven times the rate of buyers.",
-   "published_at": "2026-11-23T16:45:50Z",
-   "created_at": "2026-11-23T16:45:50Z",
-   "url": "https://u.today/xrp-briefly-tops-1-as-short-squeeze-hits-578-liquidation-imbalance",
-   "source": "U.Today",
-   "category": "Markets",
-   "coins": [
-    "XRP"
-   ]
-  },
-  {
    "slug": "more-than-2-billion-rushed-out-of-sky-s-stablecoin-in-a-single-day",
    "title": "More than $2 billion rushed out of Sky’s stablecoin in a single day",
    "description": "An Obex debt repayment helped refill the shared pool after Sky’s Ethereum reserve lost two-thirds of its USDC in hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
@@ -470,203 +665,15 @@
    "category": "Mining"
   },
   {
-   "slug": "cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
-   "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
-   "description": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
-   "published_at": "2026-11-23T16:39:03Z",
-   "created_at": "2026-11-23T16:39:03Z",
-   "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
-   "source": "CoinDesk",
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "category": "Markets"
-  },
-  {
-   "slug": "bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huang-s-return",
-   "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-   "description": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
-   "published_at": "2026-11-23T16:32:04Z",
-   "created_at": "2026-11-23T16:32:04Z",
-   "url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-   "source": "Decrypt",
-   "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "bitmine-bought-fewer-than-8-000-eth-a-week-as-ether-crashed-to-1-535",
-   "title": "BitMine Bought Fewer Than 8,000 ETH a Week as Ether Crashed to $1,535",
-   "description": "Lee likened ether's slide to its drop before SpaceX's June IPO, when BitMine bought 126,971 ETH in a single week at $1,630.",
-   "published_at": "2026-11-23T16:26:42Z",
-   "created_at": "2026-11-23T16:26:42Z",
-   "url": "https://cryptopotato.com/bitmine-bought-fewer-than-8000-eth-a-week-as-ether-crashed-to-1535/",
-   "source": "CryptoPotato",
-   "image": "https://cryptopotato.com/wp-content/uploads/2026/05/BitMine.jpg",
-   "category": "Markets",
-   "coins": [
-    "ETH"
-   ]
-  },
-  {
-   "slug": "researchers-warn-72b-in-eth-faces-future-quantum-risk",
-   "title": "Researchers Warn $72B in ETH Faces Future Quantum Risk",
-   "description": "Approximately 42 million ETH, worth an estimated $72 billion, could become vulnerable to future quantum-computing attacks because the public keys associated with the wallets holding those assets have already been exposed on the Ethereum blockchain as…",
-   "published_at": "2026-11-23T16:26:28Z",
-   "created_at": "2026-11-23T16:26:28Z",
-   "url": "https://bitcoinist.com/researchers-warn-72b-in-eth-faces-future-quantum-risk/",
-   "source": "Bitcoinist",
-   "image": "https://bitcoinist.com/wp-content/uploads/2026/11/Ethereum-Quantum-Warning-640x360.webp",
-   "category": "Altcoins",
-   "coins": [
-    "ETH"
-   ]
-  },
-  {
-   "slug": "bitcoin-bloodbath-fails-to-stop-michael-saylor-s-buying-spree",
-   "title": "Bitcoin Bloodbath Fails to Stop Michael Saylor's Buying Spree",
-   "description": "Michael Saylor’s Strategy is refusing to back down amid the brutal Bitcoin crash, snapping up another 457 BTC for $29.6 million even as its massive holdings remain billions of dollars underwater.",
-   "published_at": "2026-11-23T16:26:15Z",
-   "created_at": "2026-11-23T16:26:15Z",
-   "url": "https://u.today/bitcoin-bloodbath-fails-to-stop-michael-saylors-buying-spree",
-   "source": "U.Today",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "cross-river-bank-enters-bitcoin-backed-lending-with-250k-loans",
-   "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-   "description": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
-   "published_at": "2026-11-23T16:23:37Z",
-   "created_at": "2026-11-23T16:23:37Z",
-   "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans",
-   "source": "Cointelegraph",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "okx-and-ice-launch-tokenized-stock-platform-despite-objections-from-67-companies",
-   "title": "OKX and ICE Launch Tokenized Stock Platform Despite Objections From 67 Companies",
-   "description": "Crypto exchange OKX and ICE launch a new platform for trading tokenized US securities, moving ahead with plans to introduce 113 assets despite opposition from dozens of publicly traded companies. The OKXICE venture opened its trading venue on November 23…",
-   "published_at": "2026-11-23T16:13:44Z",
-   "created_at": "2026-11-23T16:13:44Z",
-   "url": "https://bitcoinist.com/okx-and-ice-launch-tokenized-stock-platform-despite-objections-from-67-companies/",
-   "source": "Bitcoinist",
-   "image": "https://bitcoinist.com/wp-content/uploads/2026/11/Tokenized-Stocks-on-the-Exchange-640x360.webp",
-   "category": "Markets"
-  },
-  {
-   "slug": "ethereum-reclaims-1700-after-rebound-as-etf-outflows-weigh-on-recovery",
-   "title": "Ethereum Reclaims $1700 After Rebound as ETF Outflows Weigh on Recovery",
-   "description": "Ethereum reclaims $1700 after staging a notable recovery from falling toward $1,540 over the weekend, climbing as high as $1,845 on November 23 before retreating below a key resistance level. The rebound has brought ETH back above $1,700, but persistent…",
-   "published_at": "2026-11-23T16:03:01Z",
-   "created_at": "2026-11-23T16:03:01Z",
-   "url": "https://bitcoinist.com/ethereum-reclaims-1700-after-rebound-as-etf-outflows-weigh-on-recovery/",
-   "source": "Bitcoinist",
-   "image": "https://bitcoinist.com/wp-content/uploads/2026/11/Ethereum-ETF-Market-Volatility-640x360.webp",
-   "category": "Markets",
-   "coins": [
-    "ETH"
-   ]
-  },
-  {
-   "slug": "vvv-soars-30-weekly-is-this-ai-crypto-just-getting-started",
-   "title": "VVV Soars 30% Weekly: Is This AI Crypto Just Getting Started?",
-   "description": "Michael van de Poppe thinks VVV could ultimately climb to $44.",
-   "published_at": "2026-11-23T16:00:05Z",
-   "created_at": "2026-11-23T16:00:05Z",
-   "url": "https://cryptopotato.com/vvv-soars-30-weekly-is-this-ai-crypto-just-getting-started/",
-   "source": "CryptoPotato",
-   "image": "https://cryptopotato.com/wp-content/uploads/2026/09/VVV_CB.jpg"
-  },
-  {
-   "slug": "how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale",
-   "title": "How market depth shapes the price of a weekend Bitcoin sale",
-   "description": "Over 14 hours, Bitcoin traded on Kraken’s Canadian dollar market at an average 37.3% discount to a benchmark based on the exchange’s US dollar trades.",
-   "published_at": "2026-11-23T15:57:55Z",
-   "created_at": "2026-11-23T15:57:55Z",
-   "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale",
-   "source": "Cointelegraph",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84G01VVAQ9V84G4EW1A47S6/canada-biman.jpg",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "peter-brandt-softens-bitcoin-btc-warning-as-price-rebounds-to-63-000",
-   "title": "Peter Brandt Softens Bitcoin (BTC) Warning as Price Rebounds to $63,000",
-   "description": "A week after warning Bitcoin may never top its record, Peter Brandt says BTC held \"exactly where it had to\" at $55,150, and maybe for longer than now.",
-   "published_at": "2026-11-23T15:51:20Z",
-   "created_at": "2026-11-23T15:51:20Z",
-   "url": "https://u.today/peter-brandt-softens-bitcoin-btc-warning-as-price-rebounds-to-63000",
-   "source": "U.Today",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "nvidia-reinstates-jensen-huang-as-bitcoin-rally-sparks-372m-short-squeeze",
-   "title": "Nvidia Reinstates Jensen Huang as Bitcoin Rally Sparks $372M Short Squeeze",
-   "description": "Bitcoin rallied above $64,000 on Monday after Nvidia reinstates Jensen Huang as president and CEO, reversing a leadership crisis that had weighed on technology stocks and broader market sentiment. BTC climbed more than 4% in approximately one hour, reaching…",
-   "published_at": "2026-11-23T15:48:01Z",
-   "created_at": "2026-11-23T15:48:01Z",
-   "url": "https://bitcoinist.com/nvidia-reinstates-jensen-huang-as-bitcoin-rally-sparks-372m-short-squeeze/",
-   "source": "Bitcoinist",
-   "image": "https://bitcoinist.com/wp-content/uploads/2026/11/NVIDIA-and-Bitcoin-Market-Rally-1-640x360.webp",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "solana-flips-bitcoin-and-xrp-in-weekly-etf-performance",
-   "title": "Solana Flips Bitcoin and XRP in Weekly ETF Performance",
-   "description": "Solana has posted the only net ETF inflow seen in the last week as Bitcoin, Ethereum and XRP saw substantial withdrawals throughout the week.",
-   "published_at": "2026-11-23T15:43:02Z",
-   "created_at": "2026-11-23T15:43:02Z",
-   "url": "https://u.today/solana-flips-bitcoin-and-xrp-in-weekly-etf-performance",
-   "source": "U.Today",
-   "category": "Markets",
-   "coins": [
-    "BTC",
-    "SOL",
-    "XRP"
-   ]
-  },
-  {
-   "slug": "ripple-price-analysis-xrp-tests-key-resistance-following-the-sell-off",
-   "title": "Ripple Price Analysis: XRP Tests Key Resistance Following the Sell-Off",
-   "description": "XRP is attempting a recovery after briefly dropping toward $0.87 last week, its lowest level since late 2024. Trading around $0.99, the asset is now retesting the psychological $1.00 level from below. Whether buyers can reclaim it could decide if the recent…",
-   "published_at": "2026-11-23T15:35:35Z",
-   "created_at": "2026-11-23T15:35:35Z",
-   "url": "https://cryptopotato.com/ripple-price-analysis-xrp-tests-key-resistance-following-the-sell-off/",
-   "source": "CryptoPotato",
-   "image": "https://cryptopotato.com/wp-content/uploads/2026/11/XRP-D-2-1-scaled.jpg",
-   "category": "Markets",
-   "coins": [
-    "XRP"
-   ]
-  },
-  {
-   "slug": "defi-development-extends-solana-buying-streak-to-11-straight-weeks-sol-treasury-",
-   "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
-   "description": "DeFi Development added about 5,180 SOL, lifting its Solana treasury to 2.62 million SOL in its 11th straight week of buying since Sept. 14.",
-   "published_at": "2026-11-23T15:34:51Z",
-   "created_at": "2026-11-23T15:34:51Z",
-   "url": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
-   "source": "The Block",
-   "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/guerrillabuzz-mBn1XzGRe9k-unsplash-scaled.jpg",
-   "category": "Markets",
-   "coins": [
-    "SOL"
-   ]
+   "slug": "nvidia-soars-as-huang-returns-lifting-stocks-and-crypto-shares",
+   "title": "Nvidia Soars as Huang Returns, Lifting Stocks and Crypto Shares",
+   "description": "Bitcoin Magazine Nvidia Soars as Huang Returns, Lifting Stocks and Crypto Shares Nvidia shares jumped about 35% on Monday after the board reinstated Jensen Huang as CEO, lifting the Nasdaq, chip stocks, bitcoin, Coinbase, Strategy and miners. This post Nvidia…",
+   "published_at": "2026-11-23T15:50:22Z",
+   "created_at": "2026-11-23T15:50:22Z",
+   "url": "https://bitcoinmagazine.com/markets/nvidia-soars-huang-returns-crypto",
+   "source": "Bitcoin Magazine",
+   "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Nvidia-Soars-as-Huang-Returns-Lifting-Stocks-and-Crypto-Shares.jpg",
+   "category": "Mining"
   },
   {
    "slug": "eric-trump-backed-american-bitcoin-secures-150-million-loan-against-its-bitcoin",
@@ -723,18 +730,7 @@
    "coins": [
     "BTC"
    ]
-  },
-  {
-   "slug": "november-23-2026",
-   "title": "November 23, 2026",
-   "description": "Latest weekly ASIC closing prices",
-   "published_at": "2026-11-23T10:00:00Z",
-   "created_at": "2026-11-23T10:00:00Z",
-   "url": "https://hashrateindex.com/blog/latest-weekly-asic-closing-prices/",
-   "source": "Hashrate Index",
-   "image": "https://storage.ghost.io/c/5f/b9/5fb98cf7-67da-41b5-a184-b1b39752525f/content/images/2025/07/IMG_6469-1.png",
-   "category": "Mining"
   }
  ],
- "updatedAt": "2026-11-23T22:31:18Z"
+ "updatedAt": "2026-11-24T02:53:16Z"
 }
