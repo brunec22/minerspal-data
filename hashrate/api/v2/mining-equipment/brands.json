@@ -1,0 +1,144 @@
+[
+ {
+  "key": "bitmain",
+  "names": [
+   "Bitmain",
+   "Antminer"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/bitmain.png",
+  "source": "Wikimedia Commons File:Bitmain.svg"
+ },
+ {
+  "key": "microbt",
+  "names": [
+   "MicroBT",
+   "WhatsMiner"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/microbt.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/microbt)"
+ },
+ {
+  "key": "bitdeer",
+  "names": [
+   "Bitdeer",
+   "SealMiner"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/bitdeer.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/bitdeer)"
+ },
+ {
+  "key": "canaan",
+  "names": [
+   "Canaan",
+   "Avalon"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/canaan.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/canaan)"
+ },
+ {
+  "key": "elphapex",
+  "names": [
+   "ElphaPex"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/elphapex.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/elphapex)"
+ },
+ {
+  "key": "volcminer",
+  "names": [
+   "VolcMiner"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/volcminer.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/volcminer)"
+ },
+ {
+  "key": "goldshell",
+  "names": [
+   "Goldshell"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/goldshell.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/goldshell); matches the official goldshell.com header logo"
+ },
+ {
+  "key": "fluminer",
+  "names": [
+   "Fluminer"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/fluminer.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/fluminer)"
+ },
+ {
+  "key": "iceriver",
+  "names": [
+   "IceRiver"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/iceriver.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/iceriver)"
+ },
+ {
+  "key": "jasminer",
+  "names": [
+   "Jasminer"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/jasminer.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/jasminer)"
+ },
+ {
+  "key": "ipollo",
+  "names": [
+   "iPollo"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/ipollo.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/ipollo)"
+ },
+ {
+  "key": "bombax",
+  "names": [
+   "Bombax Miner",
+   "Bombax"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/bombax.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/bombax-miner)"
+ },
+ {
+  "key": "ibelink",
+  "names": [
+   "iBeLink"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/ibelink.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/ibelink)"
+ },
+ {
+  "key": "auradine",
+  "names": [
+   "Auradine"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/auradine.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/auradine)"
+ },
+ {
+  "key": "dragonball",
+  "names": [
+   "DragonBall Miner",
+   "DragonBall"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/dragonball.png",
+  "source": "ASIC Miner Value brand logo (asicminervalue.com/miners/dragonball-miner)"
+ },
+ {
+  "key": "nvidia",
+  "names": [
+   "NVIDIA"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/nvidia.png",
+  "source": "Wikimedia Commons File:NVIDIA logo.svg"
+ },
+ {
+  "key": "amd",
+  "names": [
+   "AMD"
+  ],
+  "logoUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/brands/amd.png",
+  "source": "Wikimedia Commons File:AMD Logo.svg"
+ }
+]

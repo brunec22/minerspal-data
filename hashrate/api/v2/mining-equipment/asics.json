@@ -13,7 +13,7 @@
    }
   ],
   "price": 7000.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/8b75979b-c712-519d-89a5-1b9aee51841f.webp"
  },
  {
   "id": "ef5a9e27-da68-5ea2-a56c-9b02b5a56bcb",
@@ -29,7 +29,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/ef5a9e27-da68-5ea2-a56c-9b02b5a56bcb.webp"
  },
  {
   "id": "d19e0782-91fb-5f95-97ad-8aeec19432f8",
@@ -45,7 +45,7 @@
    }
   ],
   "price": 15550.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/d19e0782-91fb-5f95-97ad-8aeec19432f8.webp"
  },
  {
   "id": "11a9ed3e-f0eb-501b-a3a1-e984c0b1c5f9",
@@ -61,7 +61,7 @@
    }
   ],
   "price": 7920.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/11a9ed3e-f0eb-501b-a3a1-e984c0b1c5f9.webp"
  },
  {
   "id": "2525261f-8474-5a3b-b7b2-ac2ae0f09ab7",
@@ -77,7 +77,7 @@
    }
   ],
   "price": 6399.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/2525261f-8474-5a3b-b7b2-ac2ae0f09ab7.webp"
  },
  {
   "id": "4a97dd99-a690-52d3-86ac-4f5b154a197e",
@@ -93,7 +93,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/4a97dd99-a690-52d3-86ac-4f5b154a197e.webp"
  },
  {
   "id": "9759db40-16c1-5f6b-95cc-7c0c84e1dfb1",
@@ -109,7 +109,7 @@
    }
   ],
   "price": 9000.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/9759db40-16c1-5f6b-95cc-7c0c84e1dfb1.webp"
  },
  {
   "id": "905ddae9-6836-5383-8a39-61980b6f7a8a",
@@ -141,7 +141,7 @@
    }
   ],
   "price": 9999.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/8e9e663e-8277-56c9-acee-eca14629adca.webp"
  },
  {
   "id": "eecc2b3d-e5de-5478-b0a8-a49c3498d6d8",
@@ -157,7 +157,7 @@
    }
   ],
   "price": 9239.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/eecc2b3d-e5de-5478-b0a8-a49c3498d6d8.webp"
  },
  {
   "id": "cff8ccd7-7655-52a8-a8b6-c3a3e35c652b",
@@ -173,7 +173,7 @@
    }
   ],
   "price": 6750.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/cff8ccd7-7655-52a8-a8b6-c3a3e35c652b.webp"
  },
  {
   "id": "8edc8913-c7a6-5998-886a-09a8a7617a93",
@@ -189,7 +189,7 @@
    }
   ],
   "price": 7300.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/8edc8913-c7a6-5998-886a-09a8a7617a93.webp"
  },
  {
   "id": "571683d9-0eef-5be3-9108-990a933d5980",
@@ -205,7 +205,7 @@
    }
   ],
   "price": 9865.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/571683d9-0eef-5be3-9108-990a933d5980.webp"
  },
  {
   "id": "4ad97aba-cc05-5055-be3e-39344d40fb6f",
@@ -221,7 +221,7 @@
    }
   ],
   "price": 4200.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/4ad97aba-cc05-5055-be3e-39344d40fb6f.webp"
  },
  {
   "id": "d09e5dff-d84c-55c9-bb94-a04b059f86dd",
@@ -237,7 +237,7 @@
    }
   ],
   "price": 7894.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/d09e5dff-d84c-55c9-bb94-a04b059f86dd.webp"
  },
  {
   "id": "8fd087fb-d69d-58b9-8bc8-27e75c3ca6bb",
@@ -253,7 +253,7 @@
    }
   ],
   "price": 7210.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/8fd087fb-d69d-58b9-8bc8-27e75c3ca6bb.webp"
  },
  {
   "id": "7190a602-8c60-58ac-b15f-e6c1c056593b",
@@ -269,7 +269,7 @@
    }
   ],
   "price": 5729.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/7190a602-8c60-58ac-b15f-e6c1c056593b.webp"
  },
  {
   "id": "5ac82a44-ae65-565e-8b4b-5d0c328b9280",
@@ -285,7 +285,7 @@
    }
   ],
   "price": 4230.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/5ac82a44-ae65-565e-8b4b-5d0c328b9280.webp"
  },
  {
   "id": "fd4f5cd1-6f4f-573c-a8b6-7fbecca014ef",
@@ -301,7 +301,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/fd4f5cd1-6f4f-573c-a8b6-7fbecca014ef.webp"
  },
  {
   "id": "d994b7a3-9173-53bf-ae91-fa7b358e5999",
@@ -317,7 +317,7 @@
    }
   ],
   "price": 3850.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/d994b7a3-9173-53bf-ae91-fa7b358e5999.webp"
  },
  {
   "id": "bd66250c-4f34-5d71-96a5-48bab582104a",
@@ -333,7 +333,7 @@
    }
   ],
   "price": 28754.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/bd66250c-4f34-5d71-96a5-48bab582104a.webp"
  },
  {
   "id": "368b509d-0b9a-52bf-8120-95a85cfa7c67",
@@ -349,7 +349,7 @@
    }
   ],
   "price": 13690.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/368b509d-0b9a-52bf-8120-95a85cfa7c67.webp"
  },
  {
   "id": "41df277f-2cc6-5108-893c-5e21d413fbee",
@@ -365,7 +365,7 @@
    }
   ],
   "price": 8717.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/41df277f-2cc6-5108-893c-5e21d413fbee.webp"
  },
  {
   "id": "5b3461b2-f261-5d52-9f3e-994a604b2f4c",
@@ -381,7 +381,7 @@
    }
   ],
   "price": 11096.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/5b3461b2-f261-5d52-9f3e-994a604b2f4c.webp"
  },
  {
   "id": "fb3ec2fe-6d5c-520c-8e47-36a8a62e4804",
@@ -397,7 +397,7 @@
    }
   ],
   "price": 3990.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/fb3ec2fe-6d5c-520c-8e47-36a8a62e4804.webp"
  },
  {
   "id": "1f79189f-cc59-5610-8112-1654031bc56c",
@@ -413,7 +413,7 @@
    }
   ],
   "price": 3958.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/1f79189f-cc59-5610-8112-1654031bc56c.webp"
  },
  {
   "id": "22622eea-99a2-5ceb-b269-5ad1e97c3b51",
@@ -429,7 +429,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/22622eea-99a2-5ceb-b269-5ad1e97c3b51.webp"
  },
  {
   "id": "d28b6ed5-ac66-5e0e-99f4-5de5da03195f",
@@ -445,7 +445,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/d28b6ed5-ac66-5e0e-99f4-5de5da03195f.webp"
  },
  {
   "id": "594feb4c-640b-52ef-80f9-4b79c59b3472",
@@ -461,7 +461,7 @@
    }
   ],
   "price": 2995.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/594feb4c-640b-52ef-80f9-4b79c59b3472.webp"
  },
  {
   "id": "0724c46c-c0df-5e7e-acf3-431dfe3c5286",
@@ -477,7 +477,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/0724c46c-c0df-5e7e-acf3-431dfe3c5286.webp"
  },
  {
   "id": "f35b6aa3-b34a-5644-b664-421f3d7236c9",
@@ -493,7 +493,7 @@
    }
   ],
   "price": 8699.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/f35b6aa3-b34a-5644-b664-421f3d7236c9.webp"
  },
  {
   "id": "e5637978-615b-5229-a59c-10d1af0ef385",
@@ -509,7 +509,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/e5637978-615b-5229-a59c-10d1af0ef385.webp"
  },
  {
   "id": "bdce66fe-af96-5184-a58e-c4af7c2d6e66",
@@ -525,7 +525,7 @@
    }
   ],
   "price": 5600.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/bdce66fe-af96-5184-a58e-c4af7c2d6e66.webp"
  },
  {
   "id": "6f0aac69-d218-51eb-a135-239f6369b126",
@@ -541,7 +541,7 @@
    }
   ],
   "price": 6866.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/6f0aac69-d218-51eb-a135-239f6369b126.webp"
  },
  {
   "id": "472dcbb7-19d4-58ad-9363-2456f5dfea3d",
@@ -557,7 +557,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/472dcbb7-19d4-58ad-9363-2456f5dfea3d.webp"
  },
  {
   "id": "2a383e12-5bef-5358-82bc-380cb7ad22e5",
@@ -573,7 +573,7 @@
    }
   ],
   "price": 5555.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/2a383e12-5bef-5358-82bc-380cb7ad22e5.webp"
  },
  {
   "id": "e172532d-d826-50cc-9cc3-bd6304acdee9",
@@ -589,7 +589,7 @@
    }
   ],
   "price": 11289.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/e172532d-d826-50cc-9cc3-bd6304acdee9.webp"
  },
  {
   "id": "fef05187-c62e-55d1-8163-294033e3bfdf",
@@ -605,7 +605,7 @@
    }
   ],
   "price": 629.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/fef05187-c62e-55d1-8163-294033e3bfdf.webp"
  },
  {
   "id": "000236c5-3e1b-582c-a7fc-f6b428c50b9d",
@@ -621,7 +621,7 @@
    }
   ],
   "price": 1226.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/000236c5-3e1b-582c-a7fc-f6b428c50b9d.webp"
  },
  {
   "id": "82684270-565b-5e01-abea-d4872c8d0fb9",
@@ -637,7 +637,7 @@
    }
   ],
   "price": 269.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/82684270-565b-5e01-abea-d4872c8d0fb9.webp"
  },
  {
   "id": "923509ad-2102-5dc2-ac5e-b9b07e3d5e70",
@@ -653,7 +653,7 @@
    }
   ],
   "price": 10190.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/923509ad-2102-5dc2-ac5e-b9b07e3d5e70.webp"
  },
  {
   "id": "199bfb04-ad3c-5250-955c-df51da86487a",
@@ -669,7 +669,7 @@
    }
   ],
   "price": 4490.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/199bfb04-ad3c-5250-955c-df51da86487a.webp"
  },
  {
   "id": "a2d46c39-2161-57c6-a2f2-de5203c62e56",
@@ -685,7 +685,7 @@
    }
   ],
   "price": 7199.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/a2d46c39-2161-57c6-a2f2-de5203c62e56.webp"
  },
  {
   "id": "f9b8e14f-cb5c-545a-b1e6-e4ccb467a5af",
@@ -701,7 +701,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/f9b8e14f-cb5c-545a-b1e6-e4ccb467a5af.webp"
  },
  {
   "id": "f1bd7cc9-9f5b-50ff-b9e6-8675994e606e",
@@ -717,7 +717,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/f1bd7cc9-9f5b-50ff-b9e6-8675994e606e.webp"
  },
  {
   "id": "ccc4a292-4d36-543c-b8f3-af0e0301cb07",
@@ -733,7 +733,7 @@
    }
   ],
   "price": 1649.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/ccc4a292-4d36-543c-b8f3-af0e0301cb07.webp"
  },
  {
   "id": "0066b9ed-b1c5-54a9-badc-deffcf0c7ea8",
@@ -749,7 +749,7 @@
    }
   ],
   "price": 2699.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/0066b9ed-b1c5-54a9-badc-deffcf0c7ea8.webp"
  },
  {
   "id": "4fdb41ec-8ee2-5544-9a24-eac226d39bba",
@@ -765,7 +765,7 @@
    }
   ],
   "price": 9134.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/4fdb41ec-8ee2-5544-9a24-eac226d39bba.webp"
  },
  {
   "id": "b19fb30e-7cd5-5a05-9894-af37fe0bf3f6",
@@ -781,7 +781,7 @@
    }
   ],
   "price": 2800.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/b19fb30e-7cd5-5a05-9894-af37fe0bf3f6.webp"
  },
  {
   "id": "26c59cb2-b2ad-5c3b-a3c4-98c8bb3f9213",
@@ -797,7 +797,7 @@
    }
   ],
   "price": 1589.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/26c59cb2-b2ad-5c3b-a3c4-98c8bb3f9213.webp"
  },
  {
   "id": "6c99dc9a-76e7-425c-86d5-d634b1dd38d8",
@@ -813,7 +813,7 @@
    }
   ],
   "price": 15059,
-  "imageUrl": "https://file.bitmain.com/shop-image-storage/product/2023/09/27/13/0a499ee7-84e0-4d26-b1b6-47123571ab4d_540.jpg"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/6c99dc9a-76e7-425c-86d5-d634b1dd38d8.webp"
  },
  {
   "id": "537ff9f7-96ab-5dfe-872c-286eab96522a",
@@ -829,7 +829,7 @@
    }
   ],
   "price": 800.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/537ff9f7-96ab-5dfe-872c-286eab96522a.webp"
  },
  {
   "id": "9a4737c7-d018-5e53-ba43-d7130184f2c4",
@@ -845,7 +845,7 @@
    }
   ],
   "price": 1210.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/9a4737c7-d018-5e53-ba43-d7130184f2c4.webp"
  },
  {
   "id": "9f1489b5-9044-5342-96b3-1ec1e3ba6c54",
@@ -861,7 +861,7 @@
    }
   ],
   "price": 4680.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/9f1489b5-9044-5342-96b3-1ec1e3ba6c54.webp"
  },
  {
   "id": "94283721-cdf4-496f-8bf0-f1b5b1b3ff10",
@@ -893,7 +893,7 @@
    }
   ],
   "price": 399.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/15e18e0d-5417-5330-8be1-4da8e1890021.webp"
  },
  {
   "id": "79973033-8671-5a05-a188-7edf12d36bc8",
@@ -909,7 +909,7 @@
    }
   ],
   "price": 2453.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/79973033-8671-5a05-a188-7edf12d36bc8.webp"
  },
  {
   "id": "6f6e36d5-a799-56a8-b95d-807528c86526",
@@ -925,7 +925,7 @@
    }
   ],
   "price": 12000.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/6f6e36d5-a799-56a8-b95d-807528c86526.webp"
  },
  {
   "id": "44027a9f-cf59-5bf5-b83e-8bfacfab816a",
@@ -941,7 +941,7 @@
    }
   ],
   "price": 1409.0,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/44027a9f-cf59-5bf5-b83e-8bfacfab816a.webp"
  },
  {
   "id": "cbc3dd55-b592-4605-8e5d-78c07c4878f6",
@@ -957,7 +957,7 @@
    }
   ],
   "price": 1869,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/cbc3dd55-b592-4605-8e5d-78c07c4878f6.webp"
  },
  {
   "id": "28a1fee2-bccb-4afe-a8e1-03db387d2454",
@@ -989,7 +989,7 @@
    }
   ],
   "price": 2299,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/dde08b65-2068-429c-b75f-48e9b9a0c1b6.webp"
  },
  {
   "id": "ff6f3967-e9ab-474d-b919-32f9eeaeb594",
@@ -1053,7 +1053,7 @@
    }
   ],
   "price": 5136,
-  "imageUrl": "https://file.bitmain.com/shop-image-storage/product/2023/09/27/13/0a499ee7-84e0-4d26-b1b6-47123571ab4d_540.jpg"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/778bf749-0397-466b-8885-2fec96131979.webp"
  },
  {
   "id": "1c67a5d6-74c0-4125-9295-e131b8d7d08f",
@@ -1085,7 +1085,7 @@
    }
   ],
   "price": 3340,
-  "imageUrl": "https://www.minandovoy.com/wp-content/uploads/2023/09/bitmain-antminer-x5-xmr.webp"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/f492fd26-c774-4ccc-894a-b25ed797943a.webp"
  },
  {
   "id": "f019d578-0f8a-412c-b512-d0b03791a053",
@@ -1149,7 +1149,7 @@
    }
   ],
   "price": 5400,
-  "imageUrl": "https://www.rigsmineria.com/wp-content/uploads/2025/01/e11-antminer-ETC.jpg"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/dedb9e9c-7928-4d4a-bd14-d0cb4e8ffbd1.webp"
  },
  {
   "id": "2224854d-55fe-4801-ac42-0cba125ada85",
@@ -1165,7 +1165,7 @@
    }
   ],
   "price": 5400,
-  "imageUrl": "https://asicfox.ua/wp-content/uploads/2024/04/antminer-s21-pro-1.png"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/2224854d-55fe-4801-ac42-0cba125ada85.webp"
  },
  {
   "id": "cb7a0e0a-d793-48bd-84b3-08e98cacac35",
@@ -1181,7 +1181,7 @@
    }
   ],
   "price": 1350,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/cb7a0e0a-d793-48bd-84b3-08e98cacac35.webp"
  },
  {
   "id": "51248081-7905-45cd-bb4b-54c6dab0ef8e",
@@ -1197,7 +1197,7 @@
    }
   ],
   "price": 898,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/51248081-7905-45cd-bb4b-54c6dab0ef8e.webp"
  },
  {
   "id": "1e42631a-5b52-4b7b-b33e-23f8fefa49dc",
@@ -1213,7 +1213,7 @@
    }
   ],
   "price": null,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/1e42631a-5b52-4b7b-b33e-23f8fefa49dc.webp"
  },
  {
   "id": "c92cc2c3-bb4e-459d-91a0-65bef2ca1529",
@@ -1261,7 +1261,7 @@
    }
   ],
   "price": 3397,
-  "imageUrl": "https://www.cryptominerbros.com/wp-content/uploads/2024/07/Antminer-S21-Imm.webp"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/ed7b6dcc-61b5-470d-82ca-762d7c3be9ba.webp"
  },
  {
   "id": "0f3c3c2c-1249-42ed-92eb-db4190d7d1e9",
@@ -1389,7 +1389,7 @@
    }
   ],
   "price": 2999,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/57f786ef-7c90-48a3-b71b-dd5a29f849fd.webp"
  },
  {
   "id": "aceaabc8-3303-418c-8f6f-b23c9a762fb5",
@@ -1405,7 +1405,7 @@
    }
   ],
   "price": 1299,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/aceaabc8-3303-418c-8f6f-b23c9a762fb5.webp"
  },
  {
   "id": "19a36eb9-e1c3-41fb-96e8-c713162d3a13",
@@ -1485,7 +1485,7 @@
    }
   ],
   "price": 1260,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/5db1b4bc-f35e-43f1-8905-3867df30af3c.webp"
  },
  {
   "id": "7141a89f-f388-42bd-af4c-5fd4c901b08b",
@@ -1501,7 +1501,7 @@
    }
   ],
   "price": 6700,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/7141a89f-f388-42bd-af4c-5fd4c901b08b.webp"
  },
  {
   "id": "8dee58f9-1461-461e-8bcf-9f6cb940508d",
@@ -1565,7 +1565,7 @@
    }
   ],
   "price": 395,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/3a6366c1-e718-4bfc-9fa9-549d164cb94d.webp"
  },
  {
   "id": "76e4d6b2-d13b-4e4a-bce9-dc492ea82893",
@@ -1629,7 +1629,7 @@
    }
   ],
   "price": 2469,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/38bac3ca-ec47-45da-93ce-56cef8a3ca31.webp"
  },
  {
   "id": "21456d7f-4ba0-4618-94a5-86881a338a40",
@@ -1645,7 +1645,7 @@
    }
   ],
   "price": 1093,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/21456d7f-4ba0-4618-94a5-86881a338a40.webp"
  },
  {
   "id": "4faba9a8-5867-4973-8d41-c10090c21a7a",
@@ -1693,7 +1693,7 @@
    }
   ],
   "price": 9300,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/ae3a5fe9-01d5-4919-922d-2f3b75c26cc7.webp"
  },
  {
   "id": "895d532a-e740-4936-a1ed-814e0391659a",
@@ -1709,7 +1709,7 @@
    }
   ],
   "price": 13050,
-  "imageUrl": "https://images-production.whattomine.com/ij4i7opeswzfaq0v0ln3ky7xxaoo"
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/895d532a-e740-4936-a1ed-814e0391659a.webp"
  },
  {
   "id": "6dbe02b6-a63d-4fbe-9d28-33efec0506aa",
@@ -1741,7 +1741,7 @@
    }
   ],
   "price": 1428,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/1040771f-cf46-47e5-8afd-00fd92b8c123.webp"
  },
  {
   "id": "6e99a37b-7780-43d0-ba46-aa96ca81c974",
@@ -1757,7 +1757,7 @@
    }
   ],
   "price": 1699,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/6e99a37b-7780-43d0-ba46-aa96ca81c974.webp"
  },
  {
   "id": "3c05db31-c95a-4dd4-afc0-f42350ada576",
@@ -1805,7 +1805,7 @@
    }
   ],
   "price": 3550,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/9b2d8ae1-d364-417e-a2b0-dcbd339cb7fb.webp"
  },
  {
   "id": "0142c4bb-4d8f-4340-b3c0-4992c11b5e66",
@@ -1853,7 +1853,7 @@
    }
   ],
   "price": 1799,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/43b794e8-9427-466b-958c-7dceb296cd70.webp"
  },
  {
   "id": "dfef33db-6425-4257-99c0-801cc7b77635",
@@ -1869,7 +1869,7 @@
    }
   ],
   "price": 2100,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/dfef33db-6425-4257-99c0-801cc7b77635.webp"
  },
  {
   "id": "2a897c1f-9631-4e6c-9d0b-e21e4697a6bc",
@@ -1885,7 +1885,7 @@
    }
   ],
   "price": 2200,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/2a897c1f-9631-4e6c-9d0b-e21e4697a6bc.webp"
  },
  {
   "id": "73e5a7be-c21b-4c1e-b61e-5f1b336cc720",
@@ -1901,7 +1901,7 @@
    }
   ],
   "price": 739,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/73e5a7be-c21b-4c1e-b61e-5f1b336cc720.webp"
  },
  {
   "id": "a281778e-d3f1-44ac-91c7-43cac2c92361",
@@ -1917,7 +1917,7 @@
    }
   ],
   "price": 6300,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/a281778e-d3f1-44ac-91c7-43cac2c92361.webp"
  },
  {
   "id": "4ec4673f-ff86-4bf9-81c4-6ba7815b79cd",
@@ -1933,7 +1933,7 @@
    }
   ],
   "price": 2699,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/4ec4673f-ff86-4bf9-81c4-6ba7815b79cd.webp"
  },
  {
   "id": "56041400-88e4-4d2f-8ce8-250580778505",
@@ -2013,7 +2013,7 @@
    }
   ],
   "price": 2200,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/95365e19-40c1-4e72-a943-fb2dafde2db4.webp"
  },
  {
   "id": "88e527ab-161e-40de-ab36-fdcb56c51e80",
@@ -2093,7 +2093,7 @@
    }
   ],
   "price": 585,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/639bf68a-affe-413d-ba4f-7d6f78b1a734.webp"
  },
  {
   "id": "49acc9f3-d162-4fd9-bdf6-36ab4fe4b073",
@@ -2109,7 +2109,7 @@
    }
   ],
   "price": 2377,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/49acc9f3-d162-4fd9-bdf6-36ab4fe4b073.webp"
  },
  {
   "id": "38f09df3-8096-487a-b057-ffc9d62888c8",
@@ -2125,7 +2125,7 @@
    }
   ],
   "price": 1179,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/38f09df3-8096-487a-b057-ffc9d62888c8.webp"
  },
  {
   "id": "e5f51352-dbee-4402-a1a9-9612a1803e46",
@@ -2141,7 +2141,7 @@
    }
   ],
   "price": 4100,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/e5f51352-dbee-4402-a1a9-9612a1803e46.webp"
  },
  {
   "id": "1c260d6f-f39b-4ae2-81b1-c1aae3920e5b",
@@ -2157,7 +2157,7 @@
    }
   ],
   "price": 1349,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/1c260d6f-f39b-4ae2-81b1-c1aae3920e5b.webp"
  },
  {
   "id": "2f5edace-d4f6-4826-9fc6-4afd0fa6f927",
@@ -2173,7 +2173,7 @@
    }
   ],
   "price": 995,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/2f5edace-d4f6-4826-9fc6-4afd0fa6f927.webp"
  },
  {
   "id": "1d90e2c1-2d7f-4d4c-85ac-98af23a84751",
@@ -2189,7 +2189,7 @@
    }
   ],
   "price": 2630,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/1d90e2c1-2d7f-4d4c-85ac-98af23a84751.webp"
  },
  {
   "id": "e1de24b0-03af-49e6-a1f1-eee1dba9073c",
@@ -2205,7 +2205,7 @@
    }
   ],
   "price": 1535,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/e1de24b0-03af-49e6-a1f1-eee1dba9073c.webp"
  },
  {
   "id": "95409cae-8290-4e1b-a284-d751411bbdd8",
@@ -2269,7 +2269,7 @@
    }
   ],
   "price": 4199,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/8d1e5759-b013-47a9-bfae-09596b08bde4.webp"
  },
  {
   "id": "29de41aa-b5cc-4831-a84e-39001497ef96",
@@ -2301,6 +2301,6 @@
    }
   ],
   "price": 4598,
-  "imageUrl": null
+  "imageUrl": "https://brunec22.github.io/minerspal-data/hashrate/api/v2/mining-equipment/images/asics/a0188f3b-e3d5-4551-89c6-345b9ebef0b1.webp"
  }
 ]
