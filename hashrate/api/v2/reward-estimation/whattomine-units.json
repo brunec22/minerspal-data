@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T23:19:38Z",
+ "updatedAt": "2026-11-27T09:06:38Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -204,12 +204,6 @@
    "algorithm": "Cuckatoo31",
    "unit": 1,
    "unitLabel": "h/s"
-  },
-  "NEOX": {
-   "id": 351,
-   "algorithm": "KawPow",
-   "unit": 1000000.0,
-   "unitLabel": "Mh/s"
   },
   "NEXA": {
    "id": 357,
