@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T09:06:38Z",
+ "updatedAt": "2026-11-27T19:39:23Z",
  "coins": {
   "ABEL": {
    "id": 397,
@@ -168,12 +168,6 @@
    "algorithm": "Kadena",
    "unit": 1000000000000.0,
    "unitLabel": "Th/s"
-  },
-  "KLS": {
-   "id": 428,
-   "algorithm": "Karlsenhashv2",
-   "unit": 1000000.0,
-   "unitLabel": "Mh/s"
   },
   "LKY": {
    "id": 436,
