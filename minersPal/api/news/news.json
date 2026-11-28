@@ -1,6 +1,214 @@
 {
  "results": [
   {
+   "slug": "binance-withdrawals-are-back-after-october-s-hack-and-here-s-why-yours-might-sti",
+   "title": "Binance withdrawals are back after October’s hack and here’s why yours might still be blocked",
+   "description": "Binance said it lifted the October suspension on Nov. 26, and customers can still encounter network maintenance or account restrictions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in…",
+   "published_at": "2026-11-28T02:10:31Z",
+   "created_at": "2026-11-28T02:10:31Z",
+   "url": "https://cryptoslate.com/binance-withdrawals-are-back-after-octobers-hack-and-heres-why-yours-might-still-be-blocked/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/01-binance-open-gate.webp"
+  },
+  {
+   "slug": "israeli-bank-lets-customers-buy-bitcoin-but-charges-them-2-to-get-in-and-2-to-ge",
+   "title": "Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out",
+   "description": "The app blocks transfers to outside wallets and institutions and charges 2% on each buy or sell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-28T00:50:45Z",
+   "created_at": "2026-11-28T00:50:45Z",
+   "url": "https://cryptoslate.com/israeli-bank-lets-customers-buy-bitcoin-but-charges-them-2-to-get-in-and-2-to-get-out/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/01-discount-bitcoin-trading-counter.webp",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "hyperliquid-hype-solana-sol-and-artificial-superintelligence-alliance-fet-price-",
+   "title": "Hyperliquid (HYPE), Solana (SOL) and Artificial Superintelligence Alliance (FET) Price Analysis for November 28: Market Bounce Is Deceiving",
+   "description": "HYPE, SOL and FET are attempting a rebound, but weak daily charts and nearby resistance leave the recovery unconfirmed.",
+   "published_at": "2026-11-28T00:01:00Z",
+   "created_at": "2026-11-28T00:01:00Z",
+   "url": "https://u.today/price-analysis/hyperliquid-hype-solana-sol-and-artificial-superintelligence-alliance-fet-price-analysis-for",
+   "source": "U.Today",
+   "category": "Markets",
+   "coins": [
+    "SOL"
+   ]
+  },
+  {
+   "slug": "chainflip-identifies-who-lost-money-in-12-6-million-hack-as-recovery-plan-takes-",
+   "title": "Chainflip identifies who lost money in $12.6 million hack as recovery plan takes shape",
+   "description": "The affected-user list gives Chainflip a basis for a recovery fund proposal, but the report gave no payout date. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-27T23:10:30Z",
+   "created_at": "2026-11-27T23:10:30Z",
+   "url": "https://cryptoslate.com/chainflip-identifies-who-lost-money-in-12-6-million-hack-as-recovery-plan-takes-shape/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/01-indexed-loss-ledger.webp"
+  },
+  {
+   "slug": "solana-sol-suffers-its-worst-year-so-far-is-more-pain-ahead",
+   "title": "Solana (SOL) Suffers Its Worst Year So Far: Is More Pain Ahead?",
+   "description": "\"SOL at $70 could be the biggest trap of this cycle,\" one analyst claimed.",
+   "published_at": "2026-11-27T22:44:09Z",
+   "created_at": "2026-11-27T22:44:09Z",
+   "url": "https://cryptopotato.com/solana-sol-suffers-its-worst-year-so-far-is-more-pain-ahead/",
+   "source": "CryptoPotato",
+   "image": "https://cryptopotato.com/wp-content/uploads/2025/12/SOL_CB.jpg",
+   "category": "Altcoins",
+   "coins": [
+    "SOL"
+   ]
+  },
+  {
+   "slug": "here-s-what-happened-in-crypto-today",
+   "title": "Here’s what happened in crypto today",
+   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "published_at": "2026-11-27T22:12:51Z",
+   "created_at": "2026-11-27T22:12:51Z",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+   "source": "Cointelegraph",
+   "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+   "category": "Markets"
+  },
+  {
+   "slug": "bitcoin-privacy-weakness-links-wallet-addresses-to-network-nodes-in-30-out-of-30",
+   "title": "Bitcoin privacy weakness links wallet addresses to network nodes in 30 out of 30 tests",
+   "description": "Abubakar Sadiq Ismail reported 30 correct matches in a controlled test and says watch-only wallets can expose the same link. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-27T21:50:59Z",
+   "created_at": "2026-11-27T21:50:59Z",
+   "url": "https://cryptoslate.com/bitcoin-privacy-weakness-links-wallet-addresses-to-network-nodes-in-30-out-of-30-tests/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-wallet-privacy-echo.webp",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "openai-turns-the-tables-on-apple-with-its-own-trade-secret-theft-claims",
+   "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+   "description": "The ChatGPT maker’s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
+   "published_at": "2026-11-27T21:46:03Z",
+   "created_at": "2026-11-27T21:46:03Z",
+   "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+   "source": "Decrypt",
+   "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png"
+  },
+  {
+   "slug": "scaramucci-says-jpmorgan-could-spend-up-to-1-billion-on-its-bitcoin-business",
+   "title": "Scaramucci Says JPMorgan Could Spend Up to $1 Billion on Its Bitcoin Business",
+   "description": "Anthony Scaramucci estimates JPMorgan could spend $500 million to $1 billion building its Bitcoin business. He says that figure reveals more about the bank’s plans than CEO Jamie Dimon’s “pet rock” remark.",
+   "published_at": "2026-11-27T21:41:44Z",
+   "created_at": "2026-11-27T21:41:44Z",
+   "url": "https://u.today/scaramucci-says-jpmorgan-could-spend-up-to-1-billion-on-its-bitcoin-business",
+   "source": "U.Today",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "franklin-templeton-makes-room-for-hype-in-crypto-index-etf",
+   "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+   "description": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.",
+   "published_at": "2026-11-27T21:15:29Z",
+   "created_at": "2026-11-27T21:15:29Z",
+   "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
+   "source": "Cointelegraph",
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
+   "category": "Markets"
+  },
+  {
+   "slug": "binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-3b-hack",
+   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.3B Hack",
+   "description": "Binance reopened withdrawals in order of user demand, 15 networks first and 87 more in the week to November 14.",
+   "published_at": "2026-11-27T21:05:00Z",
+   "created_at": "2026-11-27T21:05:00Z",
+   "url": "https://cryptopotato.com/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-3b-hack/",
+   "source": "CryptoPotato",
+   "image": "https://cryptopotato.com/wp-content/uploads/2025/04/Binance_Bitcoin.jpg"
+  },
+  {
+   "slug": "could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+   "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+   "description": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
+   "published_at": "2026-11-27T20:46:02Z",
+   "created_at": "2026-11-27T20:46:02Z",
+   "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+   "source": "Decrypt",
+   "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-ba",
+   "title": "XRP holders face a choice between earning more yield and getting their tokens back",
+   "description": "Spectra’s February market keeps XRP-linked exposure on Flare, while getting native XRP back takes a separate redemption. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "published_at": "2026-11-27T20:30:25Z",
+   "created_at": "2026-11-27T20:30:25Z",
+   "url": "https://cryptoslate.com/xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-back/",
+   "source": "CryptoSlate",
+   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-redemption-pool-valve.webp",
+   "category": "Altcoins",
+   "coins": [
+    "XRP"
+   ]
+  },
+  {
+   "slug": "4-scary-bitcoin-charts-that-suggest-this-bear-market-is-different",
+   "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+   "description": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
+   "published_at": "2026-11-27T19:46:02Z",
+   "created_at": "2026-11-27T19:46:02Z",
+   "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+   "source": "Decrypt",
+   "image": "https://cdn.decrypt.co/wp-content/uploads/2024/04/bear-holding-bitcoin-btc-gID_7.jpeg",
+   "category": "Markets",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
+   "slug": "this-is-why-arthur-hayes-expects-a-volatile-weekend-for-crypto",
+   "title": "This Is Why Arthur Hayes Expects a Volatile Weekend for Crypto",
+   "description": "Bitcoin's reaction to the October 29 Fed meeting shows how quickly price moves can reverse within hours after a central bank policy decision.",
+   "published_at": "2026-11-27T19:36:49Z",
+   "created_at": "2026-11-27T19:36:49Z",
+   "url": "https://cryptopotato.com/this-is-why-arthur-hayes-expects-a-volatile-weekend-for-crypto/",
+   "source": "CryptoPotato",
+   "image": "https://cryptopotato.com/wp-content/uploads/2024/01/Bitcoin_Volatility.jpg",
+   "category": "Markets"
+  },
+  {
+   "slug": "how-primexbt-s-tradingview-integration-helps-traders-navigate-always-on-crypto-m",
+   "title": "How PrimeXBT’s TradingView Integration Helps Traders Navigate Always-on Crypto Markets",
+   "description": "Bitcoin can move sharply overnight, during a weekend or while a trader is away from their screen. By the time they check the price again, a level they were watching may already have been broken. That is why alerts, technical indicators and tools for testing…",
+   "published_at": "2026-11-27T19:36:08Z",
+   "created_at": "2026-11-27T19:36:08Z",
+   "url": "https://www.newsbtc.com/crypto-news/how-primexbts-tradingview-integration-helps-traders-navigate-always-on-crypto-markets/",
+   "source": "NewsBTC",
+   "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/easagd.jpg",
+   "category": "Markets"
+  },
+  {
+   "slug": "bitcoin-whales-pile-into-btc-despite-shrinking-profit-cushion",
+   "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+   "description": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+   "published_at": "2026-11-27T19:23:00Z",
+   "created_at": "2026-11-27T19:23:00Z",
+   "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion",
+   "source": "Cointelegraph",
+   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EZRZTWET1C6FPBGDJZHHK2/diamond-encased-bitcoins.png",
+   "category": "Bitcoin",
+   "coins": [
+    "BTC"
+   ]
+  },
+  {
    "slug": "give-it-up-saylor-fires-back-at-infamous-bitcoin-critic",
    "title": "‘Give It Up’: Saylor Fires Back at Infamous Bitcoin Critic",
    "description": "Strategy co-founder Michael Saylor pushed back after Jeffrey A. Tucker told Bitcoiners to “give it up,” arguing that Bitcoin can compete with gold, stocks and real estate for people’s savings even when they pay for groceries in dollars.",
@@ -429,20 +637,6 @@
    ]
   },
   {
-   "slug": "bitcoin-s-turbulent-week-has-created-a-16-billion-opportunity-for-a-short-squeez",
-   "title": "Bitcoin’s turbulent week has created a $16 billion opportunity for a short squeeze",
-   "description": "Bitcoin is trying to recover after a volatile week. If buying carries it higher, leveraged short sellers forced to close their positions could add to the rebound. Bitcoin traded at $61,436 at 13:09 UTC on Nov. 27, down 0.2% over the previous seven days…",
-   "published_at": "2026-11-27T14:10:23Z",
-   "created_at": "2026-11-27T14:10:23Z",
-   "url": "https://cryptoslate.com/bitcoins-turbulent-week-has-created-a-16-billion-opportunity-for-a-short-squeeze/",
-   "source": "CryptoSlate",
-   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-liquidation-domino-line.webp",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
    "slug": "crypto-price-analysis-nov-27-eth-xrp-ada-bnb-and-hype",
    "title": "Crypto Price Analysis Nov-27: ETH, XRP, ADA, BNB, and HYPE",
    "description": "Today, we examine Ethereum, Ripple, Cardano, Binance Coin, and Hyperliquid in greater detail. Ethereum (ETH) After several weeks of price declines without relief, buyers have finally returned at the $1,500 key support, allowing ETH to bounce. However, the…",
@@ -523,208 +717,6 @@
    ]
   },
   {
-   "slug": "japan-weighs-safeguards-for-bitcoin-holders-who-keep-their-own-keys",
-   "title": "Japan weighs safeguards for Bitcoin holders who keep their own keys",
-   "description": "Japan’s financial regulator is examining what exchanges can do to prevent scams and what could protect users after a withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-27T13:40:56Z",
-   "created_at": "2026-11-27T13:40:56Z",
-   "url": "https://cryptoslate.com/japan-weighs-safeguards-for-bitcoin-holders-who-keep-their-own-keys/",
-   "source": "CryptoSlate",
-   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-self-custody-guardrail.webp",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "cardano-s-next-chapter-euler-named-as-major-upgrade-after-dijkstra",
-   "title": "Cardano’s Next Chapter: Euler Named as Major Upgrade After Dijkstra",
-   "description": "Cardano reveals what's coming next after Dijkstra hard fork.",
-   "published_at": "2026-11-27T13:40:43Z",
-   "created_at": "2026-11-27T13:40:43Z",
-   "url": "https://u.today/cardanos-next-chapter-euler-named-as-major-upgrade-after-dijkstra",
-   "source": "U.Today",
-   "category": "Altcoins",
-   "coins": [
-    "ADA"
-   ]
-  },
-  {
-   "slug": "galaxy-withdraws-call-that-bitcoin-s-bear-market-ended-in-june",
-   "title": "Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June",
-   "description": "Bitcoin Magazine Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June Galaxy Research withdrew its October call that bitcoin's bear market ended in June and said a daily close below $58,525 would signal a move to a materially lower low. This post…",
-   "published_at": "2026-11-27T13:30:00Z",
-   "created_at": "2026-11-27T13:30:00Z",
-   "url": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear",
-   "source": "Bitcoin Magazine",
-   "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Galaxy-Withdraws-Call-That-Bitcoins-Bear-Market-Ended-in-June.jpg",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "here-s-what-happened-in-crypto-today",
-   "title": "Here’s what happened in crypto today",
-   "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "published_at": "2026-11-27T13:28:26Z",
-   "created_at": "2026-11-27T13:28:26Z",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-   "source": "Cointelegraph",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-   "category": "Markets"
-  },
-  {
-   "slug": "binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
-   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
-   "description": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
-   "published_at": "2026-11-27T13:24:17Z",
-   "created_at": "2026-11-27T13:24:17Z",
-   "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
-   "source": "Decrypt",
-   "image": "https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg"
-  },
-  {
-   "slug": "kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
-   "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
-   "description": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
-   "published_at": "2026-11-27T13:19:10Z",
-   "created_at": "2026-11-27T13:19:10Z",
-   "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
-   "source": "CoinDesk",
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/f19cbe2eff297e6c2bd76b21568ebd507b6b42b2-6016x3600.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "category": "Markets"
-  },
-  {
-   "slug": "stellar-xlm-sees-22-weekly-drop-in-dex-volume-while-its-rwa-market-hits-4-3-bill",
-   "title": "Stellar (XLM) Sees 22% Weekly Drop in DEX Volume, while Its RWA Market Hits $4.3 Billion",
-   "description": "Stellar (XLM) is attempting to recover from its recent decline, but a 23.48% drop in spot trading volume and a 35.21% decline in futures activity suggest that market participation remains weak.",
-   "published_at": "2026-11-27T13:10:00Z",
-   "created_at": "2026-11-27T13:10:00Z",
-   "url": "https://u.today/stellar-xlm-sees-22-weekly-drop-in-dex-volume-while-its-rwa-market-hits-43-billion",
-   "source": "U.Today",
-   "category": "Markets"
-  },
-  {
-   "slug": "xrp-investors-face-a-major-warning-as-binance-deposit-activity-hits-a-7-year-hig",
-   "title": "XRP Investors Face a Major Warning as Binance Deposit Activity Hits a 7-Year High",
-   "description": "Binance's XRP deposit share has surged to its highest level since 2019.",
-   "published_at": "2026-11-27T13:03:54Z",
-   "created_at": "2026-11-27T13:03:54Z",
-   "url": "https://cryptopotato.com/xrp-investors-face-a-major-warning-as-binance-deposit-activity-hits-a-7-year-high/",
-   "source": "CryptoPotato",
-   "image": "https://cryptopotato.com/wp-content/uploads/2025/07/Ripple_Binance.jpg",
-   "category": "Altcoins",
-   "coins": [
-    "XRP"
-   ]
-  },
-  {
-   "slug": "bit-digital-borrowed-against-ethereum-to-fund-ai-and-now-its-crypto-treasury-is-",
-   "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price",
-   "description": "The sale left $50 million owed to Galaxy and 69,089 LsETH pledged while WhiteFiber’s separate bridge loan remained outstanding. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-   "published_at": "2026-11-27T12:40:54Z",
-   "created_at": "2026-11-27T12:40:54Z",
-   "url": "https://cryptoslate.com/bit-digital-borrowed-against-ethereum-to-fund-ai-and-now-its-crypto-treasury-is-paying-the-price/",
-   "source": "CryptoSlate",
-   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ether-sale-server-bridge.webp",
-   "category": "Markets",
-   "coins": [
-    "ETH"
-   ]
-  },
-  {
-   "slug": "brazil-s-stock-exchange-pushes-stablecoin-launch-back-to-2027",
-   "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
-   "description": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
-   "published_at": "2026-11-27T12:39:54Z",
-   "created_at": "2026-11-27T12:39:54Z",
-   "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027",
-   "source": "Cointelegraph",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8ECVDEP6CX274CQ1JV8JWWX/stablecoin-delayed-launch.png",
-   "category": "Markets"
-  },
-  {
-   "slug": "after-95-crash-can-shiba-inu-shib-hit-500-million-christmas-rally",
-   "title": "After 95% Crash, Can Shiba Inu (SHIB) Hit $500 Million Christmas Rally?",
-   "description": "Shiba Inu (SHIB) rebounds off multi-year lows with a bullish RSI signal, eyeing a $500 million recovery despite four losing Decembers out of five.",
-   "published_at": "2026-11-27T12:32:05Z",
-   "created_at": "2026-11-27T12:32:05Z",
-   "url": "https://u.today/after-95-crash-can-shiba-inu-shib-hit-500-million-christmas-rally",
-   "source": "U.Today",
-   "category": "Markets",
-   "coins": [
-    "SHIB"
-   ]
-  },
-  {
-   "slug": "austria-supervised-crypto-firms-report-20-4b-euros-in-h1-trading-volume",
-   "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
-   "description": "About 74% of accounts were based in other EEA countries, highlighting the market’s cross-border nature and putting Europe’s supervisory framework in focus, FMA said.",
-   "published_at": "2026-11-27T12:20:00Z",
-   "created_at": "2026-11-27T12:20:00Z",
-   "url": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume",
-   "source": "Cointelegraph",
-   "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EEEQZE84TRC860G2SR2NYP/hi-electricity-administrative-reform-new-tax-rules-how-blockchain-is-reaching-austria-copy.jpg",
-   "category": "Markets"
-  },
-  {
-   "slug": "bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
-   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
-   "description": "Your day-ahead look for Nov. 27, 2026",
-   "published_at": "2026-11-27T12:16:07Z",
-   "created_at": "2026-11-27T12:16:07Z",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
-   "source": "CoinDesk",
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fe60647c4d6e45dd1a83f196fe8f288a3b88372-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
-   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
-   "description": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
-   "published_at": "2026-11-27T11:45:47Z",
-   "created_at": "2026-11-27T11:45:47Z",
-   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
-   "source": "CoinDesk",
-   "image": "https://cdn.sanity.io/images/s3y3vcno/production/8fdf990d20028914aff13266e168a04637bfd7f4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-   "category": "Markets",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "pi-network-s-upcoming-events-a-potential-btc-buying-opportunity-and-more-bits-re",
-   "title": "Pi Network’s Upcoming Events, a Potential BTC Buying Opportunity, and More: Bits Recap Nov. 27",
-   "description": "A closer look at everything most interesting surrounding PI, BTC, and HYPE.",
-   "published_at": "2026-11-27T11:45:21Z",
-   "created_at": "2026-11-27T11:45:21Z",
-   "url": "https://cryptopotato.com/pi-networks-upcoming-events-a-potential-btc-buying-opportunity-and-more-bits-recap-nov-27/",
-   "source": "CryptoPotato",
-   "image": "https://cryptopotato.com/wp-content/uploads/2026/11/Recap_CB-47.jpg",
-   "category": "Bitcoin",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
-   "slug": "bitcoin-miners-are-shutting-down-machines-but-mining-just-got-even-harder",
-   "title": "Bitcoin miners are shutting down machines, but mining just got even harder",
-   "description": "From a hypothetical $60,000, a move to about $64,570 would restore expected gross dollar revenue per unit of mining power at unchanged fees. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst…",
-   "published_at": "2026-11-27T11:20:06Z",
-   "created_at": "2026-11-27T11:20:06Z",
-   "url": "https://cryptoslate.com/bitcoin-miners-are-shutting-down-machines-but-mining-just-got-even-harder/",
-   "source": "CryptoSlate",
-   "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-mining-price-counterweight.webp",
-   "category": "Mining",
-   "coins": [
-    "BTC"
-   ]
-  },
-  {
    "slug": "mexc-launches-golden-gratitude-gala-with-a-10m-usdt-prize-pool-including-a-gold-",
    "title": "MEXC Launches Golden Gratitude Gala With a 10M USDT Prize Pool, Including a Gold Bar and BTC",
    "description": "Mutsamudu, Comoros, November 27, 2026 – MEXC, a pioneer in 0-fee digital asset trading, announced the launch of the Golden Gratitude Gala. In appreciation of users’ support over the past year, the event features MEXC’s largest prize pool of the year, with up…",
@@ -754,5 +746,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T19:27:17Z"
+ "updatedAt": "2026-11-28T02:39:29Z"
 }
